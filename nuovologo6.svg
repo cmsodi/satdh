@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="70"
+   width="180"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="nuovologo6.svg"
+   inkscape:version="1.3-dev (ca8838b, 2022-12-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="4.6845824"
+   inkscape:cx="96.593455"
+   inkscape:cy="35.969054"
+   inkscape:window-width="1920"
+   inkscape:window-height="1000"
+   inkscape:window-x="0"
+   inkscape:window-y="49"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg5" />
+<defs
+   id="defs4">
+  <linearGradient
+     id="grad1"
+     x1="0"
+     y1="16.035675"
+     x2="112.24972"
+     y2="16.035675"
+     gradientTransform="matrix(1.6035675,0,0,0.62360956,0,-10)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       style="stop-color:rgb(0,0,255);stop-opacity:1"
+       id="stop1" />
+    <stop
+       offset="100%"
+       style="stop-color:rgb(255,0,0);stop-opacity:1"
+       id="stop2" />
+  </linearGradient>
+  <linearGradient
+     id="gradEarth">
+    <stop
+       offset="40%"
+       stop-color="SandyBrown"
+       id="stop3" />
+    <stop
+       offset="60%"
+       stop-color="#5C3317"
+       id="stop4" />
+  </linearGradient>
+</defs>
+<ellipse
+   cx="90"
+   cy="35"
+   rx="90"
+   ry="35"
+   fill="url(#grad1)"
+   id="ellipse5"
+   style="fill:url(#grad1)" />
+<text
+   fill="#ffffff"
+   font-size="46.0279px"
+   font-family="verdana"
+   x="24.121544"
+   y="51.272751"
+   id="text5"
+   transform="scale(1.0437633,0.95807164)"
+   style="stroke-width:1.53427">satdh</text>
+
+
+Sorry, your browser does not support inline SVG.
+</svg>

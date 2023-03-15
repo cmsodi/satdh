@@ -1,0 +1,76 @@
+import openai
+import time
+
+# Initialize OpenAI API with your API key
+openai.api_key = "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"
+
+# Define a function to prompt the GPT model with a given text prompt and receive a response
+def generate_text(prompt):
+    response = openai.Completion.create(
+        engine="davinci",
+        prompt=prompt,
+        temperature=0.7,
+        max_tokens=1024,
+        top_p=1,
+        frequency_penalty=0,
+        presence_penalty=0
+    )
+    time.sleep(1)  # Wait for 1 second to avoid hitting the API rate limit
+    return response.choices[0].text.strip()
+
+# Prompt the user for the essay outline
+outline_prompt = "Please provide an outline for your essay."
+outline = input(outline_prompt)
+
+# Generate an initial answer using the essay outline
+answer = generate_text(outline)
+
+# Ask the user if they accept the initial answer
+accept_prompt = "Here's an initial answer based on your outline: " + answer + "\n\nDo you accept this answer? (yes or no)"
+accept = input(accept_prompt)
+
+# Keep generating paragraphs until the user is satisfied or there are no more paragraphs to generate
+paragraph_number = 1
+while True:
+    if accept.lower() == "yes":
+        # Generate the first paragraph based on the initial answer
+        paragraph_prompt = "Please provide more details for paragraph " + str(paragraph_number) + ".\n\n" + answer
+        paragraph = generate_text(paragraph_prompt)
+        
+        # Ask the user if they accept the paragraph
+        accept_prompt = "Here's the content for paragraph " + str(paragraph_number) + ": " + paragraph + "\n\nDo you accept this content? (yes or no)"
+        accept = input(accept_prompt)
+        
+        # If the user accepts the paragraph, ask if there's another paragraph to generate
+        if accept.lower() == "yes":
+            next_prompt = "Is there another paragraph you would like to generate? (yes or no)"
+            next_paragraph = input(next_prompt)
+            
+            # If there's another paragraph, generate it and repeat the loop
+            if next_paragraph.lower() == "yes":
+                paragraph_number += 1
+            # If there are no more paragraphs, generate the summaries and keywords and exit the loop
+            else:
+                summary1_prompt = "Here's a 60-word summary of your essay:\n\n" + generate_text(outline + "\n\n" + paragraph)
+                summary2_prompt = "Here's a 350-word summary of your essay:\n\n" + generate_text(outline + "\n\n" + paragraph)
+                keywords_prompt = "Here are some SEO keywords for your essay:\n\n" + generate_text(outline + "\n\n" + paragraph)
+                print(summary1_prompt)
+                print(summary2_prompt)
+                print(keywords_prompt)
+                break
+        # If the user doesn't accept the paragraph, generate a new one based on their feedback
+        else:
+            change_prompt = "What would you like to change or improve about the current content?"
+            feedback = input(change_prompt)
+            paragraph_prompt = "Please provide more details for paragraph " + str(paragraph_number) + ".\n\n" + feedback
+            paragraph = generate_text(paragraph_prompt)
+            accept_prompt = "Here's the revised content for paragraph " + str(paragraph_number) + ": " + paragraph + "\n\nDo you accept this content? (yes or no)"
+            accept = input(accept_prompt)
+    # If the user doesn't accept the initial answer, generate a new one based on their feedback
+else:
+    change_prompt = "What would you like to change or improve about the initial answer?"
+    feedback = input(change_prompt)
+    answer_prompt = "Here's a revised answer based on your feedback:\n\n" + feedback
+    answer = generate_text(answer_prompt)
+    accept_prompt = "Here's the revised answer:\n\n" + answer + "\n\nDo you accept this answer? (yes or no)"
+    accept = input(accept_prompt)
