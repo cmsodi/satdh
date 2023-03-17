@@ -1,18 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>usa - country - satdh</title>
-        <link>/countries/usa/</link>
+        <link>cmsodi.github.io/satdh/countries/usa/</link>
         <description>usa - country - satdh</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 03 Feb 2023 12:13:31 &#43;0100</lastBuildDate><atom:link href="/countries/usa/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 03 Feb 2023 12:13:31 &#43;0100</lastBuildDate><atom:link href="cmsodi.github.io/satdh/countries/usa/" rel="self" type="application/rss+xml" /><item>
     <title>Satellite Remote Sensing: Strategic, Technological, and Economic Aspects</title>
-    <link>/articles/satellite-remote-sensing-strategic-technological-and-economic-aspects/</link>
-    <pubDate>Fri, 03 Feb 2023 12:13:31 &#43;0100</pubDate><guid>/articles/satellite-remote-sensing-strategic-technological-and-economic-aspects/</guid>
+    <link>cmsodi.github.io/satdh/articles/satellite-remote-sensing-strategic-technological-and-economic-aspects/</link>
+    <pubDate>Fri, 03 Feb 2023 12:13:31 &#43;0100</pubDate><guid>cmsodi.github.io/satdh/articles/satellite-remote-sensing-strategic-technological-and-economic-aspects/</guid>
     <description><![CDATA[Remote sensing refers to the process of acquiring information about an object or phenomenon from a distance. This information is collected using instruments or sensors that are mounted on platforms such as satellites, aircraft, or drones. The technology has revolutionized the way we study and understand our planet, as well as opened up new opportunities for research and application in a wide range of fields.]]></description>
 </item>
 <item>
     <title>Space Diplomacy</title>
-    <link>/articles/space-diplomacy/</link>
-    <pubDate>Fri, 03 Feb 2023 12:13:31 &#43;0100</pubDate><guid>/articles/space-diplomacy/</guid>
+    <link>cmsodi.github.io/satdh/articles/space-diplomacy/</link>
+    <pubDate>Fri, 03 Feb 2023 12:13:31 &#43;0100</pubDate><guid>cmsodi.github.io/satdh/articles/space-diplomacy/</guid>
     <description><![CDATA[Space diplomacy is the diplomatic effort to balance competition, promote cooperation, and protect interests in the exploration and use of outer space. International treaties, initiatives, and an understanding of the unique needs and priorities of different interests in the space sector are crucial to ensuring stability and a peaceful future.]]></description>
 </item>
 </channel>
