@@ -39,10 +39,10 @@
             <div>
                     
                         
-                        <li class="parent"><a href="../../../pages/about/">the site</a>
+                        <li class="parent"><a href="../../../pages/site/">the site</a>
                         
                     
-                        <li class="parent"><a href="../../../pages/tagging/">taxonomy</a>
+                        <li class="parent"><a href="../../../pages/tagging/">tagging</a>
                         
                             <ul class="child">
                                 
@@ -93,7 +93,7 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="../../../pages/about/" title="">the site</a><a class="menu-item" href="../../../pages/tagging/" title="">taxonomy</a><a class="menu-item" href="../../../articles/" title="">chronology</a><a class="menu-item" href="../../../filter/" title="">📜navigator</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="../../../pages/site/" title="">the site</a><a class="menu-item" href="../../../pages/tagging/" title="">tagging</a><a class="menu-item" href="../../../articles/" title="">chronology</a><a class="menu-item" href="../../../filter/" title="">📜navigator</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
                     <i class="fas fa-adjust fa-fw"></i>
                 </a>
             </div></div>
@@ -242,6 +242,14 @@
 
 
 
+
+
+
+
+
+
+
+
   <h3 style="text-align: center;">✒️ Authors</h3>
 
 <button xx class="section-a btn- btn-sm" id="selectAllAuthors" onclick="htf.showAll('authors')">
@@ -253,6 +261,13 @@
   onclick="htf.checkFilter('cesare-m_-sodi', 'auth-')">
   cesare m. sodi <span class="counter"><span id="sauth-cesare-m_-sodi"> -count-</span>/<span
     id="cauth-cesare-m_-sodi"> -count-</span></span>
+</button>
+
+<button xx class="section-a hide btn- btn-sm auth-button"
+  id="auth-cesare-sodi"
+  onclick="htf.checkFilter('cesare-sodi', 'auth-')">
+  cesare sodi <span class="counter"><span id="sauth-cesare-sodi"> -count-</span>/<span
+    id="cauth-cesare-sodi"> -count-</span></span>
 </button>
 
 <button xx class="section-a hide btn- btn-sm auth-button"
@@ -315,6 +330,11 @@
   
 
 
+  
+
+
+  
+    
   
 
 
@@ -483,6 +503,9 @@
 
 
   
+
+
+  
     
   
 
@@ -521,19 +544,6 @@
   
   <div>
       <button xx class="color2 btn-articles purp-button  hide"
-        id="purp-services"
-        onclick="htf.checkFilter('services', &#34;purp-&#34;)">
-        <span>Services</span>
-        <span class="counter">
-          <span id="spurp-services"> -count-</span>/<span id="cpurp-services"> -count-</span>
-        </span>
-      </button>
-    </div>      
-  
-
-  
-  <div>
-      <button xx class="color2 btn-articles purp-button  hide"
         id="purp-strategy"
         onclick="htf.checkFilter('strategy', &#34;purp-&#34;)">
         <span>Strategy</span>
@@ -547,11 +557,11 @@
   
   <div>
       <button xx class="color2 btn-articles purp-button  hide"
-        id="purp-exploitation"
-        onclick="htf.checkFilter('exploitation', &#34;purp-&#34;)">
-        <span>Exploitation</span>
+        id="purp-services"
+        onclick="htf.checkFilter('services', &#34;purp-&#34;)">
+        <span>Services</span>
         <span class="counter">
-          <span id="spurp-exploitation"> -count-</span>/<span id="cpurp-exploitation"> -count-</span>
+          <span id="spurp-services"> -count-</span>/<span id="cpurp-services"> -count-</span>
         </span>
       </button>
     </div>      
@@ -565,6 +575,19 @@
         <span>Research</span>
         <span class="counter">
           <span id="spurp-research"> -count-</span>/<span id="cpurp-research"> -count-</span>
+        </span>
+      </button>
+    </div>      
+  
+
+  
+  <div>
+      <button xx class="color2 btn-articles purp-button  hide"
+        id="purp-exploitation"
+        onclick="htf.checkFilter('exploitation', &#34;purp-&#34;)">
+        <span>Exploitation</span>
+        <span class="counter">
+          <span id="spurp-exploitation"> -count-</span>/<span id="cpurp-exploitation"> -count-</span>
         </span>
       </button>
     </div>      
@@ -620,6 +643,9 @@
 
   
     
+  
+
+
   
 
 
@@ -700,11 +726,11 @@
   
   <div>
       <button xx class="color3 btn-howtos pers-button  hide"
-        id="pers-corporate"
-        onclick="htf.checkFilter('corporate', &#34;pers-&#34;)">
-        <span>Corporate</span>
+        id="pers-science"
+        onclick="htf.checkFilter('science', &#34;pers-&#34;)">
+        <span>Science</span>
         <span class="counter">
-          <span id="spers-corporate"> -count-</span>/<span id="cpers-corporate"> -count-</span>
+          <span id="spers-science"> -count-</span>/<span id="cpers-science"> -count-</span>
         </span>
       </button>
     </div>      
@@ -713,11 +739,11 @@
   
   <div>
       <button xx class="color3 btn-howtos pers-button  hide"
-        id="pers-science"
-        onclick="htf.checkFilter('science', &#34;pers-&#34;)">
-        <span>Science</span>
+        id="pers-corporate"
+        onclick="htf.checkFilter('corporate', &#34;pers-&#34;)">
+        <span>Corporate</span>
         <span class="counter">
-          <span id="spers-science"> -count-</span>/<span id="cpers-science"> -count-</span>
+          <span id="spers-corporate"> -count-</span>/<span id="cpers-corporate"> -count-</span>
         </span>
       </button>
     </div>      
@@ -789,6 +815,11 @@
   
 
 
+  
+
+
+  
+    
   
 
 
@@ -942,6 +973,11 @@
 
 
 
+
+
+  
+    
+  
 
 
   
@@ -1335,6 +1371,66 @@
               <span style="display:inline">
               👨‍💼
               Pippo
+              </span>
+              
+              <span class="post-publish" style="display:inline">published on <time datetime="2023-02-03">2023-02-03</time></span></div>
+
+          </div>
+        </div>
+
+      </div>
+
+        
+      <div
+        class="tf-filter-item summary"
+        data-section="articles"
+    
+        
+        
+        data-objects=" tfnoobjects"
+        
+        data-purposes="research strategy "
+        
+        data-persons="government science military "      
+        
+        data-countries=" tfnocountries"      
+        
+        data-generics=" tfnogenerics"     
+        
+    
+        data-authors="cesare-sodi"
+        
+      >
+        
+        <div>
+
+            <div class="featured-image-previewff">
+                <a href="../../../articles/space-debris-threat-to-our-space-environment/"><img
+        class="lazyload"
+        src="../../../svg/loading.min.svg"
+        data-src="../../../articles/space-debris-threat-to-our-space-environment/file.jpg"
+        data-srcset="../../../articles/space-debris-threat-to-our-space-environment/file.jpg, ../../../articles/space-debris-threat-to-our-space-environment/file.jpg 1.5x, ../../../articles/space-debris-threat-to-our-space-environment/file.jpg 2x"
+        data-sizes="auto"
+        alt="/articles/space-debris-threat-to-our-space-environment/file.jpg"
+        title="/articles/space-debris-threat-to-our-space-environment/file.jpg" /></a>
+            </div>
+          <small class="text-center" style="padding-left: 20px">
+            ARTICLES
+          </small>
+
+          
+          <div class="card-body"><h2 class="single-title" itemprop="name headline">
+              <a href="../../../articles/space-debris-threat-to-our-space-environment/">Space Debris: Threat to Our Space Environment</a>
+            </h2><a class="content" href="../../../articles/space-debris-threat-to-our-space-environment/">Space debris refers to discarded objects in orbit around Earth that pose a threat to active satellites, space missions and the future of space exploration. These objects, ranging from tiny fragments to defunct satellites, are created through human activities and travel at high speeds, making them hazardous to any spacecraft they collide with. The problem of space debris is increasing and requires action to mitigate its risks.</a>
+        
+
+        
+            
+            <div style="font-size:small; padding-left: 20px;">
+              
+              <span style="display:inline">
+              👨‍💼
+              Cesare Sodi
               </span>
               
               <span class="post-publish" style="display:inline">published on <time datetime="2023-02-03">2023-02-03</time></span></div>
