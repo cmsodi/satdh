@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on satdh</title>
-    <link>cmsodi.github.io/satdh/articles/</link>
+    <link>/articles/</link>
     <description>Recent content in Articles on satdh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 03 Feb 2023 12:13:31 +0100</lastBuildDate><atom:link href="cmsodi.github.io/satdh/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 12:13:31 +0100</lastBuildDate><atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Satellite Remote Sensing: Strategic, Technological, and Economic Aspects</title>
-      <link>cmsodi.github.io/satdh/articles/satellite-remote-sensing-strategic-technological-and-economic-aspects/</link>
+      <link>/articles/satellite-remote-sensing-strategic-technological-and-economic-aspects/</link>
       <pubDate>Fri, 03 Feb 2023 12:13:31 +0100</pubDate>
       
-      <guid>cmsodi.github.io/satdh/articles/satellite-remote-sensing-strategic-technological-and-economic-aspects/</guid>
+      <guid>/articles/satellite-remote-sensing-strategic-technological-and-economic-aspects/</guid>
       <description>Remote sensing refers to the process of acquiring information about an object or phenomenon from a distance. This information is collected using instruments or sensors that are mounted on platforms such as satellites, aircraft, or drones. The technology has revolutionized the way we study and understand our planet, as well as opened up new opportunities for research and application in a wide range of fields.</description>
     </item>
     
     <item>
       <title>Space Diplomacy</title>
-      <link>cmsodi.github.io/satdh/articles/space-diplomacy/</link>
+      <link>/articles/space-diplomacy/</link>
       <pubDate>Fri, 03 Feb 2023 12:13:31 +0100</pubDate>
       
-      <guid>cmsodi.github.io/satdh/articles/space-diplomacy/</guid>
+      <guid>/articles/space-diplomacy/</guid>
       <description>Space diplomacy is the diplomatic effort to balance competition, promote cooperation, and protect interests in the exploration and use of outer space. International treaties, initiatives, and an understanding of the unique needs and priorities of different interests in the space sector are crucial to ensuring stability and a peaceful future.</description>
     </item>
     
     <item>
       <title>The Geopolitical Chessboard in Space: Navigating the Implications</title>
-      <link>cmsodi.github.io/satdh/articles/the-geopolitical-chessboard-in-space-navigating-the-implications/</link>
+      <link>/articles/the-geopolitical-chessboard-in-space-navigating-the-implications/</link>
       <pubDate>Fri, 03 Feb 2023 12:13:31 +0100</pubDate>
       
-      <guid>cmsodi.github.io/satdh/articles/the-geopolitical-chessboard-in-space-navigating-the-implications/</guid>
+      <guid>/articles/the-geopolitical-chessboard-in-space-navigating-the-implications/</guid>
       <description>This article examines the political and geopolitical implications of space exploration, drawing insights from the book Astropolitik and other relevant works. It explores the need for a consistent legal and political framework for space activities, the importance of balancing commercial and national interests with sustainability and safety, and the potential risks of great power competition in the space age. The post argues for a cooperative framework for space exploration and highlights the relevance of geopolitical theories like the Thucydides Trap in this context.</description>
     </item>
     
     <item>
       <title></title>
-      <link>cmsodi.github.io/satdh/articles/aaa-standby/china-s-space-launchers/chinas-space-launchers/</link>
+      <link>/articles/aaa-standby/china-s-space-launchers/chinas-space-launchers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cmsodi.github.io/satdh/articles/aaa-standby/china-s-space-launchers/chinas-space-launchers/</guid>
+      <guid>/articles/aaa-standby/china-s-space-launchers/chinas-space-launchers/</guid>
       <description>China&amp;rsquo;s Space Launchers https://historicspacecraft.com/Rockets_Chinese.html#:~:text=Chinese%20Rockets%20Overview&amp;text=Chinese%20orbital%20launches%20currently%20originate,Space%20Launch%20Center%20(WSLC).
 Introduction China&amp;rsquo;s aerospace industry was established in the mid-1950s and now has a complete R &amp;amp; D and production system in space transportation.
 The Long March series of launch vehicles was developed from China&amp;rsquo;s ballistic missile and sounding rocket technologies, and can be used to launch various spacecraft including satellites, manned spacecraft, and moon exploration vehicles. The Long March 5 is a large launch vehicle designed for large payloads, while the Long March 7 is a medium-sized launch vehicle for cargo spacecraft. The Long March 11 is a four-stage solid launch vehicle mainly used for emergency launches. The Express series launch vehicle is China&amp;rsquo;s first small launch vehicle designed for fast integration and orbit, and is mainly used for emergency launches in natural disasters. The grid rudder technology is used to control the flight attitude of the rocket and ensure controlled landing.
@@ -49,10 +49,10 @@ The Long March 1 is a three-stage rocket that is primarily used to launch small 
     
     <item>
       <title></title>
-      <link>cmsodi.github.io/satdh/articles/aaa-standby/gps-state-of-the-art/gps-systems-state-of-the-art/</link>
+      <link>/articles/aaa-standby/gps-state-of-the-art/gps-systems-state-of-the-art/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cmsodi.github.io/satdh/articles/aaa-standby/gps-state-of-the-art/gps-systems-state-of-the-art/</guid>
+      <guid>/articles/aaa-standby/gps-state-of-the-art/gps-systems-state-of-the-art/</guid>
       <description>Navigation and Positioning Satellite Systems State of the Art Navigation and positioning satellite systems have undergone significant advancements in recent years, with the development of new and improved satellite constellations and earth receivers. Today, these systems provide real-time navigation and positioning information to a wide range of industries and applications, from navigation for vehicles to precision agriculture and disaster management.
 Earth Receivers Earth receivers are the devices used to receive signals from navigation and positioning satellite constellations. These receivers come in various forms, including handheld GPS devices, smartphone apps, and specialized equipment for industries such as aviation, maritime, and agriculture. Earth receivers use specialized algorithms to process the signals received from satellites and determine the user&amp;rsquo;s position and navigation information.
 Satellite Constellations There are several satellite constellations providing navigation and positioning services to users worldwide. These constellations can be broadly classified into two categories: Global Navigation Satellite Systems (GNSS) and Regional Navigation Satellite Systems (RNSS).</description>
@@ -60,10 +60,10 @@ Satellite Constellations There are several satellite constellations providing na
     
     <item>
       <title></title>
-      <link>cmsodi.github.io/satdh/articles/aaa-standby/rem-sensing-bis/</link>
+      <link>/articles/aaa-standby/rem-sensing-bis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cmsodi.github.io/satdh/articles/aaa-standby/rem-sensing-bis/</guid>
+      <guid>/articles/aaa-standby/rem-sensing-bis/</guid>
       <description>Introduction Remote sensing refers to the process of acquiring information about an object or phenomenon from a distance. This information is collected using instruments or sensors that are mounted on platforms such as satellites, aircraft, or drones. The technology has revolutionized the way we study and understand our planet, as well as opened up new opportunities for research and application in a wide range of fields.
 The purpose of this article is to provide a comprehensive overview of satellite remote sensing, focusing on its strategic, technological, and economic aspects. We will explore how remote sensing works, the different types of remote sensing, and the benefits it provides. Additionally, we will delve into its applications in various industries and fields, including military, space science, and the construction of smart cities.
 This article will also touch on the future development trends of satellite remote sensing technology and the integration of remote sensing data into various industries and fields.</description>
