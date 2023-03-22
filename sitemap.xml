@@ -8,10 +8,13 @@
             <loc>/articles/overview-of-the-space-sector-trends-and-future-directions/</loc><lastmod>2023-01-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/articles/satellite-remote-sensing-strategic-technological-and-economic-aspects/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/countries/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/objects/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/persons/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/purposes/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/articles/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/countries/china/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/persons/corporate/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/countries/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/countries/europe/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/purposes/exploitation/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/persons/government/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -19,9 +22,6 @@
             <loc>/persons/investment/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/objects/launch_base/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/persons/military/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/objects/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/persons/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/purposes/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/purposes/research/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/objects/rocket/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/countries/russia/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -40,7 +40,6 @@
             <loc>/articles/aaa-standby/china-s-space-launchers/chinas-space-launchers/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/articles/aaa-standby/gps-state-of-the-art/gps-systems-state-of-the-art/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/articles/aaa-standby/rem-sensing-bis/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/pages/tool/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/filter/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/generics/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/filter/filter/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -48,4 +47,5 @@
             <loc>/pages/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/pages/tagging/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/pages/site/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/pages/tool/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/tools/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
