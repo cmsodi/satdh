@@ -5,7 +5,7 @@
 </br><figure>  <img src="Annual_Average_Temperature_Map.png" alt="." style="width:100%">  <figcaption> <small>     </small> </figcaption></figure></br>
 
 
-## The SATDH site.
+### The SATDH site.
 Welcome to the satdh.com blog on space strategy, systems, and technologies! We are a group of space enthusiasts and experts who are interested in learning about the most recent advancements in this field. Our blog is dedicated to providing valuable insights, updates, and information about space strategy, systems, and technologies.
 You'll find a wide range of topics covered here, from the most recent space missions and innovations to in-depth analyses of current and future space industry trends. We aim to make our content accessible to readers with varying levels of knowledge and expertise, whether you're a student, a professional, or just someone curious about space.
 
