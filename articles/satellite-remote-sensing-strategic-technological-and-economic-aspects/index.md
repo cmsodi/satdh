@@ -2,8 +2,6 @@
 
 ## Introduction
 
-[This is a pretty long article 😳. If you want to break the reading or read only a few sections, use the links to the various paragraphs in **CONTENTS**]
-
 Remote sensing refers to the process of acquiring information about an object or phenomenon from a distance. This information is collected using instruments or sensors that are mounted on platforms such as satellites, aircraft, or drones. The technology has revolutionized the way we study and understand our planet, as well as opened up new opportunities for research and application in a wide range of fields.
 
 The purpose of this article is to provide a comprehensive overview of satellite remote sensing, focusing on its strategic, technological, and economic aspects. We will explore how remote sensing works, the different types of remote sensing, and the benefits it provides. Additionally, we will delve into its applications in various industries and fields, including military, space science, and the construction of smart cities.
@@ -34,10 +32,10 @@ There are two main types of remote sensing: passive remote sensing and active re
 The sensors collect information in different forms, including electromagnetic radiation, such as visible light and infrared, as well as other forms of energy, such as radar and lidar.
 In addition to these two main types of remote sensing, there are several subtypes, including:
 
->- **Optical Remote Sensing:** Optical remote sensing involves the detection of visible light and near-infrared radiation. Optical remote sensing is used for applications such as mapping, land cover analysis, and crop monitoring.
->- **Radar Remote Sensing:** Radar remote sensing involves the use of radio waves to detect and map the Earth's surface. Radar remote sensing is used for applications such as mapping, land cover analysis, and disaster management.
->- **Thermal Remote Sensing:** Thermal remote sensing involves the detection of thermal infrared radiation, which is emitted by the Earth's surface. Thermal remote sensing is used for applications such as monitoring crop health, detecting forest fires, and mapping urban heat islands.
->- **Lidar Remote Sensing:** Lidar remote sensing involves the use of laser light to detect and map the Earth's surface. Lidar remote sensing is used for applications such as mapping, land cover analysis, and surveying.
+- **Optical sensors**: are sensors that measure the reflected or emitted energy in the visible, near-infrared, and thermal infrared regions of the electromagnetic spectrum. Examples are Landsat-1, Sentinel, Planet Labs, Aqua, Aura, Cartosat, etc.
+- **Radar sensors**: are sensors that emit microwave pulses and measure the backscattered signals from the earth’s surface. Examples are Seasat-1, RISAT, Cosmo-SkyMed, SARAL/AltiKa, etc.
+- **LiDAR sensors**: are sensors that emit laser pulses and measure the time delay and intensity of the returned signals to derive elevation or distance information. Examples are ALMAZ-1, CryoSat-2, CALIPSO, etc.
+- **Thermal sensors**: are sensors that that measure the emitted energy in the thermal infrared region of the electromagnetic spectrum. An example of a thermal sensor mentioned in the page is Aqua, which carries a Moderate Resolution Imaging Spectroradiometer (MODIS) that can detect land surface temperature and fire activity.
 
 </br><figure>  <img src="Juice’s_science_instruments_ESA24640659.png" alt="." style="width:100%">  <figcaption> <small> ESA’s Jupiter Icy Moons Explorer (Juice) will carry the most powerful remote sensing, geophysical, and in situ payload complement ever flown to the outer Solar System. It includes 10 dedicated scientific instruments, a radiation monitor (RADEM) and the Planetary Radio Interferometer & Doppler Experiment (PRIDE). European Space Agency  <a target=_blank  target="_blank" href=https://www.esa.int/ESA_Multimedia/Images/2022/12/Juice_s_science_instruments>source link</a> </small> </figcaption></figure></br>
 
@@ -51,9 +49,9 @@ Remote sensing tools are the instruments and platforms that are used to collect 
 
 There are many different tools used in remote sensing, each with its own set of strengths and weaknesses. Some of the most commonly used tools include satellite imaging systems, airborne remote sensing platforms, and ground-based remote sensing systems.
 
->- **Satellite imaging systems** are large, complex systems that are designed to capture high-resolution images and data from space. They are often used for large-scale mapping and monitoring projects, as well as for military reconnaissance and surveillance.
->- **Airborne remote sensing platforms**, such as aircraft and unmanned aerial vehicles, are designed to collect data from lower altitudes. They are often used for detailed mapping and monitoring of smaller areas, as well as for environmental and geological research.
->- **Ground-based remote sensing systems** are typically used for monitoring and measuring environmental variables, such as temperature, humidity, and atmospheric pressure. These systems are often smaller and less complex than satellite and airborne systems, but they can be more easily deployed in remote and challenging environments.
+- **Satellite imaging systems** are large, complex systems that are designed to capture high-resolution images and data from space. They are often used for large-scale mapping and monitoring projects, as well as for military reconnaissance and surveillance.
+- **Airborne remote sensing platforms**, such as aircraft and unmanned aerial vehicles, are designed to collect data from lower altitudes. They are often used for detailed mapping and monitoring of smaller areas, as well as for environmental and geological research.
+- **Ground-based remote sensing systems** are typically used for monitoring and measuring environmental variables, such as temperature, humidity, and atmospheric pressure. These systems are often smaller and less complex than satellite and airborne systems, but they can be more easily deployed in remote and challenging environments.
 
 </br><figure>  <img src="Remote_sensing_of_coastal_and_marine_environment.webp.png" alt="." style="width:100%">  <figcaption> <small> Remote sensing of coastal and marine environment <a target=_blank  target="_blank" href=https://doi.org/10.3390%2Frs12142313>https://doi.org/10.3390%2Frs12142313</a> </small> </figcaption></figure></br>
 
@@ -62,8 +60,6 @@ Ultimately, the choice of remote sensing tool will depend on a variety of factor
 ## Benefits and advantages of Remote Sensing from space
 
 A short and simple summary can be helpful.
-
-<div style="background-color:lightyellow;">
 
 
 - **Cost-effectiveness:** Remote sensing allows for the collection of data over large areas in a cost-effective manner, as the sensors can be  mounted on satellites or aircraft that can cover large areas quickly.  This can be much more cost-effective than traditional methods, such as  ground-based surveys, which can be time-consuming and expensive.
@@ -75,7 +71,6 @@ A short and simple summary can be helpful.
 - **Unobstructed view:** Space-based remote sensing provides an  unobstructed view of the Earth’s surface, as satellites are not affected by obstacles, such as trees and buildings, that can obstruct the view  from the ground or from an aircraft.
 - **Independence from ground infrastructure:** Space-based remote sensing  is independent from ground infrastructure, as satellites do not rely on  ground-based systems for data collection and transmission. This makes it ideal for collecting data in remote and inaccessible areas where  ground-based infrastructure may not be available.
 
-</div>
 
 ## Application of Remote Sensing
 
@@ -124,15 +119,15 @@ The High-Resolution Earth Observation Satellite System, which combines Low Earth
 
 High-resolution earth observation satellites have become increasingly important for military, scientific, and commercial purposes. The development of this technology has attracted the attention of major countries around the world, each with their own plans for the future of space-based remote sensing.
 
->- In the United States, the military has developed a system for space-based high-resolution integrated reconnaissance and surveillance. This system is used to gather information and intelligence for military operations and decision-making, in order to maintain its technological advantage and to support its national security interests. The US system for high-resolution integrated reconnaissance and surveillance is a critical component of its overall military strategy and capabilities.
+- In the United States, the military has developed a system for space-based high-resolution integrated reconnaissance and surveillance. This system is used to gather information and intelligence for military operations and decision-making, in order to maintain its technological advantage and to support its national security interests. The US system for high-resolution integrated reconnaissance and surveillance is a critical component of its overall military strategy and capabilities.
 
->- Europe has a long history of remote sensing and earth observation through satellite technology. The European Space Agency (ESA) . The Copernicus program, run by the European Commission in partnership with ESA, is a leading provider of earth observation data and services, offering free and open access to its data. France, on the other hand, has proposed an optical imaging satellite system that will combine low earth orbit (LEO), medium earth orbit (MEO), and high earth orbit (HEO) satellites to provide high-resolution imagery. This system is aimed at providing France with a strategic advantage in terms of earth observation capabilities.
+- Europe has a long history of remote sensing and earth observation through satellite technology. The European Space Agency (ESA) . The Copernicus program, run by the European Commission in partnership with ESA, is a leading provider of earth observation data and services, offering free and open access to its data. France, on the other hand, has proposed an optical imaging satellite system that will combine low earth orbit (LEO), medium earth orbit (MEO), and high earth orbit (HEO) satellites to provide high-resolution imagery. This system is aimed at providing France with a strategic advantage in terms of earth observation capabilities.
 
->- The Chinese government sees the development of its high-resolution earth observation satellite system as a key component of its long-term strategy for space exploration and utilization, with the launch of several high-resolution earth observation satellites that offer a variety of capabilities, including high-resolution imaging, video, and data transmission. 
+- The Chinese government sees the development of its high-resolution earth observation satellite system as a key component of its long-term strategy for space exploration and utilization, with the launch of several high-resolution earth observation satellites that offer a variety of capabilities, including high-resolution imaging, video, and data transmission. 
 
->- The Russian space agency, Roscosmos, operates a range of remote sensing satellites for both civilian  and  military applications, to enhance its national security by providing real-time intelligence and monitoring capabilities. The country has also been actively involved in the development of earth observation systems for other countries.
+- The Russian space agency, Roscosmos, operates a range of remote sensing satellites for both civilian  and  military applications, to enhance its national security by providing real-time intelligence and monitoring capabilities. The country has also been actively involved in the development of earth observation systems for other countries.
 
->- India has a growing focus on the development and use of high-resolution earth observation satellite systems. The Indian Space Research Organisation (ISRO) has launched several satellites for earth observation and remote sensing, including the Cartosat series, which provides high-resolution imagery for various applications including land use and land cover mapping, urban planning, coastal zone management, and disaster management. 
+- India has a growing focus on the development and use of high-resolution earth observation satellite systems. The Indian Space Research Organisation (ISRO) has launched several satellites for earth observation and remote sensing, including the Cartosat series, which provides high-resolution imagery for various applications including land use and land cover mapping, urban planning, coastal zone management, and disaster management. 
 
 ## Conclusion
 
@@ -146,21 +141,17 @@ In conclusion, remote sensing technology is an essential tool for understanding 
 
 ## A few insights
 
-To begin with ...
+- 
+   [What is Remote Sensing? | Earthdata. ](https://www.earthdata.nasa.gov/learn/backgrounders/remote-sensing)
+  explains what remote sensing is, how it works, and what kinds of data it produces. It also provides some examples of how remote sensing data are used for scientific research and applications.
 
-> [What is Remote Sensing? | Earthdata. ](https://www.earthdata.nasa.gov/learn/backgrounders/remote-sensing)
-explains what remote sensing is, how it works, and what kinds of data it produces. It also provides some examples of how remote sensing data are used for scientific research and applications.
+-  [15 Free Satellite Imagery Data Sources - GIS Geography. ](https://gisgeography.com/free-satellite-imagery-data-list/ )
+  lists 15 sources of free satellite imagery data that anyone can access online. It also gives some information about the types of satellites, sensors, and resolutions that are available.
 
-> [15 Free Satellite Imagery Data Sources - GIS Geography. ](https://gisgeography.com/free-satellite-imagery-data-list/ )
-lists 15 sources of free satellite imagery data that anyone can access online. It also gives some information about the types of satellites, sensors, and resolutions that are available.
-
-> [ESA - ERS at a glance - European Space Agency. ](https://www.esa.int/Applications/Observing_the_Earth/ERS_at_a_glance)
-describes the ERS satellites, which were launched by ESA in 1991 and 1995. It highlights some of their achievements and contributions to Earth observation.
-
+-  [ESA - ERS at a glance - European Space Agency. ](https://www.esa.int/Applications/Observing_the_Earth/ERS_at_a_glance)
+  describes the ERS satellites, which were launched by ESA in 1991 and 1995. It highlights some of their achievements and contributions to Earth observation.
 
 
-... to continue with ...
- 
->- [Satellite Remote Sensing - an overview | ScienceDirect Topics.]( https://www.sciencedirect.com/topics/earth-and-planetary-sciences/satellite-remote-sensing )
-> - [Satellite Remote Sensing Technologies | SpringerLink.](https://link.springer.com/book/10.1007/978-981-15-4871-0 )
-> - [Key Trends in Remote-Sensing Satellite Systems and Services.](https://link.springer.com/chapter/10.1007/978-3-030-15281-9_3 )
+- [Satellite Remote Sensing - an overview | ScienceDirect Topics.]( https://www.sciencedirect.com/topics/earth-and-planetary-sciences/satellite-remote-sensing )
+- [Satellite Remote Sensing Technologies | SpringerLink.](https://link.springer.com/book/10.1007/978-981-15-4871-0 )
+- [Key Trends in Remote-Sensing Satellite Systems and Services.](https://link.springer.com/chapter/10.1007/978-3-030-15281-9_3 )

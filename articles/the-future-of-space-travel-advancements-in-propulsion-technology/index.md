@@ -56,12 +56,12 @@ Advancements in propulsion technology have the potential to revolutionize space 
 
 ## A few insights
 
-[GO: Advanced Propulsion - NASA Space Technology Mission Directorate - March 2022](https://techport.nasa.gov/file/142854)
+- [GO: Advanced Propulsion - NASA Space Technology Mission Directorate - March 2022](https://techport.nasa.gov/file/142854)
 
-[GO: Space Nuclear Propulsion - NASA Space Technology Mission Directorate - March 2](https://techport.nasa.gov/file/142857)
+- [GO: Space Nuclear Propulsion - NASA Space Technology Mission Directorate - March 2](https://techport.nasa.gov/file/142857)
 
-[Benjamin, & Alec. (2020). *Aerospace 7 no*.](https://www.mdpi.com/2226-4310/7/9/120)
+- [Benjamin, & Alec. (2020). *Aerospace 7 no*.](https://www.mdpi.com/2226-4310/7/9/120)
 
-[Roger, & S. (2021). *NASEM Space Nuclear Propulsion Technologies Committee Report*.](https://www.researchgate.net/publication/349379840_Space_Nuclear_Propulsion_for_Human_Mars_Exploration_NASEM_Space_Nuclear_Propulsion_Technologies_Committee_Report_released_02-12-2021_httpsdoiorg101722625977)
+- [Roger, & S. (2021). *NASEM Space Nuclear Propulsion Technologies Committee Report*.](https://www.researchgate.net/publication/349379840_Space_Nuclear_Propulsion_for_Human_Mars_Exploration_NASEM_Space_Nuclear_Propulsion_Technologies_Committee_Report_released_02-12-2021_httpsdoiorg101722625977)
 
-[Jackson. (2022). *Nuclear Technology 208 no*.](https://www.tandfonline.com/doi/full/10.1080/00295450.2021.1997057?tab=permissions&scroll=top)
+- [Jackson. (2022). *Nuclear Technology 208 no*.](https://www.tandfonline.com/doi/full/10.1080/00295450.2021.1997057?tab=permissions&scroll=top)

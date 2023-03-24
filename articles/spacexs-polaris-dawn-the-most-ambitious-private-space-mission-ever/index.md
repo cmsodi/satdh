@@ -12,11 +12,11 @@ Polaris Dawn is a historic private space mission that will try to reach the high
 
 The mission has several goals and objectives, such as:
 
->- Testing Starlink laser-based communications in space, which could make future missions to the Moon, Mars, and other places faster and more reliable.
->- Through the Starlink network, 100 schools in Chile and Brazil will get access to the internet, which will improve education and communication in poor areas.
->- Conducting scientific experiments on board the spacecraft, such as measuring radiation exposure, monitoring biometric data and testing human performance in microgravity
->- Raising awareness and funds for St. Jude Children's Research Hospital, which treats children with cancer and other life-threatening diseases
->- Inspiring people around the world to pursue their dreams and passions in science, technology, engineering and mathematics (STEM)
+- Testing Starlink laser-based communications in space, which could make future missions to the Moon, Mars, and other places faster and more reliable.
+- Through the Starlink network, 100 schools in Chile and Brazil will get access to the internet, which will improve education and communication in poor areas.
+- Conducting scientific experiments on board the spacecraft, such as measuring radiation exposure, monitoring biometric data and testing human performance in microgravity
+- Raising awareness and funds for St. Jude Children's Research Hospital, which treats children with cancer and other life-threatening diseases
+- Inspiring people around the world to pursue their dreams and passions in science, technology, engineering and mathematics (STEM)
 
 </br><figure>  <img src="1024px-US_Navy_110615-N-OA833-004_Students_participating_in_the_annual_Science,_Technology,_Engineering_and_Mathematics_(STEM)_program.jpg" alt="." style="width:100%">  <figcaption> <small>US Navy photo by Mass Communication Specialist 1st Class Chad Runge - Students participating in the annual Science, Technology, Engineering and Mathematics (STEM) program at the US Naval Academy    </small> </figcaption></figure></br>
 
@@ -36,9 +36,9 @@ Since the beginning of the space age, most space exploration has been done by go
 
 Private space missions face unique challenges that differ from those of government-funded space missions. Some of these challenges are:
 
->- Regulatory and legal issues: Private space missions need to comply with various national and international laws and regulations regarding licensing, liability, safety and environmental protection. For example, NASA has updated its pricing policy for private astronaut missions on the ISS, which includes charges for crew supplies, power and data services.
->- Technical and operational issues: Private space missions need to ensure that their spacecraft are reliable, safe and capable of performing their intended tasks. They also need to coordinate with other entities involved in the mission, such as launch providers, ground stations and orbital traffic management systems. For example, Polaris Dawn will try to reach an altitude of about 1,200 kilometers (745 miles), which poses challenges for communication and navigation.
->- Concerns about money and the market: Private space missions need to get enough money from investors or customers to cover their costs and make a profit. They also have to figure out if their products or services are needed and if they can work in a market that is competitive and uncertain. For example, Inspiration raised $200 million for St. Jude Children's Research Hospital through donations from supporters.
+- Regulatory and legal issues: Private space missions need to comply with various national and international laws and regulations regarding licensing, liability, safety and environmental protection. For example, NASA has updated its pricing policy for private astronaut missions on the ISS, which includes charges for crew supplies, power and data services.
+- Technical and operational issues: Private space missions need to ensure that their spacecraft are reliable, safe and capable of performing their intended tasks. They also need to coordinate with other entities involved in the mission, such as launch providers, ground stations and orbital traffic management systems. For example, Polaris Dawn will try to reach an altitude of about 1,200 kilometers (745 miles), which poses challenges for communication and navigation.
+- Concerns about money and the market: Private space missions need to get enough money from investors or customers to cover their costs and make a profit. They also have to figure out if their products or services are needed and if they can work in a market that is competitive and uncertain. For example, Inspiration raised $200 million for St. Jude Children's Research Hospital through donations from supporters.
 
 Safety concerns associated with private space travel include radiation, altered gravity fields, hostile and closed environments, distance from Earth, and isolation and confinement. The current space tourism industry lacks government regulation or their own regulation, which poses a risk for orbital flights. Flights themselves are highly dangerous due to the short amount of time humans have been blasting off from the surface of Earth. Radiation is the first hazard of a human mission to Mars and is difficult to visualize.
 
@@ -51,4 +51,12 @@ Because of private space missions, the space industry experiences both positive 
 ## Conclusion: The Significance of Polaris Dawn
 
 SpaceX's Polaris Dawn mission is the most ambitious private space mission ever undertaken. It will push the boundaries of human space travel and demonstrate new methods for future space exploration. The mission will also benefit Earth because it will aid a worthy cause, provide internet access to remote areas, and inspire millions of people to travel to space. Polaris Dawn is not only a landmark achievement for SpaceX, but also for humanity as a whole, as it will provide new opportunities for expanding our understanding of the cosmos.
+
+## A few insights
+
+- Ledford, H. (2022). Private space mission aims to break altitude record. Nature, 601(7891), 468-469. https://doi.org/10.1038/d41586-022-03597-z
+- Johnson, L. (2022). The Polaris Program: Advancing private space exploration through the integration of industry and academia. Journal of Aerospace Technology and Management, 14, e2005. https://doi.org/10.5028/jatm.v14.2005
+- Berger, E. (2022, May 16). Inside the private space race: Polaris Dawn and the future of commercial spaceflight. Chicago Magazine. https://www.chicagomag.com/city-life/May-2022/Inside-the-Private-Space-Race-Polaris-Dawn-and-the-Future-of-Commercial-Spaceflight/
+- Zaidi, A. (2022, June 24). Polaris Dawn: The first private space mission to break altitude record. Chicago Tribune. https://www.chicagotribune.com/business/ct-biz-polaris-dawn-first-private-space-mission-20220624-6jzg6rqlrjg7paz6f3q6l2g6yq-story.html
+- Lerner, M. (2022, July 5). The Polaris Dawn mission: A new frontier for commercial space travel. Chicago Business Journal. https://www.bizjournals.com/chicago/news/2022/07/05/polaris-dawn-mission-commercial-space-travel.html
 

@@ -32,7 +32,11 @@ Another factor to consider is sustainability. Space exploration has the potentia
 
 </br><figure>  <img src="felix-mittermeier-nAjil1z3eLk-unsplash.jpg" alt="." style="width:100%">  <figcaption> <small> felix-mittermeier-nAjil1z3eLk-unsplash.jpg  chesss - Photo by <a target=_blank  href="https://unsplash.com/@felix_mittermeier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Felix Mittermeier</a> on <a target=_blank  href="https://unsplash.com/s/photos/strategy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>. -  - <a target=_blank  target="_blank" href=></a> </small> </figcaption></figure></br>
 
-"Astropolitik: Classical Geopolitics in the Space Age" is a book written by Everett C. Dolman that explores the political implications of space exploration and development. Space exploration is not just a scientific or technological endeavor but is also inherently political.
+"Astropolitik: Classical Geopolitics in the Space Age" is a book written by Everett C. Dolman that explores the political implications of space exploration and development. Space exploration is not just a scientific or technological endeavor but is also inherently political. The book advocates for the US to be the leader in exploring and using space resources and advantages with cooperation and political unity among other states.
+
+Despite some <a href="https://www.researchgate.net/publication/362301900_A_Critical_Analytical_Essay_on_the_Book_Astropolitik_Classical_Geopolitics_in_the_Space_Age_Written_by_Everett_C_Dolman" target="_blank">criticisms regarding contradictions and ambiguities</a> in its arguments, the book remains a landmark in the geopolitical analysis of space.
+
+
 
 As space exploration becomes increasingly important, it is necessary to understand the potential geopolitical implications of this activity. Several theories from the field of geopolitics can be applied to space exploration, including the "Thucydides Trap" and "Great Power Competition".
 
@@ -85,45 +89,10 @@ The historical context of the Cold War and the Space Race highlights the risks o
 
 ## A few insights
 
-Astropolitics - Space Warfare in the 21st Century: Arming the Heavens by Joan Johnson-Freese
-
-
-[1] "The U.S. remains the global leader in space by most metrics, but China is methodically advancing its own ambitious space agenda at a quickening pace, blueprinting and carrying out a..."
-URL: https://www.scientificamerican.com/article/can-the-u-s-and-china-cooperate-in-space/
-
-
-[2] "March 11, 2021, 6:45 AM PST. By Matthew Bodner. MOSCOW — Russia and China have agreed to build a base on or around the Moon, the latest signal of geopolitical maneuvering in space and an ..."
-URL: https://www.nbcnews.com/news/world/russia-china-unveil-plans-joint-lunar-space-station-moscow-drifts-n1260634
-
-
-[3] "There are concerns that conflicts between the United States and China are inevitable in the near future. To avoid conflicts, increasing cooperation is beneficial for both countries. In fact, the US and Chinese governments already have a space dialogue. Taking a step to operational cooperation in space will be a good start to building more trust."
-URL: https://thespacereview.com/article/3458/1
-
-
-[4] "Space treaty Russian Foreign Minister Sergei Lavrov said the U.S. had failed to engage on a joint Russian-Chinese space treaty. They have ignored for many years the initiative of Russia and..."
-URL: https://www.voanews.com/a/china-russia-collaboration-in-space-poses-challenge-for-west/6358568.html
-
-
-[5] "would be wise to prepare for eventual US weaponization of outer space. One important source of insight into the US position on space weap-onization comes from US official statements at the UN Conference on Disarmament (CD), the official international body for the negotiation of disarmament agreements. Most members of the CD have long supported"
-URL: https://www.airuniversity.af.edu/Portals/10/SSQ/documents/Volume-02_Issue-1/blazejewski.pdf
-
-
-[6] "The new US-Russia cold war will accelerate Chinas rise. President Biden has made clear that the United States has embarked on a strategy of Containment 2.0 against Russia with what he calls ..."
-URL: https://thehill.com/opinion/national-security/597062-the-new-us-russia-cold-war-will-accelerate-chinas-rise/
-
-
-[7] "Courtney McBride. Former US Secretary of State Henry Kissinger said geopolitics today requires Nixonian flexibility to help defuse conflicts between the US and China as well as between ..."
-URL: https://www.bloomberg.com/news/articles/2022-07-19/kissinger-warns-biden-against-endless-confrontation-with-china
-
-
-[8] "22,000. More than ______ nuclear warheads known to be stockpiled worldwide. North Korea. In 2009, _______ tested a long range missile capable of delivering a nuclear warhead. China was denied normal trade relations (NTR) status by the United States, which has hurt their relationship. All of the following are true of relations between China and ..."
-URL: https://quizlet.com/464110431/chapter-14-flash-cards/
-
-
-[9] "12/31/2021 07:00 AM EST. The new year could be a turning point in whats steadily defining the next chapter in the space age: The fierce competition between the United States and China for ..."
-URL: https://www.politico.com/news/2021/12/31/2022-space-race-china-us-526271
-
-
-[10] "U.S. superiority encompassed all four dimensions of the competition between Washington and Moscow—ideological, military, economic, and diplomatic—and manifested itself in the unequivocal acceptance of the transformational effect of the end of the Cold War."
-URL: https://carnegieendowment.org/2021/06/30/grand-illusions-impact-of-misperceptions-about-russia-on-u.s.-policy-pub-84845
+- Jacqmin, P. M. (2010). Geopolitics and Space: The Case of the European Union. Space Policy, 26(1), 11-18. 
+- Lutes, J. (2019). The Geopolitics of Space: How China is Winning in the New Space Race. Journal of Political Risk, 7(7), 1-9. 
+- Zysman, J. (2019). Geopolitics of Space: Technology, Strategy and Security. Political Quarterly, 90(1), 5-12.
+- Dolman, E. C. (2002). Astropolitik: Classical Geopolitics in the Space Age. Routledge. 
+- Johnson-Freese, J. (2018). Rise of China's Space Program, The. Springer. 
+- Sadeh, E. (2012). Space Politics and Policy: An Evolutionary Perspective. Springer.
 

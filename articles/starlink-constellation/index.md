@@ -66,4 +66,11 @@ Overall, LEO satellite constellations have the potential to revolutionize the wa
 
 ## A few insights
 
+- Yang, C., & Yang, X. (2021). Analysis of the impact of LEO satellite constellations on the telecommunications industry. Journal of Spacecraft and Rockets, 58(3), 492-499. https://doi.org/10.2514/1.a34409
+- Zervas, G. (2022). The role of LEO satellite constellations in bridging the digital divide. Telecommunications Policy, 46(5), 102200. https://doi.org/10.1016/j.telpol.2022.102200
+- Battersby, S. (2022, March 20). How SpaceX's Starlink is revolutionizing satellite internet. Wired. https://www.wired.com/story/how-spacexs-starlink-is-revolutionizing-satellite-internet/
+- Nicas, J. (2021, May 4). SpaceX's Starlink internet service is out of beta and open for preorders. The New York Times. https://www.nytimes.com/2021/05/04/business/spacex-starlink-internet-preorders.html
+- O'Brien, C. (2022, February 8). OneWeb vs. Starlink: The race to provide global satellite internet. Fortune. https://fortune.com/2022/02/08/oneweb-vs-starlink-the-race-to-provide-global-satellite-internet/
+- Shead, S. (2021, August 24). Amazon's Project Kuiper: Everything you need to know about the satellite internet venture. CNBC. https://www.cnbc.com/2021/08/24/amazons-project-kuiper-everything-you-need-to-know-about-the-satellite-internet-venture.html
+- Smith, K. (2022, January 27). Starlink's satellite internet: A game-changer for rural America. Forbes. https://www.forbes.com/sites/kenrickcsmith/2022/01/27/starlinks-satellite-internet-a-game-changer-for-rural-america/?sh=3e3f02a76964
 

@@ -15,24 +15,26 @@ Space debris, also known as space junk or space waste, is any object in orbit ar
 
 There are two main types of space debris: natural debris such as meteoroids and artificial debris, which is created by human activities in space: spent rocket stages, defunct satellites and various other objects that were once part of a space mission.
 
-One of the key characteristics of space debris is its size, which can range from tiny fragments just a few millimeters in length to entire satellites that can measure several meters across. Another important characteristic is speed. Objects in space travel at incredible speeds, which can be hazardous if they collide with other objects or spacecraft. Orbital altitude is also a significant factor, as it determines the location of the object in space and its potential for collision with other objects.
+One of their key characteristics is its size, which can range from tiny fragments just a few millimeters in length to entire satellites that can measure several meters across. Another important characteristic is speed. Objects in space travel at incredible speeds, which can be hazardous if they collide with other objects or spacecraft. Orbital altitude is also a significant factor, as it determines the location of the object in space and its potential for collision with other objects.
 
 Studying space debris is important for several reasons:
 
 - the increasing amount of space junk in orbit around the Earth is a growing concern, as it creates a potential hazard to active satellites and space missions.;
 - it is crucial to understand the impact of space debris on our ability to use the  satellites on which we rely in our daily lives;
 - future space exploration missions may be impacted by the presence of space junk, and it is important to take measures to mitigate these risks.
-In short, understanding space debris is a crucial step towards ensuring the safety and sustainability of our use of space.
+
+
+In short, understanding space waste is a crucial step towards ensuring the safety and sustainability of our use of space.
 
 ## How Did Space Debris Come About?
 
-Space debris is a byproduct of humanity's pursuit of space exploration and the use of satellites for various purposes. The history of space debris begins with the launch of the first artificial satellite Sputnik by the Soviet Union in 1957. This event marked the start of the Space Age which saw a rapid increase in the number of launches and the deployment of satellites into orbit around the Earth.
+Space debris is a byproduct of humanity's pursuit of space exploration and the use of satellites for various purposes. Their history  begins with the launch of the first artificial satellite Sputnik by the Soviet Union in 1957. This event marked the start of the Space Age which saw a rapid increase in the number of launches and the deployment of satellites into orbit around the Earth.
 
-With each launch and deployment the amount of artificial space debris in orbit increased. This included spent rocket stages, defunct satellites and other objects that were once part of a space mission. The break-up of satellites due to mechanical failure or collisions with other objects in space also contributed to the rise of artificial space debris.
+With each launch and deployment the amount of artificial space junk in orbit increased. This included spent rocket stages, defunct satellites and other objects that were once part of a space mission. The break-up of satellites due to mechanical failure or collisions with other objects in space also contributed to the rise of artificial space debris.
 
 ### Examples of space debris incidents
 
-Some examples of space debris incidents are:
+Some examples are:
 
 - In 2007, China conducted an anti-satellite test that destroyed one of its own weather satellites, and created more than 3,000 pieces of debris, some of which are still in orbit and pose a collision risk.
 
@@ -48,7 +50,7 @@ Some examples of space debris incidents are:
 
 ### Dangers posed to active satellites
 
-One of the most significant dangers posed by space debris is the risk of collision with active satellites. These collisions can cause significant damage to the satellites, potentially rendering them useless. The collision risk is particularly high in low Earth orbit, where the majority of artificial space debris is located. This increase in collisions can also degrade the orbits of these satellites, causing them to become less stable over time.
+One of the most significant dangers is the risk of collision with active satellites. These collisions can cause significant damage to the satellites, potentially rendering them useless. The collision risk is particularly high in low Earth orbit, where the majority of artificial space debris is located. This increase in collisions can also degrade the orbits of these satellites, causing them to become less stable over time.
 
 ### Economic consequences
 
@@ -63,7 +65,7 @@ Finally, as human flight activities increase, space debris poses a serious threa
 
 ## Mitigation Strategies
 
-Orbital debris or space debris is a real problem for both active satellites and human space travel. The skyrocketing amount of man-made junk in orbit is making it high-time for solutions to be found. Two main categories of solutions exist - active removal and passive measures.
+Orbital debris is a real problem for both active satellites and human space travel. The skyrocketing amount of man-made junk in orbit is making it high-time for solutions to be found. Two main categories of solutions exist - active removal and passive measures.
 
 Active removal uses retrieval missions and deorbiting techniques to take big space junk out of orbit. To reduce the danger posed by space debris, a few smart people have come up with some active removal methods. For example, one suggestion is to use a foam-filled balloon to clean up small debris. Another idea is to use space tethers and satellite shielding to protect against larger debris impact. Although these missions can be pricey and complicated, they have the potential to majorly reduce the amount of space junk orbiting us.
 
@@ -98,29 +100,14 @@ To address the challenge of space debris, there are some regulations and guideli
 
 ## A few insights
 
-[Sylvestre, Habimana & Parama, Ramakrishna. (2017). Space debris: Reasons, types, impacts and management. Indian Journal of Radio and Space Physics. 46](https://www.researchgate.net/publication/324161123_Space_debris_Reasons_types_impacts_and_management)
-
-[Understanding Space Debris Causes, Mitigations, and Issues, Crosslink Fall 2015 Vol. 16 No. 1](https://aerospace.org/sites/default/files/2019-04/Crosslink%20Fall%202015%20V16N1%20.pdf)
-
-[Dan Oltrogge, Space debris as the backdrop for Space Domain Awareness, COMSPOC Corporation, 20 June 2022](https://www.ucl.ac.uk/research/domains/sites/research_domains/files/20220620_dan_oltrogge_0.pdf)
-
-[NATIONAL ORBITAL DEBRIS IMPLEMENTATION PLAN (US Office of Science and Technology Policy (OSTP)](https://www.whitehouse.gov/wp-content/uploads/2022/07/07-2022-NATIONAL-ORBITAL-DEBRIS-IMPLEMENTATION-PLAN.pdf)
-
-[Sherif A. Mostafa, Ahmed Gaber, Farouk El-Baz. SOLID WASTE MANAGEMENT FOR SPACE DEBRIS. Journal of Al-Azhar University Engineering Sector Vol. 17, No. 65, October 2022, 1129 - 1142](https://jaes.journals.ekb.eg/article_265628_281daa0874685959c1a812a3009f9a96.pdf)
-
-
-### Books
-
-[David S.F. Portree, Joseph P.Loftus, Jr, Orbital Debris: A Chronology, 1999](https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf)
-
-[ESA SP-1301 Space Debris Mitigation: Implementing Zero Debris Creation Zones, 2005](https://calameodownload.com/read/00053980795432643c499#pages)
-
-[Limiting Future Collision Risk to SpacecraftAn Assessment of NASA's Meteoroid and Orbital Debris Programs, (2011)](https://nap.nationalacademies.org/read/13244)
-
-[Joseph N. Pelton, Space Debris and Other Threats from Outer Space, Springer New York, 2013](https://link.springer.com/book/10.1007/978-1-4614-6714-4)
-
-[Space Debris Peril: Pathways to Opportunities 1st Edition
-by Matteo Madi -Editor-, Olga Sokolova -Editor- 2021](https://www.taylorfrancis.com/books/edit/10.1201/9781003033899/space-debris-peril-matteo-madi-olga-sokolova)
-
-
+- [Sylvestre, Habimana & Parama, Ramakrishna. (2017). Space debris: Reasons, types, impacts and management. Indian Journal of Radio and Space Physics. 46](https://www.researchgate.net/publication/324161123_Space_debris_Reasons_types_impacts_and_management)
+- [Understanding Space Debris Causes, Mitigations, and Issues, Crosslink Fall 2015 Vol. 16 No. 1](https://aerospace.org/sites/default/files/2019-04/Crosslink%20Fall%202015%20V16N1%20.pdf)
+- [Dan Oltrogge, Space debris as the backdrop for Space Domain Awareness, COMSPOC Corporation, 20 June 2022](https://www.ucl.ac.uk/research/domains/sites/research_domains/files/20220620_dan_oltrogge_0.pdf)
+- [NATIONAL ORBITAL DEBRIS IMPLEMENTATION PLAN (US Office of Science and Technology Policy (OSTP)](https://www.whitehouse.gov/wp-content/uploads/2022/07/07-2022-NATIONAL-ORBITAL-DEBRIS-IMPLEMENTATION-PLAN.pdf)
+- [Sherif A. Mostafa, Ahmed Gaber, Farouk El-Baz. SOLID WASTE MANAGEMENT FOR SPACE DEBRIS. Journal of Al-Azhar University Engineering Sector Vol. 17, No. 65, October 2022, 1129 - 1142](https://jaes.journals.ekb.eg/article_265628_281daa0874685959c1a812a3009f9a96.pdf)
+- [David S.F. Portree, Joseph P.Loftus, Jr, Orbital Debris: A Chronology, 1999](https://ntrs.nasa.gov/api/citations/19990041784/downloads/19990041784.pdf)
+- [ESA SP-1301 Space Debris Mitigation: Implementing Zero Debris Creation Zones, 2005](https://calameodownload.com/read/00053980795432643c499#pages)
+- [Limiting Future Collision Risk to SpacecraftAn Assessment of NASA's Meteoroid and Orbital Debris Programs, (2011)](https://nap.nationalacademies.org/read/13244)
+- [Joseph N. Pelton, Space Debris and Other Threats from Outer Space, Springer New York, 2013](https://link.springer.com/book/10.1007/978-1-4614-6714-4)
+- [Space Debris Peril: Pathways to Opportunities 1st Edition by Matteo Madi -Editor-, Olga Sokolova -Editor- 2021](https://www.taylorfrancis.com/books/edit/10.1201/9781003033899/space-debris-peril-matteo-madi-olga-sokolova)
 

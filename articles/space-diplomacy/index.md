@@ -114,21 +114,21 @@ Successful space diplomacy depends on striking a balance between commercial, sec
 
 ## A few insights
 
->“Space Diplomacy - Wikipedia.” *Space Diplomacy - Wikipedia*, 21 Apr. 2021, en.wikipedia.org/wiki/Space_diplomacy.
+- “Space Diplomacy - Wikipedia.” *Space Diplomacy - Wikipedia*, 21 Apr. 2021, en.wikipedia.org/wiki/Space_diplomacy.
 
->“International Space Station.” *NASA*, www.nasa.gov/mission_pages/station/main/index.html. Accessed 2 Feb. 2023.
+- “International Space Station.” *NASA*, www.nasa.gov/mission_pages/station/main/index.html. Accessed 2 Feb. 2023.
 
->robert.wickramatunga. “The Outer Space Treaty.” *The Outer Space Treaty*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html.
+- robert.wickramatunga. “The Outer Space Treaty.” *The Outer Space Treaty*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html.
 
->robert.wickramatunga. “Liability Convention.” *Liability Convention*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/liability-convention.html.
+- robert.wickramatunga. “Liability Convention.” *Liability Convention*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/liability-convention.html.
 
->robert.wickramatunga. “Rescue Agreement.” *Rescue Agreement*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html.
+- robert.wickramatunga. “Rescue Agreement.” *Rescue Agreement*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html.
 
->robert.wickramatunga. “Registration Convention.” *Registration Convention*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introregistration-convention.html.
+- robert.wickramatunga. “Registration Convention.” *Registration Convention*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introregistration-convention.html.
 
->“Artemis Accords - Wikipedia.” *Artemis Accords - Wikipedia*, 10 Dec. 2021, en.wikipedia.org/wiki/Artemis_Accords.
+- “Artemis Accords - Wikipedia.” *Artemis Accords - Wikipedia*, 10 Dec. 2021, en.wikipedia.org/wiki/Artemis_Accords.
 
->“The Role of Diplomacy in Keeping Outer Space Safe, Secure, and Sustainable.” *U.S. Department of State*, 14 Apr. 2016, //2009-2017.state.gov/t/avc/rls/255834.htm.
+- “The Role of Diplomacy in Keeping Outer Space Safe, Secure, and Sustainable.” *U.S. Department of State*, 14 Apr. 2016, //2009-2017.state.gov/t/avc/rls/255834.htm.
 
->*https://www.tandfonline.com/doi/abs/10.1080/1477-760391832516*. www.tandfonline.com/doi/abs/10.1080/1477-760391832516. Accessed 2 Feb. 2023.
+- *https://www.tandfonline.com/doi/abs/10.1080/1477-760391832516*. www.tandfonline.com/doi/abs/10.1080/1477-760391832516. Accessed 2 Feb. 2023.
 
