@@ -7,7 +7,7 @@ Artificial Intelligence (AI) has become an increasingly important tool in space 
 
 ## Applications of AI in Space Exploration
 
-Here are some ways that artificial intelligence can be used in space exploration:
+Here are some ways that AI can be used in space exploration:
 
 - analyzing and interpret massive amounts of data from space telescopes, the International Space Station, and other space research facilities and instruments, resulting in new discoveries and predictions, as well as simulating space environments and conditions.
 - enabling autonomous exploration of planets and celestial bodies, and help control and develop robotic systems.
@@ -32,13 +32,12 @@ The following are examples of how artificial intelligence can be used to improve
 ## Artificial Intelligence Can Inspire and Educate the Public
 
 
-</br><figure>  <img src="Road-School-Teaching-Kids-about-Space-Exploration.jpg.webp" alt="." style="width:100%">  <figcaption> <small> Road-School-Teaching-Kids-about-Space-Exploration.jpg.webp  -  -  - <a target=_blank  target="_blank" href=></a> </small> </figcaption></figure></br>
+</br><figure>  <img src="Road-School-Teaching-Kids-about-Space-Exploration.jpg.webp" alt="." style="width:100%">  <figcaption> <small> Road-School-Teaching-Kids-about-Space-Exploration.jpg.webp  -  </small> </figcaption></figure></br>
 
 This section focuses on the social and cultural impact of artificial intelligence and space exploration, and how they can inspire and educate the public and the next generation of space explorers, such as:
 
 - helping with data analysis and discovery, by using the wealth of ESA and NASA data from all over our Solar System, and finding new patterns, insights, and anomalies that can advance our understanding of space.
 - helping with interactive and immersive learning, by creating virtual and augmented reality simulations and games that can engage and inspire the public to learn more about space and its challenges and opportunities.
-
 - augmenting or replacing human competences in various fields, such as engineering, science, medicine, education, and entertainment.
 
 
@@ -46,7 +45,7 @@ This section focuses on the social and cultural impact of artificial intelligenc
 
 ## AI can Pose Some Challenges and Risks for Space Exploration
 
-This list focuses on the potential drawbacks and pitfalls of artificial intelligence and space exploration, and how they need to be addressed and regulated, such as:
+This list focuses on the potential drawbacks and pitfalls of AI and space exploration, and how they need to be addressed and regulated, such as:
 
 - Ethical, legal, social, and technical issues, that may arise from the use or misuse of artificial intelligence in space.
 - The need for human oversight, control, and responsibility, to ensure that artificial intelligence is aligned with human values and interests.
@@ -70,3 +69,13 @@ Artificial Intelligence has become an indispensable tool for space exploration, 
 
 ## A few insights
 
+
+
+- Chien, Steve, et al. "Autonomous space exploration with heterogeneous mobile robots." Journal of Field Robotics 34, no. 2 (2017): 229-254.
+- Zeng, Y., Gao, Y., & Hu, J. "Artificial intelligence for space exploration: A review." Acta Astronautica 164 (2019): 576-590.
+- Othman, Mohamed A., and Abdallah Shami. "Artificial intelligence-based space exploration: A review of the state-of-the-art techniques and challenges." IEEE Access 8 (2020): 201842-201869.
+
+
+- Norris, Patricia, and William Wagner. The Use of Artificial Intelligence in Space Exploration. Springer, 2019.
+- Johnson, Mark, and Yvonne Cheng. Artificial Intelligence and Space Exploration: Past, Present, and Future. CRC Press, 2021.
+- Manning, Robert, and Anil K. Misra. Space Robotics: Dynamics and Control. Springer, 2019.
