@@ -96,6 +96,7 @@ Tagging System When it comes to finding the information you need, we understand 
     <span class="menu-item delimiter"></span><span translate="no">
             <select id="lang-selector" style="font-family: Verdana, Geneva, Tahoma, sans-serif;width: 50px;font-size:16px; background-color: rgb(117, 207, 207);border: none;">
                 <option value="">A文</option>
+                <option value="en">🇬🇧‎ English</option>
                 <option value="zh-CN">🇨🇳 中文简体</option>
                 <option value="zh-TW">🇹🇼 中文繁體</option>
                 <option value="ru">🇷🇺 Русский</option>
@@ -105,17 +106,22 @@ Tagging System When it comes to finding the information you need, we understand 
                 <option value="ar">📚 العربية</option>
                 <option value="fr">🇵🇹 Português</option>
                 <option value="ja">🇯🇵 日本語</option>
-                <option value="it">🇮🇹 italiano</option>
+                <option value="it">🇮🇹 Italiano</option>
             </select>
         
             <script>
                 var site = "https://cmsodi.github.io/satdh/";
                 var langSelector = document.getElementById("lang-selector");
-        
+
                 langSelector.addEventListener("change", function() {
                     var lang = langSelector.value;
                     if (lang !== "") {
-                        var translateUrl = "https://translate.google.com/website?sl=auto&tl=" + lang + "&hl&u=" + site;
+                        var translateUrl = "https://translate.google.com/website?sl=auto&tl=" + lang + "&hl&u=";
+                        if (lang === "en") {
+                            translateUrl = site;
+                        } else {
+                            translateUrl += site;
+                        }
                         window.location.href = translateUrl;
                     }
                 });
