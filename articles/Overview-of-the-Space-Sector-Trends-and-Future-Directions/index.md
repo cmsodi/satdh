@@ -1,8 +1,17 @@
 # Overview of the Space Sector: Trends and Future Directions
 
 
-
 ## Introduction
+
+
+{{< mermaid >}}
+graph LR;
+    A[Hard edge] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+{{< /mermaid >}}
+
 
 
 The space business is a fast expanding and ever-changing area that includes a wide range of operations.
@@ -28,7 +37,7 @@ Investment in space technology is one of the most important ways in which privat
 
 As a result of this increased private sector activity in space, a growing number of space analysts and economists have begun to refer to the "Space Economy" as a growth driver. This concept refers to the various economic activities that occur in the space sector, such as satellite production, launch services, space tourism, and asteroid mining. As the Space Economy continues to expand and evolve, it has the potential to generate new markets and industries, propel technological advancements, and present new opportunities for entrepreneurs and investors.
 
-  
+
 ### Expansion of Space Tourism
 
 > From suborbital flights to lunar excursions, space tourism is taking off and changing the way we view the final frontier.
