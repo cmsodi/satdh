@@ -4,16 +4,6 @@
 ## Introduction
 
 
-{{< mermaid >}}
-graph LR;
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-{{< /mermaid >}}
-
-
-
 The space business is a fast expanding and ever-changing area that includes a wide range of operations.
 
 It covers space exploration, satellite development and launch, and satellite-based service offerings. Since the first satellite was launched in 1957, the industry has gone a long way, and it now plays an important role in many facets of contemporary life, from communication and navigation to weather forecasting and scientific research.
