@@ -3,7 +3,6 @@
 
 ## Introduction
 
-
 The space business is a fast expanding and ever-changing area that includes a wide range of operations.
 
 It covers space exploration, satellite development and launch, and satellite-based service offerings. Since the first satellite was launched in 1957, the industry has gone a long way, and it now plays an important role in many facets of contemporary life, from communication and navigation to weather forecasting and scientific research.

@@ -49,9 +49,7 @@
         alt="/nuovologo6.svg"
         title="/nuovologo6.svg" /></a>
         </div>
-
         <div>
-            <div>
 
 
 
@@ -92,47 +90,58 @@
     </li>
 
     <span class="menu-item delimiter"></span><span translate="no">
-            <select id="lang-selector" style="font-family: Verdana, Geneva, Tahoma, sans-serif;width: 50px;font-size:16px; background-color: rgb(117, 207, 207);border: none;">
-                <option value="">A文</option>
-                <option value="en">🇬🇧‎ English</option>
-                <option value="zh-CN">🇨🇳 中文简体</option>
-                <option value="zh-TW">🇹🇼 中文繁體</option>
-                <option value="ru">🇷🇺 Русский</option>
-                <option value="es">🇪🇸 Español</option>
-                <option value="fr">🇫🇷 Français</option>
-                <option value="de">🇩🇪 Deutsch</option>
-                <option value="ar">📚 العربية</option>
-                <option value="pt">🇵🇹 Português</option>
-                <option value="ja">🇯🇵 日本語</option>
-                <option value="it">🇮🇹 Italiano</option>
-            </select>
+
+    
+
+    <select id="lang-selector" style="font-family: Verdana, Geneva, Tahoma, sans-serif;width: 50px;font-size:16px; background-color: rgb(117, 207, 207);border: none;">
         
-            <script>
-                var site = "https://cmsodi.github.io/satdh/";
-                var langSelector = document.getElementById("lang-selector");
+        <option value="">A文</option>
+        
+        <option value="en">🇬🇧‎ English</option>
+        
+        <option value="zh-CN">🇨🇳 中文简体</option>
+        
+        <option value="zh-TW">🇹🇼 中文繁體</option>
+        
+        <option value="ru">🇷🇺 Русский</option>
+        
+        <option value="es">🇪🇸 Español</option>
+        
+        <option value="fr">🇫🇷 Français</option>
+        
+        <option value="de">🇩🇪 Deutsch</option>
+        
+        <option value="ar">📚 العربية</option>
+        
+        <option value="pt">🇵🇹 Português</option>
+        
+        <option value="ja">🇯🇵 日本語</option>
+        
+        <option value="it">🇮🇹 Italiano</option>
+        
+    </select>
 
-                langSelector.addEventListener("change", function() {
-                    var lang = langSelector.value;
-                    if (lang !== "") {
-                        var translateUrl = "https://translate.google.com/website?sl=auto&tl=" + lang + "&hl&u=";
-                        if (lang === "en") {
-                            translateUrl = site;
-                        } else {
-                            translateUrl += site;
-                        }
-                        window.location.href = translateUrl;
-                    }
-                });
-            </script>
-        </span>        
+    <script>
+        
+        var site = "https://cmsodi.github.io/satdh/";
+        var gglPrefix = "https://translate.google.com/website?sl=auto&tl=";
+        var gglSuffix = "&hl&u=";
+        var langSelector = document.getElementById("lang-selector");
 
-<a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
-                    <i class="fas fa-adjust fa-fw"></i>
-                </a>
+        langSelector.addEventListener("change", function() {
+            var lang = langSelector.value;
+            if (lang) {
+                var translateUrl = lang === "en" ? site : gglPrefix + lang + gglSuffix + site;
+                window.location.href = translateUrl;
+              }
+        });
 
-                </div>
+    </script>
+
+</span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a>
         </div>
-
     </div>
 </header><header class="mobile" id="header-mobile">
     <div class="header-container">

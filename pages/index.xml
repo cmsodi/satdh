@@ -8,16 +8,6 @@
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/pages/lang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/lang/</guid>
-      <description>The links in the submenus lead to the version of the site translated by Google Translate in the respective languages. Once a translation is visible, the Google top bar allows you to translate into all languages supported by Google Translate.
-To return to the original text, press the English submenu.</description>
-    </item>
-    
-    <item>
       <title>navigator</title>
       <link>/pages/filter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -32,8 +22,7 @@ To return to the original text, press the English submenu.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pages/tagging/</guid>
-      <description>The organization of information is crucial for the efficient retrieval of data. Taxonomies are useful for categorizing ideas, concepts, and objects according to a hierarchical structure. A well-designed structure enhances the user experience by making it easier to locate relevant information and placing items in the appropriate category. The efficiency of a taxonomy is heavily dependent on its usability and navigability.
-Despite the fact that there is no one-size-fits-all approach to categorization, adapting the taxonomy to the specific situation can increase its utility. Items on this website are classified into various categories based on the above labels. Taking into account variables such as user behavior, preferences, and search patterns, these categories can be modified to meet the specific needs of website visitors.
+      <description>The organization of information is crucial for the efficient retrieval of data. Taxonomies are useful for categorizing ideas, concepts, and objects according to a hierarchical structure. A well-designed structure enhances the user experience by making it easier to locate relevant information and placing items in the appropriate category. The efficiency of a taxonomy is heavily dependent on its usability and navigability. Despite the fact that there is no one-size-fits-all approach to categorization, adapting the taxonomy to the specific situation can increase its utility. Items on this website are classified into various categories based on the above labels. Taking into account variables such as user behavior, preferences, and search patterns, these categories can be modified to meet the specific needs of website visitors.
 It is important to note that an article can often fit into multiple categories or labels within a taxonomy.
 In fact, allowing for multiple categories or tags can enhance the usefulness of a taxonomy.</description>
     </item>
