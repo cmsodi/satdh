@@ -130,15 +130,16 @@ Tagging System When it comes to finding the information you need, we understand 
         var gglSuffix = "&hl&u=";
         var langSelector = document.getElementById("lang-selector");
 
+
         langSelector.addEventListener("change", function() {
             var lang = langSelector.value;
             if (lang) {
                 var translateUrl = lang === "en" ? site : gglPrefix + lang + gglSuffix + site;
                 window.location.href = translateUrl;
                 if (lang === "ar") {
-                    document.body.classList.add("rtl");
+                    single-card.classList.add("rtl");
                 } else {
-                    document.body.classList.remove("rtl");
+                    single-card.classList.remove("rtl");
                 }
             }
         });
