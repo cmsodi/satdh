@@ -122,26 +122,42 @@
     </select>
 
     <script>
-        
         var site = "https://cmsodi.github.io/satdh/";
         var gglPrefix = "https://translate.google.com/website?sl=auto&tl=";
-        var gglSuffix = "&hl&u=";
-        var langSelector = document.getElementById("lang-selector");
-
-
-        langSelector.addEventListener("change", function() {
-            var lang = langSelector.value;
-            if (lang) {
-                var translateUrl = lang === "en" ? site : gglPrefix + lang + gglSuffix + site;
-                window.location.href = translateUrl;
-                if (lang === "ar") {
-                    single-card.classList.add("rtl");
-                } else {
-                    single-card.classList.remove("rtl");
-                }
-            }
+        var gglSuffix = "&hl&u=";    
+        var langSelector = document.getElementById("lang-selector"); 
+        var item; 
+    
+        document.addEventListener('DOMContentLoaded', function() {
+            item = document.querySelector('.main');
+            var lang = localStorage.getItem('lang'); 
+            if (lang === "ar") {   
+                item.classList.add("rtl");   
+                console.log("if1=" + item);
+            } else {  
+                item.classList.remove("rtl"); 
+                console.log("if2=" + item);
+            }            
+            console.log("item=" + item);
         });
-
+    
+        langSelector.addEventListener("change", function() {   
+            var lang = langSelector.value;    
+            if (lang) {    
+                var translateUrl = lang === "en" ? site : gglPrefix + lang + gglSuffix + site;   
+                window.location.href = translateUrl;  
+                console.log("lang=" + lang); 
+                if (lang === "ar") {   
+                    item.classList.add("rtl");   
+                    console.log("if1=" + item);
+                } else {  
+                    item.classList.remove("rtl"); 
+                    console.log("if2=" + item);
+                } 
+                localStorage.setItem('lang', lang); 
+            }  
+            console.log("translateUrl=" + translateUrl);
+        });  
     </script>
 
 </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
