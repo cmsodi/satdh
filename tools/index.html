@@ -127,15 +127,17 @@
             if (lang) {    
                 var translateUrl;
                 if (lang === "en") {
-                    const headerDesktop = document.getElementById('header-desktop');
-                    headerDesktop.style.setProperty('margin-top', '0px');                   
                     translateUrl = site;
+                    const headerDesktop = document.getElementById('header-desktop');
+                    headerDesktop.style.setProperty('margin-top', '0px');                  
+                    headerDesktop.style.setProperty('font-weight', 900);                  
                 } else {
                     const headerDesktop = document.getElementById('header-desktop');
                     headerDesktop.style.setProperty('margin-top', '-57px');
+                    headerDesktop.style.setProperty('font-weight', '500');                  
                     translateUrl = gglPrefix + lang + gglSuffix + site;
                 }  
-                window.location.href = translateUrl;  
+                
                 console.log("lang=" + lang); 
                 if (lang === "ar") {   
                     item.classList.add("rtl");   
