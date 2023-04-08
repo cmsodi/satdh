@@ -150,14 +150,8 @@
             if (lang) {    
                 var translateUrl;
                 if (lang === "en") {
-                    translateUrl = site;
-                    const headerDesktop = document.getElementById('header-desktop');
-                    headerDesktop.style.setProperty('margin-top', '0px');                  
-                    headerDesktop.style.setProperty('font-weight', 900);                  
-                } else {
-                    const headerDesktop = document.getElementById('header-desktop');
-                    headerDesktop.style.setProperty('margin-top', '-57px');
-                    headerDesktop.style.setProperty('font-weight', '500');                  
+                    translateUrl = site;               
+                } else {                
                     translateUrl = gglPrefix + lang + gglSuffix + site;
                 }  
                 window.location.href = translateUrl;  
