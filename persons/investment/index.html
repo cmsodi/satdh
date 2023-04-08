@@ -17,7 +17,7 @@
 <meta name="apple-mobile-web-app-title" content="satdh"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png"><link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="../../site.webmanifest"><link rel="canonical" href="../../persons/investment/" /><link rel="alternate" href="../../persons/investment/index.xml" type="application/rss+xml" title="satdh">
-    <link rel="feed" href="../../persons/investment/index.xml" type="application/rss+xml" title="satdh"><link rel="stylesheet" href="../../css/page.min.css"><link rel="stylesheet" href="../../css/home.min.css"></head><body data-header-desktop="auto" data-header-mobile="auto"><script>(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+    <link rel="feed" href="../../persons/investment/index.xml" type="application/rss+xml" title="satdh"><link rel="stylesheet" href="../../css/page.min.css"><link rel="stylesheet" href="../../css/home.min.css"></head><body data-header-desktop="fixed" data-header-mobile="fixed"><script>(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
 
         <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
     <div class="header-wrapper">
@@ -126,7 +126,16 @@
         langSelector.addEventListener("change", function() {   
             var lang = langSelector.value;    
             if (lang) {    
-                var translateUrl = lang === "en" ? site : gglPrefix + lang + gglSuffix + site;   
+                var translateUrl;
+                if (lang === "en") {
+                    const headerDesktop = document.getElementById('header-desktop');
+                    headerDesktop.style.setProperty('margin-top', '0px');                   
+                    translateUrl = site;
+                } else {
+                    const headerDesktop = document.getElementById('header-desktop');
+                    headerDesktop.style.setProperty('margin-top', '-57px');
+                    translateUrl = gglPrefix + lang + gglSuffix + site;
+                }  
                 window.location.href = translateUrl;  
                 console.log("lang=" + lang); 
                 if (lang === "ar") {   
@@ -215,6 +224,4 @@ if ('serviceWorker' in navigator) {
 
         <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
                 <i class="fas fa-chevron-up fa-fw"></i>
-            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
-                <i class="fas fa-comment-alt fa-fw"></i>
             </a></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"><script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script>window.config={"code":{"maxShownLines":10}};</script><script src="../../js/theme.min.js"></script></body></html>
