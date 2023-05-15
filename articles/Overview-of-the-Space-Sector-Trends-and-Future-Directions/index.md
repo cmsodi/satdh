@@ -5,11 +5,11 @@
 
 The space business is a fast expanding and ever-changing area that includes a wide range of operations.
 
-It covers space exploration, satellite development and launch, and satellite-based service offerings. Since the first satellite was launched in 1957, the industry has gone a long way, and it now plays an important role in many facets of contemporary life, from communication and navigation to weather forecasting and scientific research.
+It covers space exploration, satellite development and launch and satellite-based service offerings. Since the first satellite was launched in 1957, the industry has gone a long way and it now plays an important role in many facets of contemporary life, from communication and navigation to weather forecasting and scientific research.
 
-The space sector is continuously changing, and being up-to-date on the newest trends and breakthroughs is crucial to understanding and managing the future of space.
+The space sector is continuously changing and being up-to-date on the newest trends and breakthroughs is crucial to understanding and managing the future of space.
 
-This article presents a brief review of a few developments in the space industry, such as commercialization, the introduction of microsatellites (MicroSats), progress in space exploration and colonization, improvements in space propulsion, and efforts to control space debris.
+This article presents a brief review of a few developments in the space industry, such as commercialization, the introduction of microsatellites (MicroSats), progress in space exploration and colonization, improvements in space propulsion and efforts to control space debris.
 
 
 ## Commercialization of Space
@@ -18,13 +18,13 @@ This article presents a brief review of a few developments in the space industry
 ### Increase in Private Companies Entering the Market
 
 
-> While governments will always have a regulatory role, it falls now upon entrepreneurs, managers, investors, and innovators to develop new commercial space systems that are devised to benefit humanity today and in the future to the greatest extent possible. **(McElroy, 2022)** (The Space Industry of the Future Capitalism and Sustainability in Outer Space)
+> While governments will always have a regulatory role, it falls now upon entrepreneurs, managers, investors and innovators to develop new commercial space systems that are devised to benefit humanity today and in the future to the greatest extent possible. **(McElroy, 2022)** (The Space Industry of the Future Capitalism and Sustainability in Outer Space)
 
 In recent years, the number of private companies entering the space sector has increased significantly. This trend can be attributed to the increasing commercialization of space and technological advancements that have made it simpler and more affordable for private companies to engage in space-related activities. There are numerous private companies involved in the space industry today, from satellite suppliers to space tourism companies.
 
 Investment in space technology is one of the most important ways in which private companies contribute to the space sector. This investment is supporting the economy and driving innovation in the field. Entrepreneurs are driving innovation in the space sector, from the creation of novel propulsion systems to the development of new satellite technologies. This innovation not only pushes the limits of what is possible in space exploration, but also generates new business opportunities and stimulates employment growth in associated industries.
 
-As a result of this increased private sector activity in space, a growing number of space analysts and economists have begun to refer to the "Space Economy" as a growth driver. This concept refers to the various economic activities that occur in the space sector, such as satellite production, launch services, space tourism, and asteroid mining. As the Space Economy continues to expand and evolve, it has the potential to generate new markets and industries, propel technological advancements, and present new opportunities for entrepreneurs and investors.
+As a result of this increased private sector activity in space, a growing number of space analysts and economists have begun to refer to the "Space Economy" as a growth driver. This concept refers to the various economic activities that occur in the space sector, such as satellite production, launch services, space tourism and asteroid mining. As the Space Economy continues to expand and evolve, it has the potential to generate new markets and industries, propel technological advancements and present new opportunities for entrepreneurs and investors.
 
 
 ### Expansion of Space Tourism
@@ -49,7 +49,7 @@ The growth of space tourism represents an intriguing shift in the space industry
 
 > Small but mighty: How CubeSats and MicroSats are revolutionizing the space industry.
 
-Small satellites, such as CubeSats and MicroSats, have grown in popularity over the past few years, and for good reason. These miniature marvels offer numerous advantages that larger, more conventional spacecraft simply cannot match. Small satellites, for instance, can be launched quickly and affordably, making it easier to send multiple satellites into orbit simultaneously. This enables the creation of larger, more complex satellite constellations that can be used for a variety of applications, including remote sensing, communication, and navigation. Smaller satellites are also well-suited for applications that larger spacecraft may not be able to perform, such as monitoring weather patterns, tracking the migration of wildlife, and observing natural disasters.
+Small satellites, such as CubeSats and MicroSats, have grown in popularity over the past few years and for good reason. These miniature marvels offer numerous advantages that larger, more conventional spacecraft simply cannot match. Small satellites, for instance, can be launched quickly and affordably, making it easier to send multiple satellites into orbit simultaneously. This enables the creation of larger, more complex satellite constellations that can be used for a variety of applications, including remote sensing, communication and navigation. Smaller satellites are also well-suited for applications that larger spacecraft may not be able to perform, such as monitoring weather patterns, tracking the migration of wildlife and observing natural disasters.
 
 {{< image src="F-1_CubeSat_Flight_Model.jpg" caption=`F-1 CubeSat Flight Model - 27 November 2011 - Author: Thuvt - https://creativecommons.org/licenses/by-sa/3.0/deed.en` width=100% >}}
 
@@ -72,11 +72,11 @@ The moon has recently been identified as an essential exploration target, with s
 
 ### The Next Frontier for Human Exploration: Mars
 
-A mission to Mars is becoming more feasible due to recent technological advancements and the increased capabilities of private enterprises. Mars has been the focus of human exploration for decades. Exploration of Mars has the potential to shed light on the origins of life, the viability of future human settlements, and the planet's resources. In addition to paving the way for future missions to other planets and asteroids, establishing a presence on Mars could provide a platform for conducting scientific experiments and developing new technologies.
+A mission to Mars is becoming more feasible due to recent technological advancements and the increased capabilities of private enterprises. Mars has been the focus of human exploration for decades. Exploration of Mars has the potential to shed light on the origins of life, the viability of future human settlements and the planet's resources. In addition to paving the way for future missions to other planets and asteroids, establishing a presence on Mars could provide a platform for conducting scientific experiments and developing new technologies.
 
 ### Advancements in Life Support Systems and Extended Mission Durations
 
-Exploration and colonization of space require life support systems and the capacity to support long-duration missions. Significant recent progress has been made in these fields, with the development of new technology and procedures to facilitate human exploration and colonization beyond Earth. These evolutions include the creation of innovative life support systems, radiation shielding, and the capacity to recycle resources. These scientific advances are crucial to the success of future missions to the moon and beyond, as they will ensure the safety and well-being of astronauts during long-duration missions and enable the establishment of permanent human settlements in space.
+Exploration and colonization of space require life support systems and the capacity to support long-duration missions. Significant recent progress has been made in these fields, with the development of new technology and procedures to facilitate human exploration and colonization beyond Earth. These evolutions include the creation of innovative life support systems, radiation shielding and the capacity to recycle resources. These scientific advances are crucial to the success of future missions to the moon and beyond, as they will ensure the safety and well-being of astronauts during long-duration missions and enable the establishment of permanent human settlements in space.
 
 ## Advancements in Space Propulsion
 
@@ -90,7 +90,7 @@ In recent years, the development of reusable rockets has been one of the most ex
 
 ### Investing in New Propulsion Technologies
 
-Along with the improvement of reusable rockets, investment in novel propulsion technologies has increased. New propulsion technologies, ranging from electric propulsion to nuclear-powered systems, are being researched to provide more efficient and cost-effective alternatives for space travel. These technologies have the potential to revolutionize the space industry and make future trips to the moon, Mars, and beyond possible.
+Along with the improvement of reusable rockets, investment in novel propulsion technologies has increased. New propulsion technologies, ranging from electric propulsion to nuclear-powered systems, are being researched to provide more efficient and cost-effective alternatives for space travel. These technologies have the potential to revolutionize the space industry and make future trips to the moon, Mars and beyond possible.
 
 ## Space Debris and Mitigation
 
@@ -115,7 +115,7 @@ More on International cooperation at [Space Diplomacy](/balancing-competition-sp
 
 > Keeping up with space industry trends is essential. Monitoring the space sector and keeping up with new developments will help predict space exploration and trade.
 
-The commercialization of space, the emergence of nanosatellites, advances in space exploration and colonization, breakthroughs in space propulsion, and initiatives to manage space debris are a few of the few significant themes in the space industry that have been discussed in this article. These trends, ranging from the increasing capabilities of private companies to the declining cost of accessing space, have the potential to stimulate greater growth and innovation in the sector. With the possibility of new discoveries, new technologies, and new commercial opportunities, the future of space exploration and commerce is becoming more and more exciting.
+The commercialization of space, the emergence of nanosatellites, advances in space exploration and colonization, breakthroughs in space propulsion and initiatives to manage space debris are a few of the few significant themes in the space industry that have been discussed in this article. These trends, ranging from the increasing capabilities of private companies to the declining cost of accessing space, have the potential to stimulate greater growth and innovation in the sector. With the possibility of new discoveries, new technologies and new commercial opportunities, the future of space exploration and commerce is becoming more and more exciting.
 
 
 ## A few insights

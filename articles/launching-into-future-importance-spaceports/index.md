@@ -3,9 +3,9 @@
 
 ## Introduction
 
-Spaceports are facilities intended for launching, landing, and servicing spacecraft. They typically include a runway, launch pads, mission control centers, and other necessary infrastructure for spacecraft operation. They serve as storage and maintenance sites for spacecraft, offering a secure environment for astronauts and personnel to train and prepare for space missions.  
+Spaceports are facilities intended for launching, landing and servicing spacecraft. They typically include a runway, launch pads, mission control centers and other necessary infrastructure for spacecraft operation. They serve as storage and maintenance sites for spacecraft, offering a secure environment for astronauts and personnel to train and prepare for space missions.  
 
-As space exploration progresses, spaceports' significance amplifies. They've been a vital aspect of space technology and exploration development, from the earliest days of space travel until today. This post delves into the history of spaceports, their role in space exploration currently, and the difficulties in constructing and maintaining them. It also examines spaceports' potential economic impact and speculates on what the future holds for them. By the end, you'll have a clearer comprehension of spaceports' importance and their role in space exploration.
+As space exploration progresses, spaceports' significance amplifies. They've been a vital aspect of space technology and exploration development, from the earliest days of space travel until today. This post delves into the history of spaceports, their role in space exploration currently and the difficulties in constructing and maintaining them. It also examines spaceports' potential economic impact and speculates on what the future holds for them. By the end, you'll have a clearer comprehension of spaceports' importance and their role in space exploration.
 
 ## Overview of Spaceports' History
 
@@ -19,9 +19,9 @@ Spaceports can support different types of launch vehicles, such as expendable or
 
 Spaceports are not only used for government or military purposes but also for commercial and civil activities. Many private companies have developed their own launch vehicles and spacecraft that use existing or new spaceports. Some examples are SpaceX, Blue Origin, Virgin Galactic, Rocket Lab, Astra, Firefly Aerospace etc. These companies offer services such as satellite launch, cargo delivery to orbit or to the International Space Station (ISS), human spaceflight (including space tourism), lunar exploration etc.
 
-There are several types of spaceports, including government-owned, commercial, and military spaceports:
+There are several types of spaceports, including government-owned, commercial and military spaceports:
 
-- Ggovernment-owned facilities, which are usually operated by national space agencies like NASA, ESA, and CNSA.
+- Ggovernment-owned facilities, which are usually operated by national space agencies like NASA, ESA and CNSA.
 - Private facilities, which are owned and operated by companies such as SpaceX and Blue Origin.
 - Military facilities, which are utilized for defense purposes like missile testing and satellite launches.
 
@@ -37,7 +37,7 @@ They are also classified based on their geographical location, such as equatoria
 
 
 
-In this section, we will provide an overview of the major spaceports around the world, their locations, and their missions. Comparing spaceports based on their capabilities and services is important for determining which launch facility is best suited for a particular mission. The following table compares some spaceports based on their capabilities, facilities, and services. 
+In this section, we will provide an overview of the major spaceports around the world, their locations and their missions. Comparing spaceports based on their capabilities and services is important for determining which launch facility is best suited for a particular mission. The following table compares some spaceports based on their capabilities, facilities and services. 
 <div style="font-size:.7rem;">
 
 | Spaceport                       | Location      | Missions                                                     | Capabilities                                   | Facilities                                                   | Services                                      |
@@ -50,7 +50,7 @@ In this section, we will provide an overview of the major spaceports around the 
 | Spaceport America               | United States | Suborbital and orbital launches, commercial spaceflights     | Can launch SpaceShipTwo and LauncherOne        | Launch pad, hangar, mission control center                   | Payload integration, launch services          |
 
 </div>
-As the table shows, spaceports around the world vary in their missions, capabilities, and services. Some of them are primarily focused on launching satellites, while others are geared towards crewed missions and resupply missions to the International Space Station. Additionally, there is a growing trend towards commercial facilities, with Spaceport America being an example of a facility that caters to suborbital and orbital launches for private companies.
+As the table shows, spaceports around the world vary in their missions, capabilities and services. Some of them are primarily focused on launching satellites, while others are geared towards crewed missions and resupply missions to the International Space Station. Additionally, there is a growing trend towards commercial facilities, with Spaceport America being an example of a facility that caters to suborbital and orbital launches for private companies.
 
 
 
@@ -58,11 +58,11 @@ As the table shows, spaceports around the world vary in their missions, capabili
 
 ### Cost of construction and maintenance
 
-The building and maintaining costs are significant and must be carefully considered to ensure that it is sustainable over the long term. Factors contributing to the cost of construction and maintenance include the cost of materials, labor, and equipment. Additional costs are represented by the provision of the necessary infrastructure and services for spacecraft operation. Then there is the cost of training ground and support personnel as well as astronauts and the development and maintenance of the technological devices that allow the spaceport to operate.
+The building and maintaining costs are significant and must be carefully considered to ensure that it is sustainable over the long term. Factors contributing to the cost of construction and maintenance include the cost of materials, labor and equipment. Additional costs are represented by the provision of the necessary infrastructure and services for spacecraft operation. Then there is the cost of training ground and support personnel as well as astronauts and the development and maintenance of the technological devices that allow the spaceport to operate.
 
 ### Environmental impact
 
-The environmental impact of spaceports must also be considered. They can have a significant impact on the environment both in terms of the direct impact of the construction and operation of the facility, as well as the indirect impact of the activities it supports. Factors that can impact the environment include air and water pollution, soil erosion, and the loss of wildlife habitats. It is important to carefully consider the environmental impact of spaceports, and to take steps to minimize their impact wherever possible.
+The environmental impact of spaceports must also be considered. They can have a significant impact on the environment both in terms of the direct impact of the construction and operation of the facility, as well as the indirect impact of the activities it supports. Factors that can impact the environment include air and water pollution, soil erosion and the loss of wildlife habitats. It is important to carefully consider the environmental impact of spaceports and to take steps to minimize their impact wherever possible.
 
 ![pollution](pollution.jpg)
 
@@ -76,15 +76,15 @@ The operations safety and security  is of utmost importance. Spaceports must com
 
 ### Competition for resources
 
-An issue derives from competition with other infrastructure projects for limited resources, including funding, personnel and materials. This can make it difficult to build and maintain spaceports especially in countries with limited resources. It is important to be strategic in their approach to resource allocation, and to seek partnerships and collaborations with other organizations and governments to maximize their impact.
+An issue derives from competition with other infrastructure projects for limited resources, including funding, personnel and materials. This can make it difficult to build and maintain spaceports especially in countries with limited resources. It is important to be strategic in their approach to resource allocation and to seek partnerships and collaborations with other organizations and governments to maximize their impact.
 
 ## Potential economic impact of spaceports
 
-Spaceports can have significant economic impacts on the regions where they are located, as well as on the global space industry. However, these impacts depend on several factors, such as the level of public investment, the market demand, the regulatory environment, and the technological innovation.
+Spaceports can have significant economic impacts on the regions where they are located, as well as on the global space industry. However, these impacts depend on several factors, such as the level of public investment, the market demand, the regulatory environment and the technological innovation.
 
 ### Jobs creation
 
-One of the main benefits of spaceports is that they can create direct and indirect jobs in various sectors, such as aerospace engineering, manufacturing, construction, operations, maintenance, and services. For example, a <a href="https://publications.europa.eu/resource/cellar/cb805ac6-bc49-11e6-a237-01aa75ed71a1.0001.04/DOC_1" target="_blank">study by PricewaterhouseCoopers</a> estimated that the Copernicus program, which uses ESA's Sentinel satellites launched from various spaceports around the world, will generate a cumulative economic value of 13.5 billion euros for upstream and downstream users in the period 2008 to 2020. 
+One of the main benefits of spaceports is that they can create direct and indirect jobs in various sectors, such as aerospace engineering, manufacturing, construction, operations, maintenance and services. For example, a <a href="https://publications.europa.eu/resource/cellar/cb805ac6-bc49-11e6-a237-01aa75ed71a1.0001.04/DOC_1" target="_blank">study by PricewaterhouseCoopers</a> estimated that the Copernicus program, which uses ESA's Sentinel satellites launched from various spaceports around the world, will generate a cumulative economic value of 13.5 billion euros for upstream and downstream users in the period 2008 to 2020. 
 
 ### Innovation and competitiveness
 
@@ -113,14 +113,14 @@ The future of spaceports may see more diversity and innovation as new technologi
 
 ## A few insights
 
-- Patel, Manish, and Herman Haeusler. "Spaceport infrastructure for the emerging space economy." Acta Astronautica 156 (2019): 1-12.
+- Patel, Manish and Herman Haeusler. "Spaceport infrastructure for the emerging space economy." Acta Astronautica 156 (2019): 1-12.
 
-- Lappas, Vaios, and Mattia Perren. "Spaceport sustainability: challenges and opportunities." Journal of Cleaner Production 270 (2020): 122469.
+- Lappas, Vaios and Mattia Perren. "Spaceport sustainability: challenges and opportunities." Journal of Cleaner Production 270 (2020): 122469.
 
-- Stojčić, Davor, Svjetlana Srhoj, and Nevenka Čavlek. "Spaceports as a driver for regional development." Geographica Pannonica 23, no. 2 (2019): 69-82.
+- Stojčić, Davor, Svjetlana Srhoj and Nevenka Čavlek. "Spaceports as a driver for regional development." Geographica Pannonica 23, no. 2 (2019): 69-82.
 
 - 
-  Johnson, Mark, and Yvonne Cheng. Artificial Intelligence and Space Exploration: Past, Present, and Future. CRC Press, 2021.
+  Johnson, Mark and Yvonne Cheng. Artificial Intelligence and Space Exploration: Past, Present and Future. CRC Press, 2021.
 
 - Beattie, Donald. Human Spaceflight: From Mars to the Stars. Springer, 2019.
 

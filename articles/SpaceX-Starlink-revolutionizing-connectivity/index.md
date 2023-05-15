@@ -9,7 +9,7 @@ These constellations are designed to provide global broadband internet access an
 
 Currently, there are several companies that are developing or have launched LEO satellite constellations.  
 One of the most notable examples is SpaceX's [Starlink](https://www.starlink.com/) project, which has launched over 3,000 satellites as of 2022 and plans to eventually launch over 42,000 satellites to provide internet access to remote and underserved areas.  
-Other companies that have launched or are developing LEO satellite constellations include Amazon's Project [Kuiper](https://www.aboutamazon.com/news/tag/project-kuiper), [OneWeb](https://oneweb.net/), and [Telesat](https://www.telesat.com/).
+Other companies that have launched or are developing LEO satellite constellations include Amazon's Project [Kuiper](https://www.aboutamazon.com/news/tag/project-kuiper), [OneWeb](https://oneweb.net/) and [Telesat](https://www.telesat.com/).
 
 ## Revolutionizing Telecommunications
 
@@ -17,8 +17,8 @@ Other companies that have launched or are developing LEO satellite constellation
 
 Starlink is a satellite internet service created by SpaceX that is revolutionizing the way people access the internet.  
 By launching thousands of satellites into low Earth orbit, Starlink is able to provide high-speed internet access to people in remote and rural areas that were previously unable to access the internet.  
-This increased accessibility has allowed people in these areas to access educational resources, participate in the global economy, and stay connected with family and friends.  
-Additionally, Starlink has enabled businesses to expand their reach and provide services to customers in areas that were previously unreachable. This increased accessibility has been a game-changer for many people and businesses, and it is only the beginning of what Starlink can do.
+This increased accessibility has allowed people in these areas to access educational resources, participate in the global economy and stay connected with family and friends.  
+Additionally, Starlink has enabled businesses to expand their reach and provide services to customers in areas that were previously unreachable. This increased accessibility has been a game-changer for many people and businesses and it is only the beginning of what Starlink can do.
 
 ### Improved Connectivity
 
@@ -48,7 +48,7 @@ This has resulted in increased competition in the satellite internet industry, a
 ### Improved Quality of Service
 
 <img class="featured-image" src="pic.jpg" style="width: 50%; height:100%; float: left; padding-right:1rem; object-fit:cover; object-position:55% 50%;" alt="alt text">
-Starlink has made improvements to the quality of service for all aspects of a connection, including response time, loss, signal-to-noise ratio, crosstalk, echo, interrupts, frequency response, loudness levels, and more.  
+Starlink has made improvements to the quality of service for all aspects of a connection, including response time, loss, signal-to-noise ratio, crosstalk, echo, interrupts, frequency response, loudness levels and more.  
 These improvements are due to the use of low-latency satellites, which are placed in low-Earth orbit. This allows for faster speeds and more reliable connections.  Additionally, Starlink has implemented a number of technologies to reduce latency, such as beam forming and adaptive routing. This ensures that users get the best possible connection, no matter where they are located.
 
 ### New Opportunities for Innovation
