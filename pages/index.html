@@ -31,123 +31,223 @@
         alt="/nuovologo6.svg"
         title="/nuovologo6.svg" /></a>
         </div>
-        <div>
+<style>
+
+    
+    .navbar {
+      
+      
+      
+      
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .navbar a {
+      
+      
+      
+      
+      
+    }
+    
+    .dropdown {
+      
+      
+      
+    }
+    
+    
+    .navbar a:hover, .dropdown:hover .dropbtn {
+        
+      }  
+
+      .dropbtn {
+        
+        font-size: .8rem;
+      }
+    
+    .dropdown-content {
+        font-size: .8rem;
+      display: none;
+      position: absolute;
+      background-color: #bebebe;
+      
+      width: 100%;
+      left: 0;
+      padding: 0 2rem 2rem 2rem;
+      line-height: 1.2rem;
+      
+      z-index: 1;
+    }
+    
+    .dropdown-content .header {
+        
+        
+        padding: 10px 10px 10px 10px;
+      margin: 20px 0 8px 0;
+      text-align: center;
+      
+    }
+    
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    
+     
+    .column {
+      float: right;
+      width: 25%;
+      padding: 10px 10px 10px 10px;
+      
+      [theme=dark] & {
+        background-color: $table-background-color-dark;
+      };
+      
+      line-height: 2rem;
+    }
+    
+    .column a {
+      float: none;
+      
+      
+      text-decoration: none;
+      display: block;
+      text-align: left;
+      line-height: 1.5rem;
+      font-weight: 400;
+    }
+    
+    .column a:hover {
+      background-color: #ddd;
+    }
+    
+     
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .row {
+        text-align: center;
+    }
+
+    .big{
+    font-size: 1.0rem;
+    font-weight: 900;
+    text-align: center;
+    }
+    
+     
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+        height: auto;
+      }
+    }
+    </style>
+    
+
+      <div class="dropdown">
+        <div class="dropbtn">articles 
+          <i class="fa fa-caret-down"></i>
+        </div>
+        <div class="dropdown-content">
+          <div class="header">
+            <h3>The lower pane provides links to the classes and terms of the <a href="../pages/classes/">"Four Causes of Space Exploration"</a> classification system.</h3>
+          </div>   
+          <div class="row">
+            <div class="column">
+              <div class="big"><a href="../fields">fields</a></div>
+              <a href="../fields/strategies/">strategies</a>
+              <a href="../fields/technologies">technologies</a>
+              <a href="../fields/programs">programs</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../purposes">purposes</a></div>
+              <a href="../purposes/exploitation">exploitation</a>
+              <a href="../purposes/research">research</a>
+              <a href="../purposes/services">services</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../actors">actors</a></div>
+              <a href="../actors/business">business</a>
+              <a href="../actors/public-sector">public sector</a>
+              <a href="../actors/science">science</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../objects">objects</a></div>
+              <a href="../objects/spacecrafts">spacecrafts</a>
+              <a href="../objects/launchers">launchers</a>
+              <a href="../objects/stations">stations</a>
+            </div>
+          </div>
+        </div>
+      </div> 
+
+    
+    <div>
 
 
 
     
 
-    <li class="parent"><a href="../pages/site/">the site</a>
+    <li class="parent"><a href="../pages/filter/">filter</a>
     
     </li>
 
     
 
-    <li class="parent"><a href="../pages/tagging/">taxonomies</a>
-    
-        <ul class="child">
-            
-            <li><a href="../objects/">objects</a></li>
-            
-            <li><a href="../purposes/">purposes</a></li>
-            
-            <li><a href="../persons/">persons</a></li>
-            
-            <li><a href="../countries/">countries</a></li>
-            
-        </ul>
+    <li class="parent"><a href="../pages/classes/">classes</a>
     
     </li>
 
     
 
-    <li class="parent"><a href="../articles/">chronology</a>
+    <li class="parent"><a href="../pages/aboutus/">about us</a>
     
     </li>
 
-    
+    <span class="menu-item delimiter"></span><style>
+    .goog-te-gadget-simple {
+        background-color: rgba(255, 255, 255, 0);
+        border: none;
+        padding: 0;
+        cursor: pointer;
+      }
+      div#google_translate_element span {
+        vertical-align: middle;
+        display: none;
 
-    <li class="parent"><a href="../pages/filter/">navigator</a>
-    
-    </li>
+    }
+    .google-translate-element{
+        margin-right: 10px;
+    }
+</style>
 
-    <span class="menu-item delimiter"></span><span translate="no">
+<div class="parent" id="google_translate_element"></div>
+<script type="text/javascript">
 
-    
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+          pageLanguage: 'en', 
+          includedLanguages: 'zh-CN,zh-TW,ru,es,fr,ar,de,it', 
+          layout: google.translate.TranslateElement.InlineLayout.SIMPLE, 
+          autoDisplay: false, 
+          multilanguagePage: false, 
+          showLanguageOption: true, 
 
-    <select id="lang-selector" style="font-family: Verdana, Geneva, Tahoma, sans-serif;width: 50px;font-size:16px; background-color: rgb(117, 207, 207);border: none;">
-        
-        <option value="">A文</option>
-        
-        <option value="en">🇬🇧‎ English</option>
-        
-        <option value="zh-CN">🇨🇳 中文简体</option>
-        
-        <option value="zh-TW">🇹🇼 中文繁體</option>
-        
-        <option value="ru">🇷🇺 Русский</option>
-        
-        <option value="es">🇪🇸 Español</option>
-        
-        <option value="fr">🇫🇷 Français</option>
-        
-        <option value="de">🇩🇪 Deutsch</option>
-        
-        <option value="ar">📚 العربية</option>
-        
-        <option value="pt">🇵🇹 Português</option>
-        
-        <option value="ja">🇯🇵 日本語</option>
-        
-        <option value="it">🇮🇹 Italiano</option>
-        
-    </select>
+          gaTrack: true, 
+          gaId: '', 
+          gaContainerId: '', 
+        }, 'google_translate_element'); 
+      }
 
-    <script>
-        var site = "https://cmsodi.github.io/satdh/";
-        var gglPrefix = "https://translate.google.com/website?sl=auto&tl=";
-        var gglSuffix = "&hl&u=";    
-        var langSelector = document.getElementById("lang-selector"); 
-        var item; 
-    
-        document.addEventListener('DOMContentLoaded', function() {
-            item = document.querySelector('.main');
-            var lang = localStorage.getItem('lang'); 
-            if (lang === "ar") {   
-                item.classList.add("rtl");   
-                console.log("if1=" + item);
-            } else {  
-                item.classList.remove("rtl"); 
-                console.log("if2=" + item);
-            }            
-            console.log("item=" + item);
-        });
-    
-        langSelector.addEventListener("change", function() {   
-            var lang = langSelector.value;    
-            if (lang) {    
-                var translateUrl;
-                if (lang === "en") {
-                    translateUrl = site;               
-                } else {                
-                    translateUrl = gglPrefix + lang + gglSuffix + site;
-                }  
-                window.location.href = translateUrl;  
-                console.log("lang=" + lang); 
-                if (lang === "ar") {   
-                    item.classList.add("rtl");   
-                    console.log("if1=" + item);
-                } else {  
-                    item.classList.remove("rtl"); 
-                    console.log("if2=" + item);
-                } 
-                localStorage.setItem('lang', lang); 
-            }  
-            console.log("translateUrl=" + translateUrl);
-        });  
-    </script>
 
-</span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+
+<a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
                 <i class="fas fa-adjust fa-fw"></i>
             </a>
         </div>
@@ -169,7 +269,7 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="../pages/site/" title="">the site</a><a class="menu-item" href="../pages/tagging/" title="">taxonomies</a><a class="menu-item" href="../articles/" title="">chronology</a><a class="menu-item" href="../pages/filter/" title="">📜navigator</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="../pages/filter/" title="">📜filter</a><a class="menu-item" href="../pages/classes/" title="">classes</a><a class="menu-item" href="../pages/aboutus/" title="">about us</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
                     <i class="fas fa-adjust fa-fw"></i>
                 </a>
             </div></div>
@@ -178,7 +278,7 @@
                 <div class="container"><div class="page archive"><h2 class="single-title animated fadeInDown faster">All pages</h2><h3 class="group-title">0001</h3><div class="timeline">
                     <div class="circle">
                         <div class="item">
-                            <a href="../pages/tool/" class="item-link">tools</a>
+                            <a href="../pages/filter/" class="item-link">filter</a>
                         </div>
                         <div class="item">
                             <span class="item-date">
@@ -188,7 +288,7 @@
                 </div><div class="timeline">
                     <div class="circle">
                         <div class="item">
-                            <a href="../pages/site/" class="item-link">the site</a>
+                            <a href="../pages/classes/" class="item-link">classes (taxonomy)</a>
                         </div>
                         <div class="item">
                             <span class="item-date">
@@ -198,17 +298,7 @@
                 </div><div class="timeline">
                     <div class="circle">
                         <div class="item">
-                            <a href="../pages/tagging/" class="item-link">taxonomies</a>
-                        </div>
-                        <div class="item">
-                            <span class="item-date">
-                                Published&nbsp;on&nbsp;01-01</span>
-                        </div>
-                    </div>
-                </div><div class="timeline">
-                    <div class="circle">
-                        <div class="item">
-                            <a href="../pages/filter/" class="item-link">navigator</a>
+                            <a href="../pages/aboutus/" class="item-link">about us</a>
                         </div>
                         <div class="item">
                             <span class="item-date">

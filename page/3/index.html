@@ -38,123 +38,223 @@
         alt="/nuovologo6.svg"
         title="/nuovologo6.svg" /></a>
         </div>
-        <div>
+<style>
+
+    
+    .navbar {
+      
+      
+      
+      
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .navbar a {
+      
+      
+      
+      
+      
+    }
+    
+    .dropdown {
+      
+      
+      
+    }
+    
+    
+    .navbar a:hover, .dropdown:hover .dropbtn {
+        
+      }  
+
+      .dropbtn {
+        
+        font-size: .8rem;
+      }
+    
+    .dropdown-content {
+        font-size: .8rem;
+      display: none;
+      position: absolute;
+      background-color: #bebebe;
+      
+      width: 100%;
+      left: 0;
+      padding: 0 2rem 2rem 2rem;
+      line-height: 1.2rem;
+      
+      z-index: 1;
+    }
+    
+    .dropdown-content .header {
+        
+        
+        padding: 10px 10px 10px 10px;
+      margin: 20px 0 8px 0;
+      text-align: center;
+      
+    }
+    
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    
+     
+    .column {
+      float: right;
+      width: 25%;
+      padding: 10px 10px 10px 10px;
+      
+      [theme=dark] & {
+        background-color: $table-background-color-dark;
+      };
+      
+      line-height: 2rem;
+    }
+    
+    .column a {
+      float: none;
+      
+      
+      text-decoration: none;
+      display: block;
+      text-align: left;
+      line-height: 1.5rem;
+      font-weight: 400;
+    }
+    
+    .column a:hover {
+      background-color: #ddd;
+    }
+    
+     
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .row {
+        text-align: center;
+    }
+
+    .big{
+    font-size: 1.0rem;
+    font-weight: 900;
+    text-align: center;
+    }
+    
+     
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+        height: auto;
+      }
+    }
+    </style>
+    
+
+      <div class="dropdown">
+        <div class="dropbtn">articles 
+          <i class="fa fa-caret-down"></i>
+        </div>
+        <div class="dropdown-content">
+          <div class="header">
+            <h3>The lower pane provides links to the classes and terms of the <a href="../../pages/classes/">"Four Causes of Space Exploration"</a> classification system.</h3>
+          </div>   
+          <div class="row">
+            <div class="column">
+              <div class="big"><a href="../../fields">fields</a></div>
+              <a href="../../fields/strategies/">strategies</a>
+              <a href="../../fields/technologies">technologies</a>
+              <a href="../../fields/programs">programs</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../../purposes">purposes</a></div>
+              <a href="../../purposes/exploitation">exploitation</a>
+              <a href="../../purposes/research">research</a>
+              <a href="../../purposes/services">services</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../../actors">actors</a></div>
+              <a href="../../actors/business">business</a>
+              <a href="../../actors/public-sector">public sector</a>
+              <a href="../../actors/science">science</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../../objects">objects</a></div>
+              <a href="../../objects/spacecrafts">spacecrafts</a>
+              <a href="../../objects/launchers">launchers</a>
+              <a href="../../objects/stations">stations</a>
+            </div>
+          </div>
+        </div>
+      </div> 
+
+    
+    <div>
 
 
 
     
 
-    <li class="parent"><a href="../../pages/site/">the site</a>
+    <li class="parent"><a href="../../pages/filter/">filter</a>
     
     </li>
 
     
 
-    <li class="parent"><a href="../../pages/tagging/">taxonomies</a>
-    
-        <ul class="child">
-            
-            <li><a href="../../objects/">objects</a></li>
-            
-            <li><a href="../../purposes/">purposes</a></li>
-            
-            <li><a href="../../persons/">persons</a></li>
-            
-            <li><a href="../../countries/">countries</a></li>
-            
-        </ul>
+    <li class="parent"><a href="../../pages/classes/">classes</a>
     
     </li>
 
     
 
-    <li class="parent"><a href="../../articles/">chronology</a>
+    <li class="parent"><a href="../../pages/aboutus/">about us</a>
     
     </li>
 
-    
+    <span class="menu-item delimiter"></span><style>
+    .goog-te-gadget-simple {
+        background-color: rgba(255, 255, 255, 0);
+        border: none;
+        padding: 0;
+        cursor: pointer;
+      }
+      div#google_translate_element span {
+        vertical-align: middle;
+        display: none;
 
-    <li class="parent"><a href="../../pages/filter/">navigator</a>
-    
-    </li>
+    }
+    .google-translate-element{
+        margin-right: 10px;
+    }
+</style>
 
-    <span class="menu-item delimiter"></span><span translate="no">
+<div class="parent" id="google_translate_element"></div>
+<script type="text/javascript">
 
-    
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+          pageLanguage: 'en', 
+          includedLanguages: 'zh-CN,zh-TW,ru,es,fr,ar,de,it', 
+          layout: google.translate.TranslateElement.InlineLayout.SIMPLE, 
+          autoDisplay: false, 
+          multilanguagePage: false, 
+          showLanguageOption: true, 
 
-    <select id="lang-selector" style="font-family: Verdana, Geneva, Tahoma, sans-serif;width: 50px;font-size:16px; background-color: rgb(117, 207, 207);border: none;">
-        
-        <option value="">A文</option>
-        
-        <option value="en">🇬🇧‎ English</option>
-        
-        <option value="zh-CN">🇨🇳 中文简体</option>
-        
-        <option value="zh-TW">🇹🇼 中文繁體</option>
-        
-        <option value="ru">🇷🇺 Русский</option>
-        
-        <option value="es">🇪🇸 Español</option>
-        
-        <option value="fr">🇫🇷 Français</option>
-        
-        <option value="de">🇩🇪 Deutsch</option>
-        
-        <option value="ar">📚 العربية</option>
-        
-        <option value="pt">🇵🇹 Português</option>
-        
-        <option value="ja">🇯🇵 日本語</option>
-        
-        <option value="it">🇮🇹 Italiano</option>
-        
-    </select>
+          gaTrack: true, 
+          gaId: '', 
+          gaContainerId: '', 
+        }, 'google_translate_element'); 
+      }
 
-    <script>
-        var site = "https://cmsodi.github.io/satdh/";
-        var gglPrefix = "https://translate.google.com/website?sl=auto&tl=";
-        var gglSuffix = "&hl&u=";    
-        var langSelector = document.getElementById("lang-selector"); 
-        var item; 
-    
-        document.addEventListener('DOMContentLoaded', function() {
-            item = document.querySelector('.main');
-            var lang = localStorage.getItem('lang'); 
-            if (lang === "ar") {   
-                item.classList.add("rtl");   
-                console.log("if1=" + item);
-            } else {  
-                item.classList.remove("rtl"); 
-                console.log("if2=" + item);
-            }            
-            console.log("item=" + item);
-        });
-    
-        langSelector.addEventListener("change", function() {   
-            var lang = langSelector.value;    
-            if (lang) {    
-                var translateUrl;
-                if (lang === "en") {
-                    translateUrl = site;               
-                } else {                
-                    translateUrl = gglPrefix + lang + gglSuffix + site;
-                }  
-                window.location.href = translateUrl;  
-                console.log("lang=" + lang); 
-                if (lang === "ar") {   
-                    item.classList.add("rtl");   
-                    console.log("if1=" + item);
-                } else {  
-                    item.classList.remove("rtl"); 
-                    console.log("if2=" + item);
-                } 
-                localStorage.setItem('lang', lang); 
-            }  
-            console.log("translateUrl=" + translateUrl);
-        });  
-    </script>
 
-</span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+
+<a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
                 <i class="fas fa-adjust fa-fw"></i>
             </a>
         </div>
@@ -176,13 +276,13 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="../../pages/site/" title="">the site</a><a class="menu-item" href="../../pages/tagging/" title="">taxonomies</a><a class="menu-item" href="../../articles/" title="">chronology</a><a class="menu-item" href="../../pages/filter/" title="">📜navigator</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="../../pages/filter/" title="">📜filter</a><a class="menu-item" href="../../pages/classes/" title="">classes</a><a class="menu-item" href="../../pages/aboutus/" title="">about us</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
                     <i class="fas fa-adjust fa-fw"></i>
                 </a>
             </div></div>
     </div>
 </header><main class="main">
-                <div class="container"><div class="page home" data-home="posts"><div class="home-profile"><div class="home-avatar"><a href="../../pages/site/" title="the site"><img
+                <div class="container"><div class="page home" data-home="posts"><div class="home-profile"><div class="home-avatar"><a href="../../pages/filter/" title="filter"><img
         class="lazyload"
         src="../../svg/loading.min.svg"
         data-src="nuovologo6.svg"
@@ -190,19 +290,50 @@
         data-sizes="auto"
         alt="nuovologo6.svg"
         title="nuovologo6.svg" /></a></div><h1 class="home-title">Space Advanced Technologies & Development Hub</h1><div class="home-subtitle">A Strategic Perspective on Space Technology, Policy, and Development</div></div>
-<div class="summary-card"><article class="summaryh" itemscope itemtype="http://schema.org/Article"
-    ><div class="featured-image-previewh">
-        <a href="../../articles/Space-Debris-Threat-to-Our-Space-Environment/"><img
+<div class="single">
+                <div class="content" id="content"><div style=" padding:35px" >Explore the latest advancements, insightful updates, and in-depth analyses in this exciting field. Our comprehensive classification system helps you find specific topics easily, while our visually-rich content enhances understanding. Join us in our passion for space and feel free to reach out with any questions or feedback. Welcome to SATDH.com, where space exploration comes alive! </div></div>
+            </div><div class="summary-card"><article class="summaryh" itemscope itemtype="http://schema.org/Article" ><div class="featured-image-previewh">
+        <a href="../../articles/geopolitical-chessboard-space-implications/"><img
         class="lazyload"
         src="../../svg/loading.min.svg"
-        data-src="../../articles/Space-Debris-Threat-to-Our-Space-Environment/file.jpg"
-        data-srcset="../../articles/Space-Debris-Threat-to-Our-Space-Environment/file.jpg, ../../articles/Space-Debris-Threat-to-Our-Space-Environment/file.jpg 1.5x, ../../articles/Space-Debris-Threat-to-Our-Space-Environment/file.jpg 2x"
+        data-src="../../articles/geopolitical-chessboard-space-implications/Spykman%27s_Rimland-map.jpg"
+        data-srcset="../../articles/geopolitical-chessboard-space-implications/Spykman%27s_Rimland-map.jpg, ../../articles/geopolitical-chessboard-space-implications/Spykman%27s_Rimland-map.jpg 1.5x, ../../articles/geopolitical-chessboard-space-implications/Spykman%27s_Rimland-map.jpg 2x"
         data-sizes="auto"
-        alt="/articles/Space-Debris-Threat-to-Our-Space-Environment/file.jpg"
+        alt="/articles/geopolitical-chessboard-space-implications/Spykman&#39;s_Rimland-map.jpg"
+        title="Political implications of space exploration, emphasizing the importance of a consistent legal and political framework, sustainability, and safety." /></a>
+    </div><div class="content"><h2 class="single-title" itemprop="name headline">
+            <a href="../../articles/geopolitical-chessboard-space-implications/">The Geopolitical Chessboard in Space: Navigating the Implications</a>
+        </h2><a class="content" href="../../articles/geopolitical-chessboard-space-implications/">This article analyses the political and geopolitical effects of space exploration using Astropolitik and other sources. It discusses the need for a consistent legal and political framework for space activities, balancing commercial and national interests with sustainability and safety, and the risks of great power competition in space. The post promotes space exploration cooperation and the Thucydides Trap.</a>
+
+    </div>
+
+</article><article class="summaryh" itemscope itemtype="http://schema.org/Article" ><div class="featured-image-previewh">
+        <a href="../../articles/launching-into-future-importance-spaceports/"><img
+        class="lazyload"
+        src="../../svg/loading.min.svg"
+        data-src="../../articles/launching-into-future-importance-spaceports/pic.jpg"
+        data-srcset="../../articles/launching-into-future-importance-spaceports/pic.jpg, ../../articles/launching-into-future-importance-spaceports/pic.jpg 1.5x, ../../articles/launching-into-future-importance-spaceports/pic.jpg 2x"
+        data-sizes="auto"
+        alt="/articles/launching-into-future-importance-spaceports/pic.jpg"
+        title="Spaceports launch, land, and service spacecraft. Their infrastructure includes runways, launch pads, mission control centers." /></a>
+    </div><div class="content"><h2 class="single-title" itemprop="name headline">
+            <a href="../../articles/launching-into-future-importance-spaceports/">Launching into the Future: The Importance of Spaceports</a>
+        </h2><a class="content" href="../../articles/launching-into-future-importance-spaceports/">Spaceports are facilities intended for launching, landing, and servicing spacecraft. They typically include a runway, launch pads, mission control centers, and other necessary infrastructure for spacecraft operation. They serve as storage and maintenance sites for spacecraft, offering a secure environment for astronauts and personnel to train and prepare for space missions.</a>
+
+    </div>
+
+</article><article class="summaryh" itemscope itemtype="http://schema.org/Article" ><div class="featured-image-previewh">
+        <a href="../../articles/space-debris-threat-space-environment/"><img
+        class="lazyload"
+        src="../../svg/loading.min.svg"
+        data-src="../../articles/space-debris-threat-space-environment/file.jpg"
+        data-srcset="../../articles/space-debris-threat-space-environment/file.jpg, ../../articles/space-debris-threat-space-environment/file.jpg 1.5x, ../../articles/space-debris-threat-space-environment/file.jpg 2x"
+        data-sizes="auto"
+        alt="/articles/space-debris-threat-space-environment/file.jpg"
         title="Space debris refers to discarded objects in orbit around Earth that pose a threat to active satellites, space missions and the future of space exploration" /></a>
     </div><div class="content"><h2 class="single-title" itemprop="name headline">
-            <a href="../../articles/Space-Debris-Threat-to-Our-Space-Environment/">Space Debris: Threat to Our Space Environment</a>
-        </h2><a class="content" href="../../articles/Space-Debris-Threat-to-Our-Space-Environment/">Space debris refers to discarded objects in orbit around Earth that pose a threat to active satellites, space missions and the future of space exploration. These objects, ranging from tiny fragments to defunct satellites, are created through human activities and travel at high speeds, making them hazardous to any spacecraft they collide with. The problem of space debris is increasing and requires action to mitigate its risks.</a>
+            <a href="../../articles/space-debris-threat-space-environment/">Space Debris: Threat to Our Space Environment</a>
+        </h2><a class="content" href="../../articles/space-debris-threat-space-environment/">Space debris refers to discarded objects in orbit around Earth that pose a threat to active satellites, space missions and the future of space exploration. These objects, ranging from tiny fragments to defunct satellites, are created through human activities and travel at high speeds, making them hazardous to any spacecraft they collide with. The problem of space debris is increasing and requires action to mitigate its risks.</a>
 
     </div>
 

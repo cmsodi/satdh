@@ -30,28 +30,27 @@ There are two main types of remote sensing: passive remote sensing and active re
 ### Sensor types
 
 The sensors collect information in different forms, including electromagnetic radiation, such as visible light and infrared, as well as other forms of energy, such as radar and lidar.
-In addition to these two main types of remote sensing, there are several subtypes, including:
+Are some of the most common remote sensing sensors used for Earth observation from space,  with examples of satellites that use each type of sensor:
 
-- **Optical sensors**: are sensors that measure the reflected or emitted energy in the visible, near-infrared, and thermal infrared regions of the electromagnetic spectrum. Examples are Landsat-1, Sentinel, Planet Labs, Aqua, Aura, Cartosat, etc.
-- **Radar sensors**: are sensors that emit microwave pulses and measure the backscattered signals from the earth’s surface. Examples are Seasat-1, RISAT, Cosmo-SkyMed, SARAL/AltiKa, etc.
-- **LiDAR sensors**: are sensors that emit laser pulses and measure the time delay and intensity of the returned signals to derive elevation or distance information. Examples are ALMAZ-1, CryoSat-2, CALIPSO, etc.
-- **Thermal sensors**: are sensors that that measure the emitted energy in the thermal infrared region of the electromagnetic spectrum. An example of a thermal sensor mentioned in the page is Aqua, which carries a Moderate Resolution Imaging Spectroradiometer (MODIS) that can detect land surface temperature and fire activity.
+> - **Optical sensors** detect and measure reflected or emitted light from the Earth's surface. They are the most common type of remote sensing sensor, and are used for a wide variety of applications, including land cover mapping, vegetation monitoring, and disaster response. (Landsat 8, Sentinel-2, MODIS)
+> - **Radar sensors** emit radio waves and measure the reflected signal. They can be used to collect data in all weather conditions, including at night. Radar sensors are often used for applications such as sea ice monitoring, flood mapping, and ground-penetrating radar. (Sentinel-1, TerraSAR-X, COSMO-SkyMed)
+> - **LiDAR sensors** measure the distance to the Earth's surface by emitting and measuring laser pulses. They can be used to create high-resolution 3D models of the Earth's surface. LiDAR sensors are often used for applications such as urban planning, forestry, and geology. (ICESat, TanDEM-X, GEDI)
+> - **Thermal infrared sensors** measure the heat emitted from the Earth's surface. They can be used to identify hot spots, such as wildfires, and to monitor changes in land cover. Thermal infrared sensors are often used for applications such as fire detection, agriculture, and climate change research. (Landsat 8, Sentinel-3, Aqua)
+> - **Multispectral sensors** collect data in multiple bands of the electromagnetic spectrum. This allows them to capture more information about the Earth's surface than single-band sensors. Multispectral sensors are often used for applications such as land cover mapping, vegetation monitoring, and crop health assessment. (Landsat 8, Sentinel-2, MODIS)
+> - **Hyperspectral sensors** collect data in hundreds of narrow bands of the electromagnetic spectrum. This allows them to create detailed spectral signatures of objects on the Earth's surface, which can be used for a variety of applications, such as material identification, crop stress detection, and environmental monitoring. (EnMAP, HyspIRI, Hyperion)
+
+These are just a few of the many remote sensing sensors that are used for Earth observation from space. The type of sensor that is best suited for a particular application will depend on the specific needs of the user.
 
 </br><figure>  <img src="Juice’s_science_instruments_ESA24640659.png" alt="." style="width:100%">  <figcaption> <small> ESA’s Jupiter Icy Moons Explorer (Juice) will carry the most powerful remote sensing, geophysical, and in situ payload complement ever flown to the outer Solar System. It includes 10 dedicated scientific instruments, a radiation monitor (RADEM) and the Planetary Radio Interferometer & Doppler Experiment (PRIDE). European Space Agency  <a target=_blank  target="_blank" href=https://www.esa.int/ESA_Multimedia/Images/2022/12/Juice_s_science_instruments>source link</a> </small> </figcaption></figure></br>
 
-## Remote Sensing Tools
+## Remote Sensing Equipments
 
-### Overview of Remote Sensing Tools
+There are many different equipments used in remote sensing, each with its own set of strengths and weaknesses. They can be components of satellite imaging systems, airborne remote sensing platforms, and ground-based remote sensing systems.
 
-Remote sensing tools are the instruments and platforms that are used to collect and analyze data from remote sources, such as satellites, aircraft, and unmanned aerial vehicles. These tools play a critical role in the remote sensing process, allowing scientists, researchers, and military personnel to gather the information they need to make informed decisions and solve complex problems.
-
-### Comparison of Different Tools Used in Remote Sensing
-
-There are many different tools used in remote sensing, each with its own set of strengths and weaknesses. Some of the most commonly used tools include satellite imaging systems, airborne remote sensing platforms, and ground-based remote sensing systems.
-
-- **Satellite imaging systems** are large, complex systems that are designed to capture high-resolution images and data from space. They are often used for large-scale mapping and monitoring projects, as well as for military reconnaissance and surveillance.
-- **Airborne remote sensing platforms**, such as aircraft and unmanned aerial vehicles, are designed to collect data from lower altitudes. They are often used for detailed mapping and monitoring of smaller areas, as well as for environmental and geological research.
-- **Ground-based remote sensing systems** are typically used for monitoring and measuring environmental variables, such as temperature, humidity, and atmospheric pressure. These systems are often smaller and less complex than satellite and airborne systems, but they can be more easily deployed in remote and challenging environments.
+> - **Satellite imaging systems** are large, complex systems that are designed to capture high-resolution images and data from space. They are often used for large-scale mapping and monitoring projects, as well as for military reconnaissance and surveillance.
+> - **Airborne remote sensing platforms**, such as aircraft and unmanned aerial vehicles, are designed to collect data from lower altitudes. They are often used for detailed mapping and monitoring of smaller areas, as well as for environmental and geological research.
+> - **Ground-based remote sensing systems** are typically used for monitoring and measuring environmental variables, such as temperature, humidity, and atmospheric pressure. These systems are often smaller and less complex than satellite and airborne systems, but they can be more easily deployed in remote and challenging environments.
+>
 
 </br><figure>  <img src="Remote_sensing_of_coastal_and_marine_environment.webp.png" alt="." style="width:100%">  <figcaption> <small> Remote sensing of coastal and marine environment <a target=_blank  target="_blank" href=https://doi.org/10.3390%2Frs12142313>https://doi.org/10.3390%2Frs12142313</a> </small> </figcaption></figure></br>
 

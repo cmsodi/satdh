@@ -99,7 +99,7 @@ Along with the improvement of reusable rockets, investment in novel propulsion t
 ### Increase in Space Debris and Potential Threats to Operational Satellites
 
 The increasing number of space launches and missions has resulted in a rise in space debris. This debris, which includes spent rocket stages and defunct satellites, endangers current satellites as well as future missions. The growing volume of space debris highlights the importance of appropriate mitigation techniques to deal with the issue.
-A specific article on the subject can be found at [space-debris](/space-debris). 
+A specific article on the subject can be found at [space-debris](/space-debris-threat-space-environment/). 
 
 ### Efforts to Track and Remove Space Debris
 
@@ -109,7 +109,7 @@ Efforts to detect and remove space debris have increased in recent years. These 
 ### Importance of International Cooperation in Addressing the Issue
 
 Space debris is a global issue that requires international collaboration to be addressed effectively. International collaboration is crucial to ensuring the long-term sustainability of the space environment, from the formulation of international norms for space debris reduction through coordinated cleanup operations.
-More on International cooperation at [Space Diplomacy](/space-diplomacy/#competition-and-cooperation)
+More on International cooperation at [Space Diplomacy](/balancing-competition-space-diplomacy/#competition-and-cooperation)
 
 ## Conclusion
 

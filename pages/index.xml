@@ -8,42 +8,31 @@
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>navigator</title>
+      <title>about us</title>
+      <link>/pages/aboutus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/aboutus/</guid>
+      <description>The SATDH site. Welcome to the satdh.com blog on space strategy, systems, and technologies! We are a group of space enthusiasts and experts who are interested in learning about the most recent advancements in this field. Our blog is dedicated to providing valuable insights, updates, and information about space strategy, systems, and technologies. You&amp;rsquo;ll find a wide range of topics covered here, from the most recent space missions and innovations to in-depth analyses of current and future space industry trends.</description>
+    </item>
+    
+    <item>
+      <title>classes (taxonomy)</title>
+      <link>/pages/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/classes/</guid>
+      <description>‎The Four Causes of ‎Space Exploration‎objects‎spacecrafts‎launchers‎stations‎actors‎business‎public sector‎science‎purposes‎exploitation‎research‎services‎fields‎strategies‎programs‎tecnologies Introduction The proposed &amp;ldquo;Four Causes of Space Exploration&amp;rdquo; classification system organizes space-related topics into four main classes: Objects, Actors, Purposes and Fields.
+Objects: Refers to spacecraft, launchers (devices to propel objects into space), and stations (facilities for habitation or spacecraft control). Actors: Involves businesses in the private sector, the public sector (government agencies and regulatory bodies), and the scientific community. Purposes: Includes commercial use of outer space, research to enhance our understanding of the universe, and space-based services to Earth.</description>
+    </item>
+    
+    <item>
+      <title>filter</title>
       <link>/pages/filter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pages/filter/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>taxonomies</title>
-      <link>/pages/tagging/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/tagging/</guid>
-      <description>The organization of information is crucial for the efficient retrieval of data. Taxonomies are useful for categorizing ideas, concepts, and objects according to a hierarchical structure. A well-designed structure enhances the user experience by making it easier to locate relevant information and placing items in the appropriate category. The efficiency of a taxonomy is heavily dependent on its usability and navigability. Despite the fact that there is no one-size-fits-all approach to categorization, adapting the taxonomy to the specific situation can increase its utility. Items on this website are classified into various categories based on the above labels. Taking into account variables such as user behavior, preferences, and search patterns, these categories can be modified to meet the specific needs of website visitors.
-It is important to note that an article can often fit into multiple categories or labels within a taxonomy.
-In fact, allowing for multiple categories or tags can enhance the usefulness of a taxonomy.</description>
-    </item>
-    
-    <item>
-      <title>the site</title>
-      <link>/pages/site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/site/</guid>
-      <description>The SATDH site. Welcome to the satdh.com blog on space strategy, systems, and technologies! We are a group of space enthusiasts and experts who are interested in learning about the most recent advancements in this field. Our blog is dedicated to providing valuable insights, updates, and information about space strategy, systems, and technologies. You&amp;rsquo;ll find a wide range of topics covered here, from the most recent space missions and innovations to in-depth analyses of current and future space industry trends. We aim to make our content accessible to readers with varying levels of knowledge and expertise, whether you&amp;rsquo;re a student, a professional, or just someone curious about space.
-Tagging System When it comes to finding the information you need, we understand the importance of organization and accessibility. That is why we have implemented a comprehensive tagging system to help you find what you are looking for. Each post is tagged with relevant keywords, making it easy to find and search for posts on specific topics.</description>
-    </item>
-    
-    <item>
-      <title>tools</title>
-      <link>/pages/tool/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/tool/</guid>
-      <description>w ebtools file</description>
     </item>
     
   </channel>

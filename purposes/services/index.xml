@@ -3,23 +3,17 @@
         <title>services - purpose - satdh</title>
         <link>/purposes/services/</link>
         <description>services - purpose - satdh</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 05 Feb 2023 12:13:31 &#43;0100</lastBuildDate><atom:link href="/purposes/services/" rel="self" type="application/rss+xml" /><item>
-    <title>Role of Artificial Intelligence in Space Exploration</title>
-    <link>/articles/Role-of-Artificial-Intelligence-in-Space-Exploration/</link>
-    <pubDate>Mon, 09 Jan 2023 12:13:31 &#43;0100</pubDate><guid>/articles/Role-of-Artificial-Intelligence-in-Space-Exploration/</guid>
-    <description><![CDATA[Artificial intelligence is used in space exploration for data analysis and interpretation, autonomous exploration, mission efficiency optimization, space weather prediction and mitigation, astronaut health monitoring, and space actor collaboration. It also discusses space AI&rsquo;s drawbacks and the need for responsible oversight and regulation. AI&rsquo;s role in inspiring and educating the public about space and its potential to revolutionize space exploration concludes the post.]]></description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 07 Feb 2023 12:13:31 &#43;0100</lastBuildDate><atom:link href="/purposes/services/" rel="self" type="application/rss+xml" /><item>
+    <title>Revolutionizing global connectivity with SpaceX&#39;s Starlink satellite network</title>
+    <link>/articles/SpaceX-Starlink-revolutionizing-connectivity/</link>
+    <pubDate>Tue, 07 Feb 2023 12:13:31 &#43;0100</pubDate><guid>/articles/SpaceX-Starlink-revolutionizing-connectivity/</guid>
+    <description><![CDATA[Starlink is a satellite internet constellation being constructed by SpaceX. It is designed to provide low-cost, high-speed internet access to people in remote and rural areas around the world. The constellation consists of thousands of small satellites in low Earth orbit, which communicate with each other and with ground stations to provide internet access.]]></description>
 </item>
 <item>
     <title>Satellite Remote Sensing: Strategic, Technological, and Economic Aspects</title>
     <link>/articles/Satellite-Remote-Sensing-Strategic-Technological-and-Economic-Aspects/</link>
     <pubDate>Sun, 05 Feb 2023 12:13:31 &#43;0100</pubDate><guid>/articles/Satellite-Remote-Sensing-Strategic-Technological-and-Economic-Aspects/</guid>
     <description><![CDATA[Remote sensing refers to the process of acquiring information about an object or phenomenon from a distance. This information is collected using instruments or sensors that are mounted on platforms such as satellites, aircraft, or drones. The technology has revolutionized the way we study and understand our planet, as well as opened up new opportunities for research and application in a wide range of fields.]]></description>
-</item>
-<item>
-    <title>Spaceports in Space Exploration</title>
-    <link>/articles/Spaceports-in-Space-Exploration/</link>
-    <pubDate>Fri, 20 Jan 2023 12:13:31 &#43;0100</pubDate><guid>/articles/Spaceports-in-Space-Exploration/</guid>
-    <description><![CDATA[Spaceports are facilities intended for launching, landing, and servicing spacecraft. They typically include a runway, launch pads, mission control centers, and other necessary infrastructure for spacecraft operation. They serve as storage and maintenance sites for spacecraft, offering a secure environment for astronauts and personnel to train and prepare for space missions.]]></description>
 </item>
 </channel>
 </rss>

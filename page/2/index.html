@@ -38,123 +38,223 @@
         alt="/nuovologo6.svg"
         title="/nuovologo6.svg" /></a>
         </div>
-        <div>
+<style>
+
+    
+    .navbar {
+      
+      
+      
+      
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .navbar a {
+      
+      
+      
+      
+      
+    }
+    
+    .dropdown {
+      
+      
+      
+    }
+    
+    
+    .navbar a:hover, .dropdown:hover .dropbtn {
+        
+      }  
+
+      .dropbtn {
+        
+        font-size: .8rem;
+      }
+    
+    .dropdown-content {
+        font-size: .8rem;
+      display: none;
+      position: absolute;
+      background-color: #bebebe;
+      
+      width: 100%;
+      left: 0;
+      padding: 0 2rem 2rem 2rem;
+      line-height: 1.2rem;
+      
+      z-index: 1;
+    }
+    
+    .dropdown-content .header {
+        
+        
+        padding: 10px 10px 10px 10px;
+      margin: 20px 0 8px 0;
+      text-align: center;
+      
+    }
+    
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    
+     
+    .column {
+      float: right;
+      width: 25%;
+      padding: 10px 10px 10px 10px;
+      
+      [theme=dark] & {
+        background-color: $table-background-color-dark;
+      };
+      
+      line-height: 2rem;
+    }
+    
+    .column a {
+      float: none;
+      
+      
+      text-decoration: none;
+      display: block;
+      text-align: left;
+      line-height: 1.5rem;
+      font-weight: 400;
+    }
+    
+    .column a:hover {
+      background-color: #ddd;
+    }
+    
+     
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .row {
+        text-align: center;
+    }
+
+    .big{
+    font-size: 1.0rem;
+    font-weight: 900;
+    text-align: center;
+    }
+    
+     
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+        height: auto;
+      }
+    }
+    </style>
+    
+
+      <div class="dropdown">
+        <div class="dropbtn">articles 
+          <i class="fa fa-caret-down"></i>
+        </div>
+        <div class="dropdown-content">
+          <div class="header">
+            <h3>The lower pane provides links to the classes and terms of the <a href="../../pages/classes/">"Four Causes of Space Exploration"</a> classification system.</h3>
+          </div>   
+          <div class="row">
+            <div class="column">
+              <div class="big"><a href="../../fields">fields</a></div>
+              <a href="../../fields/strategies/">strategies</a>
+              <a href="../../fields/technologies">technologies</a>
+              <a href="../../fields/programs">programs</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../../purposes">purposes</a></div>
+              <a href="../../purposes/exploitation">exploitation</a>
+              <a href="../../purposes/research">research</a>
+              <a href="../../purposes/services">services</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../../actors">actors</a></div>
+              <a href="../../actors/business">business</a>
+              <a href="../../actors/public-sector">public sector</a>
+              <a href="../../actors/science">science</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../../objects">objects</a></div>
+              <a href="../../objects/spacecrafts">spacecrafts</a>
+              <a href="../../objects/launchers">launchers</a>
+              <a href="../../objects/stations">stations</a>
+            </div>
+          </div>
+        </div>
+      </div> 
+
+    
+    <div>
 
 
 
     
 
-    <li class="parent"><a href="../../pages/site/">the site</a>
+    <li class="parent"><a href="../../pages/filter/">filter</a>
     
     </li>
 
     
 
-    <li class="parent"><a href="../../pages/tagging/">taxonomies</a>
-    
-        <ul class="child">
-            
-            <li><a href="../../objects/">objects</a></li>
-            
-            <li><a href="../../purposes/">purposes</a></li>
-            
-            <li><a href="../../persons/">persons</a></li>
-            
-            <li><a href="../../countries/">countries</a></li>
-            
-        </ul>
+    <li class="parent"><a href="../../pages/classes/">classes</a>
     
     </li>
 
     
 
-    <li class="parent"><a href="../../articles/">chronology</a>
+    <li class="parent"><a href="../../pages/aboutus/">about us</a>
     
     </li>
 
-    
+    <span class="menu-item delimiter"></span><style>
+    .goog-te-gadget-simple {
+        background-color: rgba(255, 255, 255, 0);
+        border: none;
+        padding: 0;
+        cursor: pointer;
+      }
+      div#google_translate_element span {
+        vertical-align: middle;
+        display: none;
 
-    <li class="parent"><a href="../../pages/filter/">navigator</a>
-    
-    </li>
+    }
+    .google-translate-element{
+        margin-right: 10px;
+    }
+</style>
 
-    <span class="menu-item delimiter"></span><span translate="no">
+<div class="parent" id="google_translate_element"></div>
+<script type="text/javascript">
 
-    
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+          pageLanguage: 'en', 
+          includedLanguages: 'zh-CN,zh-TW,ru,es,fr,ar,de,it', 
+          layout: google.translate.TranslateElement.InlineLayout.SIMPLE, 
+          autoDisplay: false, 
+          multilanguagePage: false, 
+          showLanguageOption: true, 
 
-    <select id="lang-selector" style="font-family: Verdana, Geneva, Tahoma, sans-serif;width: 50px;font-size:16px; background-color: rgb(117, 207, 207);border: none;">
-        
-        <option value="">A文</option>
-        
-        <option value="en">🇬🇧‎ English</option>
-        
-        <option value="zh-CN">🇨🇳 中文简体</option>
-        
-        <option value="zh-TW">🇹🇼 中文繁體</option>
-        
-        <option value="ru">🇷🇺 Русский</option>
-        
-        <option value="es">🇪🇸 Español</option>
-        
-        <option value="fr">🇫🇷 Français</option>
-        
-        <option value="de">🇩🇪 Deutsch</option>
-        
-        <option value="ar">📚 العربية</option>
-        
-        <option value="pt">🇵🇹 Português</option>
-        
-        <option value="ja">🇯🇵 日本語</option>
-        
-        <option value="it">🇮🇹 Italiano</option>
-        
-    </select>
+          gaTrack: true, 
+          gaId: '', 
+          gaContainerId: '', 
+        }, 'google_translate_element'); 
+      }
 
-    <script>
-        var site = "https://cmsodi.github.io/satdh/";
-        var gglPrefix = "https://translate.google.com/website?sl=auto&tl=";
-        var gglSuffix = "&hl&u=";    
-        var langSelector = document.getElementById("lang-selector"); 
-        var item; 
-    
-        document.addEventListener('DOMContentLoaded', function() {
-            item = document.querySelector('.main');
-            var lang = localStorage.getItem('lang'); 
-            if (lang === "ar") {   
-                item.classList.add("rtl");   
-                console.log("if1=" + item);
-            } else {  
-                item.classList.remove("rtl"); 
-                console.log("if2=" + item);
-            }            
-            console.log("item=" + item);
-        });
-    
-        langSelector.addEventListener("change", function() {   
-            var lang = langSelector.value;    
-            if (lang) {    
-                var translateUrl;
-                if (lang === "en") {
-                    translateUrl = site;               
-                } else {                
-                    translateUrl = gglPrefix + lang + gglSuffix + site;
-                }  
-                window.location.href = translateUrl;  
-                console.log("lang=" + lang); 
-                if (lang === "ar") {   
-                    item.classList.add("rtl");   
-                    console.log("if1=" + item);
-                } else {  
-                    item.classList.remove("rtl"); 
-                    console.log("if2=" + item);
-                } 
-                localStorage.setItem('lang', lang); 
-            }  
-            console.log("translateUrl=" + translateUrl);
-        });  
-    </script>
 
-</span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+
+<a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
                 <i class="fas fa-adjust fa-fw"></i>
             </a>
         </div>
@@ -176,13 +276,13 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="../../pages/site/" title="">the site</a><a class="menu-item" href="../../pages/tagging/" title="">taxonomies</a><a class="menu-item" href="../../articles/" title="">chronology</a><a class="menu-item" href="../../pages/filter/" title="">📜navigator</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="../../pages/filter/" title="">📜filter</a><a class="menu-item" href="../../pages/classes/" title="">classes</a><a class="menu-item" href="../../pages/aboutus/" title="">about us</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
                     <i class="fas fa-adjust fa-fw"></i>
                 </a>
             </div></div>
     </div>
 </header><main class="main">
-                <div class="container"><div class="page home" data-home="posts"><div class="home-profile"><div class="home-avatar"><a href="../../pages/site/" title="the site"><img
+                <div class="container"><div class="page home" data-home="posts"><div class="home-profile"><div class="home-avatar"><a href="../../pages/filter/" title="filter"><img
         class="lazyload"
         src="../../svg/loading.min.svg"
         data-src="nuovologo6.svg"
@@ -190,24 +290,54 @@
         data-sizes="auto"
         alt="nuovologo6.svg"
         title="nuovologo6.svg" /></a></div><h1 class="home-title">Space Advanced Technologies & Development Hub</h1><div class="home-subtitle">A Strategic Perspective on Space Technology, Policy, and Development</div></div>
-<div class="summary-card"><article class="summaryh" itemscope itemtype="http://schema.org/Article"
-    ><div class="featured-image-previewh">
-        <a href="../../articles/Space-Diplomacy/"><img
+<div class="single">
+                <div class="content" id="content"><div style=" padding:35px" >Explore the latest advancements, insightful updates, and in-depth analyses in this exciting field. Our comprehensive classification system helps you find specific topics easily, while our visually-rich content enhances understanding. Join us in our passion for space and feel free to reach out with any questions or feedback. Welcome to SATDH.com, where space exploration comes alive! </div></div>
+            </div><div class="summary-card"><article class="summaryh" itemscope itemtype="http://schema.org/Article" ><div class="featured-image-previewh">
+        <a href="../../articles/mars-exploration-strategies-technologies/"><img
         class="lazyload"
         src="../../svg/loading.min.svg"
-        data-src="../../articles/Space-Diplomacy/pic.jpg"
-        data-srcset="../../articles/Space-Diplomacy/pic.jpg, ../../articles/Space-Diplomacy/pic.jpg 1.5x, ../../articles/Space-Diplomacy/pic.jpg 2x"
+        data-src="../../articles/mars-exploration-strategies-technologies/Hellas_Chaos_on_Mars.jpg"
+        data-srcset="../../articles/mars-exploration-strategies-technologies/Hellas_Chaos_on_Mars.jpg, ../../articles/mars-exploration-strategies-technologies/Hellas_Chaos_on_Mars.jpg 1.5x, ../../articles/mars-exploration-strategies-technologies/Hellas_Chaos_on_Mars.jpg 2x"
         data-sizes="auto"
-        alt="/articles/Space-Diplomacy/pic.jpg"
-        title="Space diplomacy balances competition, promotes cooperation, and protects interests in outer space." /></a>
+        alt="/articles/mars-exploration-strategies-technologies/Hellas_Chaos_on_Mars.jpg"
+        title="Discover the latest Mars exploration missions, technologies, and preparation strategies for future human presence. Learn about Perseverance, Ingenuity, and more!" /></a>
     </div><div class="content"><h2 class="single-title" itemprop="name headline">
-            <a href="../../articles/Space-Diplomacy/">Space Diplomacy</a>
-        </h2><a class="content" href="../../articles/Space-Diplomacy/">Space diplomacy is the diplomatic effort to balance competition, promote cooperation, and protect interests in the exploration and use of outer space. International treaties, initiatives, and an understanding of the unique needs and priorities of different interests in the space sector are crucial to ensuring stability and a peaceful future.</a>
+            <a href="../../articles/mars-exploration-strategies-technologies/">The Ultimate Guide to Mars Exploration and Utilization</a>
+        </h2><a class="content" href="../../articles/mars-exploration-strategies-technologies/">Explore Mars with the latest missions and technologies. From the Perseverance rover to the Ingenuity helicopter, discover the strategies and preparation needed for human presence on the Red Planet.</a>
 
     </div>
 
-</article><article class="summaryh" itemscope itemtype="http://schema.org/Article"
-    ><div class="featured-image-previewh">
+</article><article class="summaryh" itemscope itemtype="http://schema.org/Article" ><div class="featured-image-previewh">
+        <a href="../../articles/space-weather-what-why-how/"><img
+        class="lazyload"
+        src="../../svg/loading.min.svg"
+        data-src="../../articles/space-weather-what-why-how/spaceweather.jpeg"
+        data-srcset="../../articles/space-weather-what-why-how/spaceweather.jpeg, ../../articles/space-weather-what-why-how/spaceweather.jpeg 1.5x, ../../articles/space-weather-what-why-how/spaceweather.jpeg 2x"
+        data-sizes="auto"
+        alt="/articles/space-weather-what-why-how/spaceweather.jpeg"
+        title="Learn about space weather, its impacts on Earth&#39;s technology &amp; how to mitigate risks. Explore observatories &amp; international efforts." /></a>
+    </div><div class="content"><h2 class="single-title" itemprop="name headline">
+            <a href="../../articles/space-weather-what-why-how/">Space Weather: What It Is, Why It Matters, and How to Deal With It</a>
+        </h2><a class="content" href="../../articles/space-weather-what-why-how/">Space weather refers to solar conditions that affect Earth&rsquo;s technological systems, causing disruptions in power grids, communication, and navigation. Observing and predicting space weather requires space-based and ground-based observatories, as well as numerical models. Strategies to mitigate risks and enhance benefits include protection, preparedness, and exploitation. International organizations, governments, and agencies are involved in dealing with space weather, including the International Space Weather Initiative, NOAA, ESA, and NASA.</a>
+
+    </div>
+
+</article><article class="summaryh" itemscope itemtype="http://schema.org/Article" ><div class="featured-image-previewh">
+        <a href="../../articles/balancing-competition-space-diplomacy/"><img
+        class="lazyload"
+        src="../../svg/loading.min.svg"
+        data-src="../../articles/balancing-competition-space-diplomacy/pic.jpg"
+        data-srcset="../../articles/balancing-competition-space-diplomacy/pic.jpg, ../../articles/balancing-competition-space-diplomacy/pic.jpg 1.5x, ../../articles/balancing-competition-space-diplomacy/pic.jpg 2x"
+        data-sizes="auto"
+        alt="/articles/balancing-competition-space-diplomacy/pic.jpg"
+        title="Space diplomacy balances competition, promotes cooperation and protects interests in outer space via treaties, initiatives and diverse interest understanding." /></a>
+    </div><div class="content"><h2 class="single-title" itemprop="name headline">
+            <a href="../../articles/balancing-competition-space-diplomacy/">Balancing Competition: The Importance of Space Diplomacy</a>
+        </h2><a class="content" href="../../articles/balancing-competition-space-diplomacy/">Space diplomacy is the diplomatic effort to balance competition, promote cooperation and protect interests in the exploration and use of outer space. International treaties, initiatives and an understanding of the unique needs and priorities of different interests in the space sector are crucial to ensuring stability and a peaceful future.</a>
+
+    </div>
+
+</article><article class="summaryh" itemscope itemtype="http://schema.org/Article" ><div class="featured-image-previewh">
         <a href="../../articles/SpaceXs-Polaris-Dawn-The-Most-Ambitious-Private-Space-Mission-Ever/"><img
         class="lazyload"
         src="../../svg/loading.min.svg"
@@ -222,51 +352,18 @@
 
     </div>
 
-</article><article class="summaryh" itemscope itemtype="http://schema.org/Article"
-    ><div class="featured-image-previewh">
-        <a href="../../articles/The-Future-of-Space-Travel-Advancements-in-Propulsion-Technology/"><img
+</article><article class="summaryh" itemscope itemtype="http://schema.org/Article" ><div class="featured-image-previewh">
+        <a href="../../articles/advancements-propulsion-technology/"><img
         class="lazyload"
         src="../../svg/loading.min.svg"
-        data-src="../../articles/The-Future-of-Space-Travel-Advancements-in-Propulsion-Technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg"
-        data-srcset="../../articles/The-Future-of-Space-Travel-Advancements-in-Propulsion-Technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg, ../../articles/The-Future-of-Space-Travel-Advancements-in-Propulsion-Technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg 1.5x, ../../articles/The-Future-of-Space-Travel-Advancements-in-Propulsion-Technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg 2x"
+        data-src="../../articles/advancements-propulsion-technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg"
+        data-srcset="../../articles/advancements-propulsion-technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg, ../../articles/advancements-propulsion-technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg 1.5x, ../../articles/advancements-propulsion-technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg 2x"
         data-sizes="auto"
-        alt="/articles/The-Future-of-Space-Travel-Advancements-in-Propulsion-Technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg"
+        alt="/articles/advancements-propulsion-technology/technology-space-metal-usa-drum-rocket-774861-pxhere.com.jpg"
         title="Space travel benefits from advanced propulsion technologies -electric, nuclear, fusion, and antimatter -  which require investment and research." /></a>
     </div><div class="content"><h2 class="single-title" itemprop="name headline">
-            <a href="../../articles/The-Future-of-Space-Travel-Advancements-in-Propulsion-Technology/">The Future of Space Travel: Advancements in Propulsion Technology</a>
-        </h2><a class="content" href="../../articles/The-Future-of-Space-Travel-Advancements-in-Propulsion-Technology/">This post explores the advancements in propulsion technology that could significantly enhance space travel capabilities. It discusses the advantages and challenges of electric propulsion, nuclear propulsion, and emerging propulsion technologies such as fusion and antimatter propulsion. The post also covers the level of investment and research required for the development of advanced propulsion technologies, and the implications and applications of these advancements in propulsion technology for the design and construction of spacecraft, as well as for a range of industries and applications.</a>
-
-    </div>
-
-</article><article class="summaryh" itemscope itemtype="http://schema.org/Article"
-    ><div class="featured-image-previewh">
-        <a href="../../articles/The-Geopolitical-Chessboard-in-Space-Navigating-the-Implications/"><img
-        class="lazyload"
-        src="../../svg/loading.min.svg"
-        data-src="../../articles/The-Geopolitical-Chessboard-in-Space-Navigating-the-Implications/Spykman%27s_Rimland-map.jpg"
-        data-srcset="../../articles/The-Geopolitical-Chessboard-in-Space-Navigating-the-Implications/Spykman%27s_Rimland-map.jpg, ../../articles/The-Geopolitical-Chessboard-in-Space-Navigating-the-Implications/Spykman%27s_Rimland-map.jpg 1.5x, ../../articles/The-Geopolitical-Chessboard-in-Space-Navigating-the-Implications/Spykman%27s_Rimland-map.jpg 2x"
-        data-sizes="auto"
-        alt="/articles/The-Geopolitical-Chessboard-in-Space-Navigating-the-Implications/Spykman&#39;s_Rimland-map.jpg"
-        title="Political implications of space exploration, emphasizing the importance of a consistent legal and political framework, sustainability, and safety." /></a>
-    </div><div class="content"><h2 class="single-title" itemprop="name headline">
-            <a href="../../articles/The-Geopolitical-Chessboard-in-Space-Navigating-the-Implications/">The Geopolitical Chessboard in Space: Navigating the Implications</a>
-        </h2><a class="content" href="../../articles/The-Geopolitical-Chessboard-in-Space-Navigating-the-Implications/">This article examines the political and geopolitical implications of space exploration, drawing insights from the book Astropolitik and other relevant works. It explores the need for a consistent legal and political framework for space activities, the importance of balancing commercial and national interests with sustainability and safety, and the potential risks of great power competition in the space age. The post argues for a cooperative framework for space exploration and highlights the relevance of geopolitical theories like the Thucydides Trap in this context.</a>
-
-    </div>
-
-</article><article class="summaryh" itemscope itemtype="http://schema.org/Article"
-    ><div class="featured-image-previewh">
-        <a href="../../articles/Spaceports-in-Space-Exploration/"><img
-        class="lazyload"
-        src="../../svg/loading.min.svg"
-        data-src="../../articles/Spaceports-in-Space-Exploration/pic.jpg"
-        data-srcset="../../articles/Spaceports-in-Space-Exploration/pic.jpg, ../../articles/Spaceports-in-Space-Exploration/pic.jpg 1.5x, ../../articles/Spaceports-in-Space-Exploration/pic.jpg 2x"
-        data-sizes="auto"
-        alt="/articles/Spaceports-in-Space-Exploration/pic.jpg"
-        title="Spaceports launch, land, and service spacecraft. Their infrastructure includes runways, launch pads, mission control centers." /></a>
-    </div><div class="content"><h2 class="single-title" itemprop="name headline">
-            <a href="../../articles/Spaceports-in-Space-Exploration/">Spaceports in Space Exploration</a>
-        </h2><a class="content" href="../../articles/Spaceports-in-Space-Exploration/">Spaceports are facilities intended for launching, landing, and servicing spacecraft. They typically include a runway, launch pads, mission control centers, and other necessary infrastructure for spacecraft operation. They serve as storage and maintenance sites for spacecraft, offering a secure environment for astronauts and personnel to train and prepare for space missions.</a>
+            <a href="../../articles/advancements-propulsion-technology/">The Future of Space Travel: Advancements in Propulsion Technology</a>
+        </h2><a class="content" href="../../articles/advancements-propulsion-technology/">This post explores the advancements in propulsion technology that could significantly enhance space travel capabilities. It discusses the advantages and challenges of electric propulsion, nuclear propulsion, and emerging propulsion technologies such as fusion and antimatter propulsion. The post also covers the level of investment and research required for the development of advanced propulsion technologies, and the implications and applications of these advancements in propulsion technology for the design and construction of spacecraft, as well as for a range of industries and applications.</a>
 
     </div>
 

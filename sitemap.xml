@@ -2,46 +2,38 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/articles/Role-of-Artificial-Intelligence-in-Space-Exploration/</loc><lastmod>2023-01-09T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/articles/The-Moon-Challenges-and-Opportunities/</loc><lastmod>2023-01-25T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/articles/Starlink-Constellation/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/articles/artificial-intelligence-space-exploration/</loc><lastmod>2023-01-09T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/articles/moon-race-challenges-opportunities/</loc><lastmod>2023-01-25T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/articles/SpaceX-Starlink-revolutionizing-connectivity/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/articles/Overview-of-the-Space-Sector-Trends-and-Future-Directions/</loc><lastmod>2023-01-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/articles/Satellite-Remote-Sensing-Strategic-Technological-and-Economic-Aspects/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/countries/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/articles/mars-exploration-strategies-technologies/</loc><lastmod>2023-04-25T20:16:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>/</loc><lastmod>2023-04-25T20:16:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>/articles/</loc><lastmod>2023-04-25T20:16:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>/purposes/exploitation/</loc><lastmod>2023-04-25T20:16:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>/fields/</loc><lastmod>2023-04-25T20:16:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>/fields/programs/</loc><lastmod>2023-04-25T20:16:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>/purposes/</loc><lastmod>2023-04-25T20:16:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>/fields/strategies/</loc><lastmod>2023-04-25T20:16:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>/fields/technologies/</loc><lastmod>2023-04-25T20:16:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>/articles/space-weather-what-why-how/</loc><lastmod>2023-04-13T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>/actors/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/actors/business/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/objects/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/articles/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/objects/spacecraft/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/countries/usa/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/persons/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/purposes/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/countries/china/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/countries/europe/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/persons/government/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/countries/india/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/persons/military/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/purposes/services/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/objects/spacecrafts/</loc><lastmod>2023-02-07T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/purposes/research/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/countries/russia/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/persons/science/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/purposes/services/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/purposes/strategy/</loc><lastmod>2023-02-05T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/persons/corporate/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/purposes/exploitation/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/objects/rocket/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/articles/Space-Diplomacy/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/articles/balancing-competition-space-diplomacy/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/objects/launchers/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/actors/public-sector/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/articles/SpaceXs-Polaris-Dawn-The-Most-Ambitious-Private-Space-Mission-Ever/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/articles/The-Future-of-Space-Travel-Advancements-in-Propulsion-Technology/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/articles/The-Geopolitical-Chessboard-in-Space-Navigating-the-Implications/</loc><lastmod>2023-02-01T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/persons/investment/</loc><lastmod>2023-01-25T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/objects/space_station/</loc><lastmod>2023-01-25T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/objects/launch_base/</loc><lastmod>2023-01-20T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/articles/Spaceports-in-Space-Exploration/</loc><lastmod>2023-01-20T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/articles/Space-Debris-Threat-to-Our-Space-Environment/</loc><lastmod>2023-01-13T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/generics/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/articles/advancements-propulsion-technology/</loc><lastmod>2023-02-03T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/articles/geopolitical-chessboard-space-implications/</loc><lastmod>2023-02-01T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/articles/launching-into-future-importance-spaceports/</loc><lastmod>2023-01-20T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/objects/stations/</loc><lastmod>2023-01-20T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/articles/space-debris-threat-space-environment/</loc><lastmod>2023-01-13T12:13:31&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/pages/aboutus/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/pages/classes/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/pages/filter/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/offline/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/pages/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/pages/tagging/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/pages/site/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/pages/tool/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tools/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>/pages/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

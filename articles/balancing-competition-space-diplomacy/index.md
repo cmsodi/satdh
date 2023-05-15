@@ -3,16 +3,16 @@
 
 ## Introduction
 
-International initiatives to encourage cooperation and stability in the exploration and use of space are referred to as "space diplomacy (“Space Diplomacy - Wikipedia”) ". The space industry has evolved into a significant sector for both collaboration and competition as a result of increased globalization and technical breakthroughs. International agreements and initiatives provide the legal foundation and promote the peaceful use of space resources. However, striking a balance between the economic, security, and scientific interests in the space sector is a challenging endeavor that necessitates a thorough understanding of the sector and the forces that influence it. Space diplomacy is crucial to the future of the space industry and the assurance of a peaceful and prosperous future for all nations.
+International initiatives to encourage cooperation and stability in the exploration and use of space are referred to as "space diplomacy (“Space Diplomacy - Wikipedia”) ". The space industry has evolved into a significant sector for both collaboration and competition as a result of increased globalization and technical breakthroughs. International agreements and initiatives provide the legal foundation and promote the peaceful use of space resources. However, striking a balance between the economic, security and scientific interests in the space sector is a challenging endeavor that necessitates a thorough understanding of the sector and the forces that influence it. Space diplomacy is crucial to the future of the space industry and the assurance of a peaceful and prosperous future for all nations.
 
 ## Advancing technology and innovation
 
-Space diplomacy is a challenging area that changes quickly because of the fast pace of technological advancements and the growth of commercial activities in space. Advances in space technology bring new possibilities for exploration, business, and scientific study. However, these advancements also create new issues for international cooperation and diplomacy. One big challenge for space diplomacy today is the increase of commercial interest in the space sector.
+Space diplomacy is a challenging area that changes quickly because of the fast pace of technological advancements and the growth of commercial activities in space. Advances in space technology bring new possibilities for exploration, business and scientific study. However, these advancements also create new issues for international cooperation and diplomacy. One big challenge for space diplomacy today is the increase of commercial interest in the space sector.
 
 </br><figure>  <img src="Technonationalism-blog-featured-image.jpg" alt="." style="width:100%">  <figcaption> <small> New Capital Computer Plaza, Sham Shiu Po, Kowloon, Hong Kong 香港九龍深水埗元州街85-95號新高登 See-ming Lee 李思明, SML Universe CC-BY-SA 2012 See-ming Lee 李思明, SML Universe <a target=_blank  target="_blank" href=http://creativecommons.org/licenses/by-sa/3.0/>source link</a> </small> </figcaption></figure></br>
 
 
-Private companies are investing heavily in space technology and driving much of the innovation and growth in the industry. This has led to an increase in the number of countries and private companies participating in space activities, and a growing need for international cooperation and coordination.
+Private companies are investing heavily in space technology and driving much of the innovation and growth in the industry. This has led to an increase in the number of countries and private companies participating in space activities and a growing need for international cooperation and coordination.
 
 ### Challenge for space diplomacy
 
@@ -20,17 +20,17 @@ A great challenge facing space diplomacy is the rapid pace of technological adva
 
 In this context space diplomacy remains an important tool for addressing the challenges posed by rapidly advancing technology and growing commercial interests.
 
-Space diplomacy needs to change quickly and be ready for changes. It needs to understand the technology, the rules, and what's happening in the space field. It also needs to work well with other countries.
+Space diplomacy needs to change quickly and be ready for changes. It needs to understand the technology, the rules and what's happening in the space field. It also needs to work well with other countries.
 
 ## Growing space economy
 
 The space sector is becoming increasingly commercialized, with private companies entering the market and developing new technologies and services. Space technology drives economic growth through satellites and space-based systems.
 
-The multi-billion-dollar satellite industry provides advancements in materials science, computer science, and medicine. Transportation, agriculture, and environmental monitoring widely use space-based navigation and earth observation systems.
+The multi-billion-dollar satellite industry provides advancements in materials science, computer science and medicine. Transportation, agriculture and environmental monitoring widely use space-based navigation and earth observation systems.
 
 ![spacex](BIZ13_spacex_052218_news.jpg)
 
-The commercialization of space is creating new jobs, businesses, and markets, such as space tourism. 
+The commercialization of space is creating new jobs, businesses and markets, such as space tourism. 
 
 ### Competition and cooperation
 
@@ -52,7 +52,7 @@ In any case, when it comes to space diplomacy, we must remember that the role an
 
 ## Peaceful exploration and use of outer space
 
-International collaboration is essential for the peaceful exploration and utilization of space. Collaboration across nations enables the exchange of resources, information, and expertise, resulting in more successful and efficient space missions.
+International collaboration is essential for the peaceful exploration and utilization of space. Collaboration across nations enables the exchange of resources, information and expertise, resulting in more successful and efficient space missions.
 
 ![space-station](ISS_blueprint.png)
 
@@ -62,7 +62,7 @@ As the space industry grows and more countries and companies become involved, it
 
 ## International treaties on outer space
 
-International treaties play a crucial role in ensuring responsible behavior in outer space and protecting the interests of all nations. These treaties establish the legal framework for the exploration and use of outer space, and provide a framework for resolving disputes and ensuring the peaceful use of outer space.
+International treaties play a crucial role in ensuring responsible behavior in outer space and protecting the interests of all nations. These treaties establish the legal framework for the exploration and use of outer space and provide a framework for resolving disputes and ensuring the peaceful use of outer space.
 
 ### Outer Space Treaty
 
@@ -85,17 +85,17 @@ Other international agreements help to ensure responsible behavior in outer spac
 
 ### The Artemis Accords
 
-The Artemis Accords are a new effort to promote peace and the responsible use of resources in space. These agreements were signed in 2021 by the US and several other countries. The Accords are based on important concepts, including cooperation in space activities, protection of important space locations, and responsible resource use.
+The Artemis Accords are a new effort to promote peace and the responsible use of resources in space. These agreements were signed in 2021 by the US and several other countries. The Accords are based on important concepts, including cooperation in space activities, protection of important space locations and responsible resource use.
 
 However, the Artemis Accords have also been criticized by several countries, namely China and Russia, which have argued that the Accords are an attempt by the United States to dominate and control outer space. They have also criticized the Accords for not being legally binding and for not being inclusive.
 
 Additionally, some experts have raised concerns about the long-term implications of the Artemis Accords. Some have argued that the Accords could lead to an erosion of the principles established by existing international treaties, such as the Outer Space Treaty.
 
-## Balancing economic, security, and scientific interests is key to successful space diplomacy.
+## Balancing economic, security and scientific interests is key to successful space diplomacy.
 
-Successful space diplomacy depends on striking a balance between commercial, security, and scientific objectives. The sector includes many different activities and goals. It is complex and continuously evolving. It encompasses national security, scientific research, commercial development, and exploration. Balancing these interests is difficult because each of these domains has its own set of objectives, conditions, and difficulties.
+Successful space diplomacy depends on striking a balance between commercial, security and scientific objectives. The sector includes many different activities and goals. It is complex and continuously evolving. It encompasses national security, scientific research, commercial development and exploration. Balancing these interests is difficult because each of these domains has its own set of objectives, conditions and difficulties.
 
-- Economic interests in the space sector are growing rapidly, driven by the increasing demand for satellite-based services such as communication, navigation, and remote sensing, as well as the growing commercial space industry.
+- Economic interests in the space sector are growing rapidly, driven by the increasing demand for satellite-based services such as communication, navigation and remote sensing, as well as the growing commercial space industry.
 - Security in space is becoming a concern due to many countries and private companies having access to space capabilities. Space is sometimes used for military and intelligence purposes, which can cause tension and harm the space environment. So, it's important for countries to work together to make space safe and secure.
 - Space science helps us learn more about the universe, its beginning and life. Space research also brings scientists from all over the world together to learn about and understand the universe.
 
@@ -109,7 +109,7 @@ Successful space diplomacy depends on striking a balance between commercial, sec
 - It balances the competing interests of nations and promotes cooperation and stability.
 - International treaties and initiatives, such as the Artemis Accords, provide a legal framework and guidelines for the peaceful and sustainable use of space resources.
 - Space diplomacy must keep pace with rapidly advancing technology and growing commercial interests.
-- Balancing economic, security, and scientific interests is key to successful space diplomacy.
+- Balancing economic, security and scientific interests is key to successful space diplomacy.
 - It requires a deep understanding of unique needs and priorities of different stakeholders in the space sector.
 - Space diplomacy ensures that the exploration and use of outer space benefits all nations and contributes to a peaceful and prosperous future for humanity.
 
@@ -129,7 +129,7 @@ Successful space diplomacy depends on striking a balance between commercial, sec
 
 - “Artemis Accords - Wikipedia.” *Artemis Accords - Wikipedia*, 10 Dec. 2021, en.wikipedia.org/wiki/Artemis_Accords.
 
-- “The Role of Diplomacy in Keeping Outer Space Safe, Secure, and Sustainable.” *U.S. Department of State*, 14 Apr. 2016, //2009-2017.state.gov/t/avc/rls/255834.htm.
+- “The Role of Diplomacy in Keeping Outer Space Safe, Secure and Sustainable.” *U.S. Department of State*, 14 Apr. 2016, //2009-2017.state.gov/t/avc/rls/255834.htm.
 
 - *https://www.tandfonline.com/doi/abs/10.1080/1477-760391832516*. www.tandfonline.com/doi/abs/10.1080/1477-760391832516. Accessed 2 Feb. 2023.
 

@@ -1,7 +1,7 @@
-# navigator
+# filter
 
 ---
-title: "navigator"
+title: "filter"
 type: filters
 ---
 

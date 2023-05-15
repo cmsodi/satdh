@@ -17,7 +17,7 @@
 <meta name="apple-mobile-web-app-title" content="satdh"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="../../../favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="../../../apple-touch-icon.png"><link rel="mask-icon" href="../../../safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="../../../site.webmanifest"><link rel="canonical" href="../../../articles/" /><link rel="alternate" href="../../../articles/index.xml" type="application/rss+xml" title="satdh">
-    <link rel="feed" href="../../../articles/index.xml" type="application/rss+xml" title="satdh"><link rel="stylesheet" href="../../../css/page.min.css"><link rel="stylesheet" href="../../../css/home.min.css"></head><body data-header-desktop="auto" data-header-mobile="auto"><script>(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+    <link rel="feed" href="../../../articles/index.xml" type="application/rss+xml" title="satdh"><link rel="stylesheet" href="../../../css/page.min.css"><link rel="stylesheet" href="../../../css/home.min.css"></head><body data-header-desktop="fixed" data-header-mobile="fixed"><script>(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
 
         <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
     <div class="header-wrapper">
@@ -31,50 +31,226 @@
         alt="/nuovologo6.svg"
         title="/nuovologo6.svg" /></a>
         </div>
+<style>
 
-
-
-        
-        <div>
-            <div>
-                    
-                        
-                        <li class="parent"><a href="../../../pages/site/">the site</a>
-                        
-                    
-                        <li class="parent"><a href="../../../pages/tagging/">taxonomies</a>
-                        
-                            <ul class="child">
-                                
-                                <li><a href="../../../objects/">objects</a></li>
-                                
-                                <li><a href="../../../purposes/">purposes</a></li>
-                                
-                                <li><a href="../../../persons/">persons</a></li>
-                                
-                                <li><a href="../../../countries/">countries</a></li>
-                                
-                            </ul>
-                        
-                    
-                        <li class="parent"><a href="../../../articles/">chronology</a>
-                        
-                    
-                        <li class="parent"><a href="../../../filter/">navigator</a>
-                        
-                                           
-
-
+    
+    .navbar {
       
-                        </li><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
-                        <i class="fas fa-adjust fa-fw"></i>
-                    </a>
-            </div>
+      
+      
+      
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .navbar a {
+      
+      
+      
+      
+      
+    }
+    
+    .dropdown {
+      
+      
+      
+    }
+    
+    
+    .navbar a:hover, .dropdown:hover .dropbtn {
+        
+      }  
+
+      .dropbtn {
+        
+        font-size: .8rem;
+      }
+    
+    .dropdown-content {
+        font-size: .8rem;
+      display: none;
+      position: absolute;
+      background-color: #bebebe;
+      
+      width: 100%;
+      left: 0;
+      padding: 0 2rem 2rem 2rem;
+      line-height: 1.2rem;
+      
+      z-index: 1;
+    }
+    
+    .dropdown-content .header {
+        
+        
+        padding: 10px 10px 10px 10px;
+      margin: 20px 0 8px 0;
+      text-align: center;
+      
+    }
+    
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    
+     
+    .column {
+      float: right;
+      width: 25%;
+      padding: 10px 10px 10px 10px;
+      
+      [theme=dark] & {
+        background-color: $table-background-color-dark;
+      };
+      
+      line-height: 2rem;
+    }
+    
+    .column a {
+      float: none;
+      
+      
+      text-decoration: none;
+      display: block;
+      text-align: left;
+      line-height: 1.5rem;
+      font-weight: 400;
+    }
+    
+    .column a:hover {
+      background-color: #ddd;
+    }
+    
+     
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .row {
+        text-align: center;
+    }
+
+    .big{
+    font-size: 1.0rem;
+    font-weight: 900;
+    text-align: center;
+    }
+    
+     
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+        height: auto;
+      }
+    }
+    </style>
+    
+
+      <div class="dropdown">
+        <div class="dropbtn">articles 
+          <i class="fa fa-caret-down"></i>
         </div>
+        <div class="dropdown-content">
+          <div class="header">
+            <h3>The lower pane provides links to the classes and terms of the <a href="../../../pages/classes/">"Four Causes of Space Exploration"</a> classification system.</h3>
+          </div>   
+          <div class="row">
+            <div class="column">
+              <div class="big"><a href="../../../fields">fields</a></div>
+              <a href="../../../fields/strategies/">strategies</a>
+              <a href="../../../fields/technologies">technologies</a>
+              <a href="../../../fields/programs">programs</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../../../purposes">purposes</a></div>
+              <a href="../../../purposes/exploitation">exploitation</a>
+              <a href="../../../purposes/research">research</a>
+              <a href="../../../purposes/services">services</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../../../actors">actors</a></div>
+              <a href="../../../actors/business">business</a>
+              <a href="../../../actors/public-sector">public sector</a>
+              <a href="../../../actors/science">science</a>
+            </div>
+            <div class="column">
+                <div class="big"><a href="../../../objects">objects</a></div>
+              <a href="../../../objects/spacecrafts">spacecrafts</a>
+              <a href="../../../objects/launchers">launchers</a>
+              <a href="../../../objects/stations">stations</a>
+            </div>
+          </div>
+        </div>
+      </div> 
+
+    
+    <div>
 
 
 
+    
 
+    <li class="parent"><a href="../../../pages/filter/">filter</a>
+    
+    </li>
+
+    
+
+    <li class="parent"><a href="../../../pages/classes/">classes</a>
+    
+    </li>
+
+    
+
+    <li class="parent"><a href="../../../pages/aboutus/">about us</a>
+    
+    </li>
+
+    <span class="menu-item delimiter"></span><style>
+    .goog-te-gadget-simple {
+        background-color: rgba(255, 255, 255, 0);
+        border: none;
+        padding: 0;
+        cursor: pointer;
+      }
+      div#google_translate_element span {
+        vertical-align: middle;
+        display: none;
+
+    }
+    .google-translate-element{
+        margin-right: 10px;
+    }
+</style>
+
+<div class="parent" id="google_translate_element"></div>
+<script type="text/javascript">
+
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+          pageLanguage: 'en', 
+          includedLanguages: 'zh-CN,zh-TW,ru,es,fr,ar,de,it', 
+          layout: google.translate.TranslateElement.InlineLayout.SIMPLE, 
+          autoDisplay: false, 
+          multilanguagePage: false, 
+          showLanguageOption: true, 
+
+          gaTrack: true, 
+          gaId: '', 
+          gaContainerId: '', 
+        }, 'google_translate_element'); 
+      }
+
+
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+
+<a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a>
+        </div>
     </div>
 </header><header class="mobile" id="header-mobile">
     <div class="header-container">
@@ -93,30 +269,20 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="../../../pages/site/" title="">the site</a><a class="menu-item" href="../../../pages/tagging/" title="">taxonomies</a><a class="menu-item" href="../../../articles/" title="">chronology</a><a class="menu-item" href="../../../filter/" title="">📜navigator</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="../../../pages/filter/" title="">📜filter</a><a class="menu-item" href="../../../pages/classes/" title="">classes</a><a class="menu-item" href="../../../pages/aboutus/" title="">about us</a><div class="menu-item"><a href="javascript:void(0);" class="theme-switch" title="Switch Theme">
                     <i class="fas fa-adjust fa-fw"></i>
                 </a>
             </div></div>
     </div>
 </header><main class="main">
-                <div class="container"><div class="page archive"><h2 class="single-title animated fadeInDown faster">All articles</h2><h3 class="group-title">0001</h3><div class="timeline">
+                <div class="container"><div class="page archive"><h2 class="single-title animated fadeInDown faster">All articles</h2><h3 class="group-title">2023</h3><div class="timeline">
                     <div class="circle">
                         <div class="item">
-                            <a href="../../../articles/aaa-standby/gps-state-of-the-art/gps-systems-state-of-the-art/" class="item-link"></a>
+                            <a href="../../../articles/Overview-of-the-Space-Sector-Trends-and-Future-Directions/" class="item-link">Overview of the Space Sector: Trends and Future Directions</a>
                         </div>
                         <div class="item">
                             <span class="item-date">
-                                Published&nbsp;on&nbsp;01-01</span>
-                        </div>
-                    </div>
-                </div><div class="timeline">
-                    <div class="circle">
-                        <div class="item">
-                            <a href="../../../articles/aaa-standby/china-s-space-launchers/chinas-space-launchers/" class="item-link"></a>
-                        </div>
-                        <div class="item">
-                            <span class="item-date">
-                                Published&nbsp;on&nbsp;01-01</span>
+                                Published&nbsp;on&nbsp;23-05</span>
                         </div>
                     </div>
                 </div><ul class="pagination"><li class="page-item ">
@@ -156,6 +322,4 @@ if ('serviceWorker' in navigator) {
 
         <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
                 <i class="fas fa-chevron-up fa-fw"></i>
-            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
-                <i class="fas fa-comment-alt fa-fw"></i>
             </a></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"><script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script>window.config={"code":{"maxShownLines":10}};</script><script src="../../../js/theme.min.js"></script></body></html>
