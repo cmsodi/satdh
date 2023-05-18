@@ -4,7 +4,9 @@
 
 ## Introduction
 
-The Polaris Program is an upcoming series of commercial space missions conducted by civilian astronauts. It is a first-of-its-kind effort to further humanity's exploration of space and contribute to the advancement of Earthly endeavors. The program will undertake a series of intrepid missions aimed at resolving issues through the application of innovative technologies and methods. The Polaris Program is significant because it represents a significant advancement in human space exploration, particularly in the realm of private sector participation in space travel. Polaris Dawn, the first mission of the Polaris Program, is scheduled to launch no earlier than Q4 2022 from the historic Launch Complex 39 at NASA's Kennedy Space Center.
+> Embark on a historic journey with Polaris Dawn, a private space mission that aims to push the boundaries of human exploration by reaching the highest Earth orbit ever flown, while inspiring dreams and advancing scientific frontiers.
+
+The Polaris Program is an upcoming series of commercial space missions conducted by civilian astronauts. It is a first-of-its-kind effort to further humanity's exploration of space and contribute to the advancement of Earthly endeavors. The program will undertake a series of intrepid missions aimed at resolving issues through the application of innovative technologies and methods. The Polaris Program is significant because it represents a significant advancement in human space exploration, particularly in the realm of private sector participation in space travel. Polaris Dawn, the first mission of the Polaris Program, is scheduled to launch no earlier than summer 2023 from the historic Launch Complex 39 at NASA's Kennedy Space Center.
 
 ## Overview of the Polaris Dawn Mission
 

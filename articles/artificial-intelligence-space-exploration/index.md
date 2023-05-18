@@ -69,13 +69,9 @@ Artificial Intelligence has become an indispensable tool for space exploration, 
 
 ## A few insights
 
-
-
 - Chien, Steve, et al. "Autonomous space exploration with heterogeneous mobile robots." Journal of Field Robotics 34, no. 2 (2017): 229-254.
 - Zeng, Y., Gao, Y., & Hu, J. "Artificial intelligence for space exploration: A review." Acta Astronautica 164 (2019): 576-590.
 - Othman, Mohamed A., and Abdallah Shami. "Artificial intelligence-based space exploration: A review of the state-of-the-art techniques and challenges." IEEE Access 8 (2020): 201842-201869.
-
-
 - Norris, Patricia, and William Wagner. The Use of Artificial Intelligence in Space Exploration. Springer, 2019.
 - Johnson, Mark, and Yvonne Cheng. Artificial Intelligence and Space Exploration: Past, Present, and Future. CRC Press, 2021.
 - Manning, Robert, and Anil K. Misra. Space Robotics: Dynamics and Control. Springer, 2019.

@@ -120,11 +120,8 @@ The commercialization of space, the emergence of nanosatellites, advances in spa
 
 ## A few insights
 
-McElroy. (2022). The Space Industry of the Future Capitalism and Sustainability in Outer Space. Taylor  Francis, https://www.taylorfrancis.com/books/mono/10.4324/9781003268734/space-industry-future-mark-mcelroy-jr
-
-Space tourism | Companies, History, & Facts. (n.d.). Encyclopedia Britannica. Retrieved February 7, 2023, from https://www.britannica.com/topic/space-tourism
-
-What are SmallSats and CubeSats? (n.d.). NASA. Retrieved February 7, 2023, from http://www.nasa.gov/content/what-are-smallsats-and-cubesats
-
-The next frontier for planetary and human exploration. (n.d.). Retrieved February 7, 2023, from https://www.researchgate.net/publication/330367893_The_next_frontier_for_planetary_and_human_exploration
+- McElroy. (2022). The Space Industry of the Future Capitalism and Sustainability in Outer Space. Taylor  Francis, https://www.taylorfrancis.com/books/mono/10.4324/9781003268734/space-industry-future-mark-mcelroy-jr
+- Space tourism | Companies, History, & Facts. (n.d.). Encyclopedia Britannica. Retrieved February 7, 2023, from https://www.britannica.com/topic/space-tourism
+- What are SmallSats and CubeSats? (n.d.). NASA. Retrieved February 7, 2023, from http://www.nasa.gov/content/what-are-smallsats-and-cubesats
+- The next frontier for planetary and human exploration. (n.d.). Retrieved February 7, 2023, from https://www.researchgate.net/publication/330367893_The_next_frontier_for_planetary_and_human_exploration
 
