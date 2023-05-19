@@ -74,9 +74,14 @@
 &nbsp &nbsp
 
                     
-    
+<script type="text/javascript">
+  function toggleDropdown() {
+    var dropdownContent = document.querySelector('.dropdown-content');
+    dropdownContent.style.display = (dropdownContent.style.display === 'block') ? 'none' : 'block';
+  }
+</script> 
 
-<div class="dropdown">
+<div class="dropdown" onclick="toggleDropdown()">
   <div>articles 
     <i class="fa fa-caret-down"></i>
   </div>
@@ -267,9 +272,14 @@
             </div>
         </div>
         <div class="menu" id="menu-mobile">
-    
+<script type="text/javascript">
+  function toggleDropdown() {
+    var dropdownContent = document.querySelector('.dropdown-content');
+    dropdownContent.style.display = (dropdownContent.style.display === 'block') ? 'none' : 'block';
+  }
+</script> 
 
-<div class="dropdown">
+<div class="dropdown" onclick="toggleDropdown()">
   <div>articles 
     <i class="fa fa-caret-down"></i>
   </div>

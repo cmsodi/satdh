@@ -2,21 +2,45 @@
 
 
 
-### The SATDH site.
-Welcome to the satdh.com blog on space strategy, systems, and technologies! We are a group of space enthusiasts and experts who are interested in learning about the most recent advancements in this field. Our blog is dedicated to providing valuable insights, updates, and information about space strategy, systems, and technologies.
-You'll find a wide range of topics covered here, from the most recent space missions and innovations to in-depth analyses of current and future space industry trends.
+{{< tabs id="this-id-must-be-unique-per-page" >}}
 
-**On an experimental level, the translation of the site using Google's automatic system is proposed.**
+<!-- ************************************* -->
+{{< tab name="Purposes" >}}
+Share the core values and vision that drive your website. Discuss the principles, beliefs, or philosophies that guide your work. This allows visitors to understand the underlying motivations and perspectives that shape your content or offerings.
+{{< /tab >}}
+<!-- ************************************* -->
 
-### Classification System
+<!-- ************************************* -->
+{{< tab name="FAQ" >}}
+A FAQ page, short for Frequently Asked Questions, is a space where important information about a business is shared to clarify questions and uncertainties on the part of shoppers. FAQ pages serve a utilitarian purpose first and foremost, grouping information about the site, shipping and other concerns together in a single, searchable document.
+{{< /tab >}}
+<!-- ************************************* -->
 
-When it comes to finding the information you need, we understand the importance of organization and accessibility. That is why we have implemented a [classification system](/pages/classes) to help you find what you are looking for. Each post is tagged with relevant keywords, making it easy to find and search for posts on specific topics.
+<!-- ************************************* -->
+{{< tab name="Founder" >}}
+Section that focuses on presenting a more detailed and comprehensive overview of the website's owner. It typically includes biographical information, professional background, achievements, and possibly a personal narrative that highlights the unique aspects or expertise of the person or entity behind the website.
+{{< /tab >}}
+<!-- ************************************* -->
 
-### Graphs and Visuals
+<!-- ************************************* -->
+{{< tab name="Team" >}}
+Introduce the team behind the website. Provide brief biographies or profiles, including their roles, backgrounds, and expertise. This personalizes the website and helps visitors connect with the people driving its content or services.
+{{< /tab >}}
+<!-- ************************************* -->
 
-In addition to written content, we include graphs and visuals to help illustrate and explain data, ideas, and concepts. Our blog includes both self-created graphs and those sourced from reliable web sources. We believe that these visuals supplement our written content and improve your understanding of the subject matter.
+<!-- ************************************* -->
+{{< tab name="Contacts" >}}
+The page contains one or more of the following items:
 
-### Final Thoughts
+- an e-mail address
+- a telephone number
+- a postal address, sometimes accompanied with a map showing the location
+- links to social media
+- a contact form for a text message or inquiry
+{{< /tab >}}
+<!-- ************************************* -->
 
-We hope that you will find our blog informative and engaging. If you have any questions or feedback, please feel free to reach out to us via our telegram account. Thank you for visiting our blog on space strategy, systems, and technologies, and we look forward to sharing our passion for space with you!
+{{< /tabs >}}
+
+
 
