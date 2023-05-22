@@ -47,13 +47,19 @@ This has resulted in increased competition in the satellite internet industry, a
 
 ### Improved Quality of Service
 
-<img class="featured-image" src="pic.jpg" style="width: 50%; height:100%; float: left; padding-right:1rem; object-fit:cover; object-position:55% 50%;" alt="alt text">
+<img  src="Starlink_Mission.webp" style="width: 50%; height:100%; float: left; padding-right:1rem; object-fit:cover; object-position:55% 50%;" alt="alt text">
+
 Starlink has made improvements to the quality of service for all aspects of a connection, including response time, loss, signal-to-noise ratio, crosstalk, echo, interrupts, frequency response, loudness levels and more.  
 These improvements are due to the use of low-latency satellites, which are placed in low-Earth orbit. This allows for faster speeds and more reliable connections.  Additionally, Starlink has implemented a number of technologies to reduce latency, such as beam forming and adaptive routing. This ensures that users get the best possible connection, no matter where they are located.
 
+
+
 ### New Opportunities for Innovation
 
+
 Starlink has created new ways to innovate in a variety of technologies. For example, they have developed new materials that are lighter and more durable than traditional materials, which allows for more efficient satellite launches and improved performance in space.  They have also developed new telecommunications protocols and techniques that allow for faster and more reliable data transmission between satellites and ground stations.  Finally, they have developed new electronic designs that are more efficient and cost-effective, which allows for more efficient satellite launches and improved performance in space.
+
+
 
 ## Conclusion
 

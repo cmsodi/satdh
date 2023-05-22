@@ -62,7 +62,7 @@ Establishing a presence on our natural satellite is viewed by some nations as a 
 
 ## Military Aspects for moon Programs
 
-</br><figure>  <img src="1280px-Buckley_AFB.png" alt="." style="width:100%">  <figcaption> <small> Buckley AFB RekonDog (talk)  <a target=_blank  target="_blank" href=https://commons.wikimedia.org/wiki/File:Buckley_AFB.png>source link</a> </small> </figcaption></figure></br>
+</br><figure>  <img src="1280px-Buckley_AFB.webp" alt="." style="width:100%">  <figcaption> <small> Buckley AFB RekonDog (talk)  <a target=_blank  target="_blank" href=https://commons.wikimedia.org/wiki/File:Buckley_AFB.png>source link</a> </small> </figcaption></figure></br>
 
 Space has become an arena of competition for both prestige and military purposes, with the lunar programs signalling that space will be a key aspect for both advanced technical expertise and military capabilities. 
 

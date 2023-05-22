@@ -30,11 +30,12 @@ Another factor to consider is sustainability. Space exploration has the potentia
 ## Astropolitik, i.e., Space Geopolitics 
 
 
-</br><figure>  <img src="felix-mittermeier-nAjil1z3eLk-unsplash.jpg" alt="." style="width:100%">  <figcaption> <small> felix-mittermeier-nAjil1z3eLk-unsplash.jpg  chesss - Photo by <a target=_blank  href="https://unsplash.com/@felix_mittermeier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Felix Mittermeier</a> on <a target=_blank  href="https://unsplash.com/s/photos/strategy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>. -  - <a target=_blank  target="_blank" href=></a> </small> </figcaption></figure></br>
+</br><figure>  <img src="felix-mittermeier-nAjil1z3eLk-unsplash.webp" alt="." style="width:100%">  <figcaption> <small> felix-mittermeier-nAjil1z3eLk-unsplash.jpg  chesss - Photo by <a target=_blank  href="https://unsplash.com/@felix_mittermeier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Felix Mittermeier</a> on <a target=_blank  href="https://unsplash.com/s/photos/strategy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>. -  - <a target=_blank  target="_blank" href=></a> </small> </figcaption></figure></br>
 
 "Astropolitik: Classical Geopolitics in the Space Age" is a book written by Everett C. Dolman that explores the political implications of space exploration and development. Space exploration is not just a scientific or technological endeavor but is also inherently political. The book advocates for the US to be the leader in exploring and using space resources and advantages with cooperation and political unity among other states.
 
-Despite some <a href="https://www.researchgate.net/publication/362301900_A_Critical_Analytical_Essay_on_the_Book_Astropolitik_Classical_Geopolitics_in_the_Space_Age_Written_by_Everett_C_Dolman" target="_blank">criticisms regarding contradictions and ambiguities</a> in its arguments, the book remains a landmark in the geopolitical analysis of space.
+Despite some [criticisms regarding contradictions and ambiguities](https://www.researchgate.net/publication/362301900_A_Critical_Analytical_Essay_on_the_Book_Astropolitik_Classical_Geopolitics_in_the_Space_Age_Written_by_Everett_C_Dolman) in its arguments, the book remains a landmark in the geopolitical analysis of space.
+
 
 
 
@@ -44,7 +45,7 @@ As space exploration becomes increasingly important, it is necessary to understa
 
 According to "Thucydides Trap"  theory, when a new power confronts an established one, a conflict may result from the ensuing power struggle. This theory is relevant to space exploration since countries such as China are heavily investing in their space programs and challenging the long-established US-Russian space dominance. As these countries gain more capabilities and their interests in space expand, the risk of a power struggle and conflict increases. To avoid this trap, countries must develop a cooperative framework for space exploration that promotes mutual understanding and collaboration.
 
-</br><figure>  <img src="Thucydides_Mosaic_from_Jerash,_Jordan,_Roman,_3rd_century_CE_at_the_Pergamon_Museum_in_Berlin.jpg" alt="." style="width:100%">  <figcaption> <small> Thucydides_Mosaic_from_Jerash,_Jordan,_Roman,_3rd_century_CE_at_the_Pergamon_Museum_in_Berlin.jpg Thucydides Mosaic from Jerash, Jordan, Roman, 3rd century CE at the Pergamon Museum in Berlin -  -  - <a target=_blank  target="_blank" href=https://commons.wikimedia.org/wiki/File:Pergamon_Museum_Berlin_2007071.jpg>https://commons.wikimedia.org/wiki/File:Pergamon_Museum_Berlin_2007071.jpg</a> </small> </figcaption></figure></br>
+</br><figure>  <img src="Thucydides_Mosaic_from_Jerash,_Jordan,_Roman,_3rd_century_CE_at_the_Pergamon_Museum_in_Berlin.webp" alt="." style="width:100%">  <figcaption> <small> Thucydides_Mosaic_from_Jerash,_Jordan,_Roman,_3rd_century_CE_at_the_Pergamon_Museum_in_Berlin.jpg Thucydides Mosaic from Jerash, Jordan, Roman, 3rd century CE at the Pergamon Museum in Berlin -  -  - <a target=_blank  target="_blank" href=https://commons.wikimedia.org/wiki/File:Pergamon_Museum_Berlin_2007071.jpg>https://commons.wikimedia.org/wiki/File:Pergamon_Museum_Berlin_2007071.jpg</a> </small> </figcaption></figure></br>
 
 ### Great Power Competition
 
@@ -60,7 +61,7 @@ Despite these risks, space exploration provides unique opportunities for interna
 
 The history of space exploration is inextricably linked to the Cold War and the Space Race between the US and the Soviet Union. The two superpowers developed their space programs and competed for milestones such as the first human in space, the first satellite, and the first moon landing in order to gain technological supremacy and military advantage. While this competition has largely driven rapid technological advancements, it has also increased the risk of conflict and contributed to an arms race, putting global security at risk.
 
-</br><figure>  <img src="spacerace.jpg" alt="." style="width:100%">  <figcaption> <small> spacerace.jpg satdh.com processing from NASA sources -  -  - <a target=_blank  target="_blank" href=></a> </small> </figcaption></figure></br>
+</br><figure>  <img src="spacerace.webp" alt="." style="width:100%">  <figcaption> <small> spacerace.jpg satdh.com processing from NASA sources -  -  - <a target=_blank  target="_blank" href=></a> </small> </figcaption></figure></br>
 
 ### The potential for new players in space exploration
 

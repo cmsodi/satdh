@@ -71,7 +71,7 @@ Active removal uses retrieval missions and deorbiting techniques to take big spa
 
 Improving shielding and tracking is crucial to minimize the gap between the two approaches. NASA has been looking into various methods of junk removal, including using a dual-wall system to protect space systems. This involves one outer wall breaking up the projectile while many smaller fragments at lower speeds protect the inner wall. Passive measures focus on future junk reduction by designing satellites that can re-enter Earth's atmosphere at the end of their mission and collisions avoidance strategies can be employed.
 
-</br><figure>  <img src="1280px-Space_Debris_Sensor_(SDS)_logo.svg.png" alt="." style="width:100%">  <figcaption> <small> Space Debris Sensor</small> </figcaption></figure></br>
+</br><figure>  <img src="1280px-Space_Debris_Sensor_(SDS)_logo.webp" alt="." style="width:100%">  <figcaption> <small> Space Debris Sensor</small> </figcaption></figure></br>
 
 
 ### Regulations and guidelines for satellite manufacturing and launch

@@ -9,7 +9,7 @@ International initiatives to encourage cooperation and stability in the explorat
 
 Space diplomacy is a challenging area that changes quickly because of the fast pace of technological advancements and the growth of commercial activities in space. Advances in space technology bring new possibilities for exploration, business and scientific study. However, these advancements also create new issues for international cooperation and diplomacy. One big challenge for space diplomacy today is the increase of commercial interest in the space sector.
 
-</br><figure>  <img src="Technonationalism-blog-featured-image.jpg" alt="." style="width:100%">  <figcaption> <small> New Capital Computer Plaza, Sham Shiu Po, Kowloon, Hong Kong 香港九龍深水埗元州街85-95號新高登 See-ming Lee 李思明, SML Universe CC-BY-SA 2012 See-ming Lee 李思明, SML Universe <a target=_blank  target="_blank" href=http://creativecommons.org/licenses/by-sa/3.0/>source link</a> </small> </figcaption></figure></br>
+</br><figure>  <img src="Technonationalism-blog-featured-image.webp" alt="." style="width:100%">  <figcaption> <small> New Capital Computer Plaza, Sham Shiu Po, Kowloon, Hong Kong 香港九龍深水埗元州街85-95號新高登 See-ming Lee 李思明, SML Universe CC-BY-SA 2012 See-ming Lee 李思明, SML Universe <a target=_blank  target="_blank" href=http://creativecommons.org/licenses/by-sa/3.0/>source link</a> </small> </figcaption></figure></br>
 
 
 Private companies are investing heavily in space technology and driving much of the innovation and growth in the industry. This has led to an increase in the number of countries and private companies participating in space activities and a growing need for international cooperation and coordination.
@@ -28,7 +28,7 @@ The space sector is becoming increasingly commercialized, with private companies
 
 The multi-billion-dollar satellite industry provides advancements in materials science, computer science and medicine. Transportation, agriculture and environmental monitoring widely use space-based navigation and earth observation systems.
 
-![spacex](BIZ13_spacex_052218_news.jpg)
+![spacex](BIZ13_spacex_052218_news.webp)
 
 The commercialization of space is creating new jobs, businesses and markets, such as space tourism. 
 
@@ -54,7 +54,7 @@ In any case, when it comes to space diplomacy, we must remember that the role an
 
 International collaboration is essential for the peaceful exploration and utilization of space. Collaboration across nations enables the exchange of resources, information and expertise, resulting in more successful and efficient space missions.
 
-![space-station](ISS_blueprint.png)
+![space-station](ISS_blueprint.webp)
 
 The International Space Station (“International Space Station”) (ISS) is a project that is a significant example of how many countries work together. Five space organizations from 15 countries, including NASA and Roscosmos, built the ISS. It's a place where scientists from different countries can work together and test new technologies for space missions.
 
@@ -74,7 +74,7 @@ Another important treaty is the Liability Convention of 1972, which identifies r
 
 This treaty helps to ensure that nations are held accountable for their actions in outer space and helps to minimize the risk of conflicts and tensions between nations.
 
-![flags](arctic-council-flags-2.jpg)
+![flags](arctic-council-flags-2.webp)
 
 ### Other international agreements
 
@@ -103,7 +103,7 @@ Successful space diplomacy depends on striking a balance between commercial, sec
 
 ## Conclusions
 
-![video](maxresdefault.jpg)
+![video](maxresdefault.webp)
 
 - Space diplomacy plays a crucial role in shaping the future of the space sector.
 - It balances the competing interests of nations and promotes cooperation and stability.
@@ -115,13 +115,13 @@ Successful space diplomacy depends on striking a balance between commercial, sec
 
 ## A few insights
 
-- “Space Diplomacy - Wikipedia.” *Space Diplomacy - Wikipedia*, 21 Apr. 2021, en.wikipedia.org/wiki/Space_diplomacy.
-- “International Space Station.” *NASA*, www.nasa.gov/mission_pages/station/main/index.html. Accessed 2 Feb. 2023.
-- robert.wickramatunga. “The Outer Space Treaty.” *The Outer Space Treaty*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html.
-- robert.wickramatunga. “Liability Convention.” *Liability Convention*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/liability-convention.html.
-- robert.wickramatunga. “Rescue Agreement.” *Rescue Agreement*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html.
-- robert.wickramatunga. “Registration Convention.” *Registration Convention*, 31 Jan. 2023, www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introregistration-convention.html.
-- “Artemis Accords - Wikipedia.” *Artemis Accords - Wikipedia*, 10 Dec. 2021, en.wikipedia.org/wiki/Artemis_Accords.
-- “The Role of Diplomacy in Keeping Outer Space Safe, Secure and Sustainable.” *U.S. Department of State*, 14 Apr. 2016, //2009-2017.state.gov/t/avc/rls/255834.htm.
-- *https://www.tandfonline.com/doi/abs/10.1080/1477-760391832516*. www.tandfonline.com/doi/abs/10.1080/1477-760391832516. Accessed 2 Feb. 2023.
+- [“Space Diplomacy - Wikipedia.”, Accessed  21 Apr. 2021](http://www.wikipedia.org/wiki/Space_diplomacy).
+- [“International Space Station.” NASA, Accessed 2 Feb. 2023](http://www.nasa.gov/mission_pages/station/main/index.html). .
+- [“The Outer Space Treaty.”, 31 Jan. 2023](http://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html).
+- [“Liability Convention.”, 31 Jan. 2023](http://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/liability-convention.html).
+- [“Rescue Agreement.”, 31 Jan. 2023](http://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html).
+- [“Registration Convention.”, 31 Jan. 2023](http://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introregistration-convention.html).
+- [“Artemis Accords - Wikipedia.”, 10 Dec. 2021](http://www.wikipedia.org/wiki/Artemis_Accords).
+- [“The Role of Diplomacy in Keeping Outer Space Safe, Secure and Sustainable.”, U.S. Department of State, 14 Apr. 2016](https://2009-2017.state.gov/t/avc/rls/255834.htm).
+- [Space and Diplomacy: A New Tool for Leverage, Accessed 2 Feb. 2023](http://www.tandfonline.com/doi/abs/10.1080/1477-760391832516)
 

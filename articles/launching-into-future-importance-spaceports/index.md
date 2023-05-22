@@ -33,7 +33,7 @@ They are also classified based on their geographical location, such as equatoria
 
 
 
-</br><figure>  <img src="Spaceports_on_Earth.svg.png" alt="." style="width:100%">  <figcaption> <small> Map of the world showing spaceports on Earth. Data based on a table in de:Weltraumbahnhof as of 2013-12-29 version. Christallkeks  <a target=_blank  target="_blank" href=https://commons.wikimedia.org/wiki/File:Spaceports_on_Earth.svg>source link</a> </small> </figcaption></figure></br>
+</br><figure>  <img src="Spaceports_on_Earth.webp" alt="." style="width:100%">  <figcaption> <small> Map of the world showing spaceports on Earth. Data based on a table in de:Weltraumbahnhof as of 2013-12-29 version. Christallkeks  <a target=_blank  href=https://commons.wikimedia.org/wiki/File:Spaceports_on_Earth.svg>source link</a> </small> </figcaption></figure></br>
 
 
 

@@ -17,7 +17,7 @@ Here are some ways that AI can be used in space exploration:
 
 ## Enhancing Space Mission Efficiency
 
-</br><figure>  <img src="ISS-57_Alexander_Gerst_with_CIMON_in_the_Columbus_lab.jpg" alt="." style="width:100%">  <figcaption> <small> ESA astronaut Alexander Gerst with CIMON, an artificial intelligence helper aboard the station. -  -  - <a target=_blank  target="_blank" href=https://www.nasa.gov/mission_pages/station/research/news/SSSH_12nov18>https://www.nasa.gov/mission_pages/station/research/news/SSSH_12nov18</a> </small> </figcaption></figure></br>
+</br><figure>  <img src="ISS-57_Alexander_Gerst_with_CIMON_in_the_Columbus_lab.webp" alt="." style="width:100%">  <figcaption> <small> ESA astronaut Alexander Gerst with CIMON, an artificial intelligence helper aboard the station. -  -  - <a target=_blank  target="_blank" href=https://www.nasa.gov/mission_pages/station/research/news/SSSH_12nov18>https://www.nasa.gov/mission_pages/station/research/news/SSSH_12nov18</a> </small> </figcaption></figure></br>
 
 
 The following are examples of how artificial intelligence can be used to improve the efficiency of space missions:

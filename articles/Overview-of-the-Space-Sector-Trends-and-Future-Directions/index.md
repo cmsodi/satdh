@@ -67,8 +67,6 @@ Given their numerous benefits, it is not surprising that small satellites are ga
 
 The moon has recently been identified as an essential exploration target, with several nations and private companies announcing plans to construct a lunar facility that will serve as a stepping stone for deeper space missions. The moon's potential to provide valuable resources and data for future missions has made it an important target for space exploration. Moreover, the establishment of a lunar base could provide a platform for conducting scientific experiments and developing new technologies, as well as a potential launch site for future missions to other planets or asteroids.
 
-</br><figure>  <img src="Mooncolony.jpg" alt="." style="width:100%">  <figcaption> <small>     </small> </figcaption></figure></br>
-
 
 ### The Next Frontier for Human Exploration: Mars
 

@@ -8,6 +8,9 @@
 
 The proposed "Four Causes of Space Exploration" classification system draws inspiration from Aristotle's four causes and organizes space-related topics into four main classes: **Objects, Purposes, Actors, and Fields**.
 
+Each class includes three terms, defined below.
+Depending on its contents, more than one term may be associated with each article.
+
 Note that this classification system is not intended to be an exhaustive or definitive framework. It serves as a tool to organize and categorize the articles of this site, offering a structured approach for comprehending the various aspects of space exploration.
 
 ---

@@ -6,13 +6,7 @@ Remote sensing refers to the process of acquiring information about an object or
 
 The purpose of this article is to provide a comprehensive overview of satellite remote sensing, focusing on its strategic, technological, and economic aspects. We will explore how remote sensing works, the different types of remote sensing, and the benefits it provides. Additionally, we will delve into its applications in various industries and fields, including military, space science, and the construction of smart cities.
 
-</br><figure>  <img src="e276e520b1f511ed94beeb7bf6af9084.map.svg" alt="." style="width:100%">  <figcaption>  </figcaption></figure></br>
-
-
-
-
-The above diagram is merely a schematic representation of the major aspects of remote sensing. This article will discuss a few them. However, it will also cover the future development trends of satellite remote sensing technology and the incorporation of remote sensing data into a variety of industries and fields. Finally, we will soon examine the significance of the high-resolution Earth observation satellite system in various nations.
-
+This article will discuss a few of the major aspects of remote sensing. However, it will also cover the future development trends of satellite remote sensing technology and the incorporation of remote sensing data into a variety of industries and fields. Finally, we will soon examine the significance of the high-resolution Earth observation satellite system in various nations.
 
 
 ### Passive and Active remote sensing
@@ -23,7 +17,7 @@ There are two main types of remote sensing: passive remote sensing and active re
 >- **Active Remote Sensing:** Active remote sensing involves the emission of energy from the sensor towards the Earth's surface, and the detection of the reflected energy. Active remote sensing can provide higher resolution data compared to passive remote sensing, as the energy can be focused and directed towards specific areas. Examples of active remote sensing include radar and lidar systems.
 
 
-</br><figure>  <img src="sensors.png" alt="." style="width:100%">  <figcaption> <small> Credit: NASA Applied Remote Sensing Training Program></a> </small> </figcaption></figure></br>
+</br><figure>  <img src="sensors.webp" alt="." style="width:100%">  <figcaption> <small> Credit: NASA Applied Remote Sensing Training Program></a> </small> </figcaption></figure></br>
 
 
 
@@ -41,7 +35,7 @@ Are some of the most common remote sensing sensors used for Earth observation fr
 
 These are just a few of the many remote sensing sensors that are used for Earth observation from space. The type of sensor that is best suited for a particular application will depend on the specific needs of the user.
 
-</br><figure>  <img src="Juice’s_science_instruments_ESA24640659.png" alt="." style="width:100%">  <figcaption> <small> ESA’s Jupiter Icy Moons Explorer (Juice) will carry the most powerful remote sensing, geophysical, and in situ payload complement ever flown to the outer Solar System. It includes 10 dedicated scientific instruments, a radiation monitor (RADEM) and the Planetary Radio Interferometer & Doppler Experiment (PRIDE). European Space Agency  <a target=_blank  target="_blank" href=https://www.esa.int/ESA_Multimedia/Images/2022/12/Juice_s_science_instruments>source link</a> </small> </figcaption></figure></br>
+</br><figure>  <img src="Juice’s_science_instruments_ESA24640659.webp" alt="." style="width:100%">  <figcaption> <small> ESA’s Jupiter Icy Moons Explorer (Juice) will carry the most powerful remote sensing, geophysical, and in situ payload complement ever flown to the outer Solar System. It includes 10 dedicated scientific instruments, a radiation monitor (RADEM) and the Planetary Radio Interferometer & Doppler Experiment (PRIDE). European Space Agency  <a target=_blank  target="_blank" href=https://www.esa.int/ESA_Multimedia/Images/2022/12/Juice_s_science_instruments>source link</a> </small> </figcaption></figure></br>
 
 ## Remote Sensing Equipments
 
@@ -52,7 +46,7 @@ There are many different equipments used in remote sensing, each with its own se
 > - **Ground-based remote sensing systems** are typically used for monitoring and measuring environmental variables, such as temperature, humidity, and atmospheric pressure. These systems are often smaller and less complex than satellite and airborne systems, but they can be more easily deployed in remote and challenging environments.
 >
 
-</br><figure>  <img src="Remote_sensing_of_coastal_and_marine_environment.webp.png" alt="." style="width:100%">  <figcaption> <small> Remote sensing of coastal and marine environment <a target=_blank  target="_blank" href=https://doi.org/10.3390%2Frs12142313>https://doi.org/10.3390%2Frs12142313</a> </small> </figcaption></figure></br>
+</br><figure>  <img src="Remote_sensing_of_coastal_and_marine_environment.webp" alt="." style="width:100%">  <figcaption> <small> Remote sensing of coastal and marine environment <a target=_blank  target="_blank" href=https://doi.org/10.3390%2Frs12142313>https://doi.org/10.3390%2Frs12142313</a> </small> </figcaption></figure></br>
 
 Ultimately, the choice of remote sensing tool will depend on a variety of factors, including the specific needs of the project, the type of data being collected, and the budget and resources available.
 
@@ -75,7 +69,7 @@ A short and simple summary can be helpful.
 
 ### Space Science
 
-</br><figure>  <img src="A-train_2009.jpeg" alt="." style="width:100%">  <figcaption> <small> The satellites comprising the A-train (satellite constellation) after the 2009 launches. -  -  - <a target=_blank  target="_blank" href=http://glory.gsfc.nasa.gov/images/a-train.jpg>http://glory.gsfc.nasa.gov/images/a-train.jpg</a> </small> </figcaption></figure></br>
+</br><figure>  <img src="A-train_2009.webp" alt="." style="width:100%">  <figcaption> <small> The satellites comprising the A-train (satellite constellation) after the 2009 launches. -  -  - <a target=_blank  target="_blank" href=http://glory.gsfc.nasa.gov/images/a-train.jpg>http://glory.gsfc.nasa.gov/images/a-train.jpg</a> </small> </figcaption></figure></br>
 
 
 Remote sensing in space science refers to the use of satellite technology to collect and analyze data about the Earth and other celestial objects. This technology is used to gather information about the environment, including the land, ocean, and atmosphere, as well as other celestial bodies. Remote sensing in space science has revolutionized the way we study the Earth and the universe, providing a unique perspective that would be otherwise impossible to obtain.
@@ -84,7 +78,7 @@ Remote sensing in space science is used in a variety of applications, including 
 
 ### Military Applications
 
-</br><figure>  <img src="an-artists-concept-of-a-space-laser-satellite-defense-system-e8bf2a-1600.jpg" alt="." style="width:100%">  <figcaption> <small> An artist's concept of a Space Laser Satellite Defense System. - source unknown -  </small> </figcaption></figure></br>
+</br><figure>  <img src="an-artists-concept-of-a-space-laser-satellite-defense-system-e8bf2a-1600.webp" alt="." style="width:100%">  <figcaption> <small> An artist's concept of a Space Laser Satellite Defense System. - source unknown -  </small> </figcaption></figure></br>
 
 
 Remote sensing technology plays an important role in military operations and defense. With the ability to gather data from the air or space, remote sensing provides the military with valuable information for a variety of purposes, including reconnaissance, surveillance, target acquisition, and situational awareness.
@@ -96,7 +90,7 @@ In military operations, remote sensing can be used to gather intelligence on ene
 
 Remote sensing has been increasingly integrated into various industries and fields, playing a crucial role in improving and advancing society. The use of satellite remote sensing in the construction of smart cities allows for efficient and effective planning and management, providing valuable information on urban growth, transportation, and resource distribution. The high quality and diverse remote sensing data also plays a vital role in national census and environmental improvement, allowing for comprehensive analysis and understanding of the planet and its resources. The "Internet + remote sensing" concept enhances the remote sensing industry by incorporating technology and big data analytics, making the data even more accessible and useful. Internet companies have also played a significant role in promoting the development of satellite remote sensing services, making the technology more widely available and utilized in various fields and industries.
 
-</br><figure>  <img src="Katrina_Before_&_After_Bay_St._Louis,_Mississippi_(20661669296).jpg" alt="." style="width:100%">  <figcaption> <small> Katrina Before & After Bay St. Louis, Mississippi<a target=_blank  target="_blank" href=https://www.flickr.com/photos/noaaimages/20661669296/>https://www.flickr.com/photos/noaaimages/20661669296/</a> </small> </figcaption></figure></br>
+</br><figure>  <img src="Katrina_Before_&_After_Bay_St._Louis,_Mississippi_(20661669296).webp" alt="." style="width:100%">  <figcaption> <small> Katrina Before & After Bay St. Louis, Mississippi<a target=_blank  target="_blank" href=https://www.flickr.com/photos/noaaimages/20661669296/>https://www.flickr.com/photos/noaaimages/20661669296/</a> </small> </figcaption></figure></br>
 
 The information collected by remote sensing is used to create images or maps that provide detailed information about various phenomena, such as:
 

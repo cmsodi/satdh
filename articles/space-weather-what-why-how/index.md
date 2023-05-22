@@ -19,7 +19,7 @@ Space weather is a natural phenomenon that can have significant impacts on Earth
 
 ## How does space weather impact our planet and our society?
 
-![space weather impacts](space_weather_impact.jpg)
+![space weather impacts](space_weather_impact.webp)
 
 > Space weather can have negative effects on our planet and our society ([Space weather effects on technologies](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/GM125p0011)). Some of the most common impacts are:
 - **Geomagnetic storms**: Geomagnetic storms are disturbances in the Earth's magnetic field caused by the arrival of CMEs or high-speed solar wind streams. These storms can induce electric currents in power grids, pipelines, railways, and other infrastructure, causing damage or disruption. The induced currents can also overload transformers and other equipment, leading to blackouts and other power outages. In addition, geomagnetic storms can affect navigation systems such as GPS and compasses by causing errors in the positioning and timing signals.
@@ -50,7 +50,7 @@ Space weather is a natural phenomenon that can have significant impacts on Earth
 - **Preparedness**: Being prepared for space weather events involves developing and implementing plans and procedures that can help us respond to and recover from these events. This includes issuing alerts and warnings to relevant stakeholders, coordinating emergency actions, and restoring normal operations as soon as possible. For example, power grid operators can take proactive measures such as reducing the load on the grid during a geomagnetic storm, while astronauts on the International Space Station can shelter in designated safe areas to minimize their exposure to radiation.
 - **Research and Development**: Continued research and development in space weather prediction and forecasting is critical to improving our ability to mitigate the risks of space weather. This includes developing more accurate models of space weather phenomena, improving our understanding of the Sun-Earth system, and developing new technologies and approaches to protect our systems and infrastructure. 
 
-![power grid](powergrid.jpeg)
+![power grid](powergrid.webp)
 
 ## Who are the main authorities and entities that deal with space weather?
 
